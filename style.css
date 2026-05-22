@@ -1,0 +1,168 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  overflow: hidden;
+}
+
+/* ---------- NAVBAR ---------- */
+
+.navbar {
+  flex-shrink: 0;
+}
+
+/* ---------- MAIN CONTENT ---------- */
+
+.container {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    overflow: hidden;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+/* ---------- CAROUSEL ---------- */
+
+.carousel {
+  flex-shrink: 1;
+  min-height: 0;
+}
+
+.carousel-img {
+  width: 100%;
+
+  /* Responsive height */
+  height: min(40vh, 400px);
+
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+/* ---------- FORM AREA ---------- */
+
+.d-flex.flex-column {
+  flex-shrink: 1;
+}
+
+/* ---------- BUTTONS ---------- */
+
+.btn-lg {
+  padding: 0.4rem 1rem;
+  font-size: 1rem;
+}
+
+/* ---------- PROGRESS BAR ---------- */
+
+.progress {
+  height: 28px !important;
+}
+
+/* ---------- TEXT ---------- */
+
+.fs-2 {
+  font-size: clamp(1.2rem, 2vw, 2rem) !important;
+}
+
+/* ---------- SELECT ---------- */
+
+.form-select:focus {
+  border-color: #ced4da;
+  box-shadow: none;
+}
+
+#label_select {
+  overflow: hidden;
+  cursor: pointer;
+}
+
+#label_select option {
+  padding: 8px;
+}
+
+/* ---------- SMALL SCREEN FIXES ---------- */
+
+@media (max-height: 800px) {
+
+  .carousel-img {
+    height: min(30vh, 250px);
+  }
+
+  .mt-4 {
+    margin-top: 0.75rem !important;
+  }
+
+  .mt-3 {
+    margin-top: 0.5rem !important;
+  }
+
+  .btn-lg {
+    padding: 0.3rem 0.8rem;
+    font-size: 0.95rem;
+  }
+
+  .progress {
+    height: 22px !important;
+  }
+
+  .navbar-brand {
+    font-size: 1rem;
+  }
+}
+
+#balloon-container {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  overflow: hidden;
+  z-index: 9999;
+}
+
+.balloon {
+  position: absolute;
+  bottom: -120px;
+  border-radius: 50% 50% 45% 45%;
+  animation: floatUp linear forwards;
+}
+
+.balloon::after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  bottom: -35px;
+  width: 2px;
+  height: 35px;
+  background: #555;
+  transform: translateX(-50%);
+}
+
+@keyframes floatUp {
+  from {
+    transform: translateY(0) translateX(0) rotate(0deg);
+    opacity: 1;
+  }
+
+  25% {
+    transform: translateY(-25vh) translateX(-10px) rotate(-5deg);
+  }
+
+  50% {
+    transform: translateY(-50vh) translateX(10px) rotate(5deg);
+  }
+
+  75% {
+    transform: translateY(-75vh) translateX(-8px) rotate(-3deg);
+  }
+
+  to {
+    transform: translateY(-120vh) translateX(5px) rotate(8deg);
+    opacity: 0;
+  }
+}

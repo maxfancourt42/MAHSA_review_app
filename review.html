@@ -1,0 +1,145 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Deep Learning Review App</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+  <link rel="stylesheet" href="review_style.css">
+</head>
+
+<body>
+  <div class="container-fluid vh-5">
+    <nav class="navbar bg-body-tertiary">
+      <div class="container-fluid">
+        <span class="navbar-brand mb-0 h1"><a id="text_home_link" class="navbar-brand" href="#">Deep Learning Review App -
+            Reviewing as <span id="reviewer_name">Error</span></a></span>
+        <span>
+          <h3><a id="logo_home_link" class="navbar-brand" href="#"><i class="bi bi-house"></i></a></h3></i>
+        </span>
+      </div>
+    </nav>
+  </div>
+  <div class="container">
+    <div class="container-fluid image-section">
+      <div class="row mb-3">
+        <div class="col">
+          <div class="row">
+              <a id="gm_link" target="_blank" rel="noopener noreferrer"
+              href="https://maps.google.com/?q=30.12653004, 72.99044014">
+              <img id="rgb_img" class="d-block w-100 review-img" alt="...">
+            </a>
+          </div>
+          <div class="row">
+            RGB Image with site outline
+          </div>         
+        </div>
+        <div class="col">
+          <div class="row">
+            <img id="savi_img" class="d-block w-100 review-img" alt="...">
+          </div>
+          <div class="row">
+            <img id="savi_scale_img" class="d-block w-100 review-img" alt="...">
+          </div>
+        </div>
+        <div class="col">
+          <div class="row">
+            <img id="msrm_img" class="d-block w-100 review-img" alt="...">
+          </div>
+          <div class="row">
+            <img id="msrm_scale_img" class="d-block w-100 review-img" alt="...">
+          </div>
+        </div>
+        <div class="col">
+          <div class="row">
+            <img id="cmr_img" class="d-block w-100 review-img" alt="...">
+          </div>
+          <div class="row">
+            <img id="cmr_scale_img" class="d-block w-100 review-img" alt="...">
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="container form-section">
+      <div class="row mb-0">
+        <p id="candidate_id" class="text-start">{candidate_id}</p>
+      </div>
+      <div class="row mb-3">
+        <form>
+          <div class="row">
+            <div class="col">
+              <label class="fw-bold" for="mound_label">1. Is this likely to be mound?</label>
+              <select class="form-select" id="mound_label" size="6" onchange="updateFormStatus()">
+                <option value="1">High Likelihoood</option>
+                <option value="2">Low Likelihood</option>
+                <option value="3">Uncertain</option>
+                <option value="4">Probably natural</option>
+                <option value="5">Probably modern/artificial</option>
+                <option value="6">Not enough information</option>
+              </select>
+            </div>
+            <div class="col">
+              <label class="fw-bold" for="confidence_label">2. How confident are you in this assessment?</label>
+              <select class="form-select" id="confidence_label" size="3" onchange="updateFormStatus()">
+                <option value="1">High</option>
+                <option value="2">Medium</option>
+                <option value="3">Low</option>
+              </select>
+            </div>
+            <div class="col">
+              <label class="fw-bold" for="extent_label">3. How well does the predicted shape match the likely site
+                boundry?</label>
+              <select class="form-select" multiple id="extent_label" size="7" onchange="updateFormStatus()">
+                <option value="1">Perfect match</option>
+                <option value="2">Too large</option>
+                <option value="3">Too small</option>
+                <option value="4">Too large in places</option>
+                <option value="5">Too small in places</option>
+                <option value="6">Wrong location</option>
+                <option value="7">No real feature present</option>
+                <option value="8">Holes present</option>
+                <option value="9">Unsure</option>
+              </select>
+            </div>
+          </div>
+          <div class="row mt-4">
+            <label class="fw-bold" for="notes_input" class="form-label">Notes</label>
+            <textarea class="form-control" rows="3" id="notes_input"></textarea>
+            <p class="text-center"><b>Move mouse over</b> images to enlarge. <b>Left arrow</b> - Go to previous review. <b>Right arrow</b> - Go to next review. <b>Up arrow</b> - Wipe current answers</p>
+          </div>
+          <div class="row mt-4 align-items-center">
+            <div class="col text-center"><button id="previous_button" type="button" class="btn btn-outline-secondary">
+                <h1><i class="bi bi-caret-left"></i></h1>
+              </button></div>
+            <div class="col text-center">
+              <div class="progress" style="height: 40px;">
+                <div id="review_progress" class="progress-bar progress-bar-striped progress-bar-animated"
+                  role="progressbar" style="width: 50%;" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">50%
+                </div>
+              </div>
+            </div>
+            <div class="col text-center"><button id="next_button" type="button" class="btn btn-outline-secondary">
+                <h1><i class="bi bi-caret-right"></i></h1>
+              </button></div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+<div id="image-preview">
+  <div id="preview-content">
+    <img id="preview-img" src="">
+    <img id="preview-scale" src="">
+  </div>
+</div>
+  <script src="./candidates.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
+    crossorigin="anonymous"></script>
+  <script src="review_script.js"></script>
+</body>
+
+</html>
