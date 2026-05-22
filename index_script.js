@@ -204,7 +204,7 @@ function exportReviewsToCSV() {
         "reviewer_name",
         "label",
         "confidence",
-        "visibility",
+        "extent",
         "notes",
         "timestamp"
     ];

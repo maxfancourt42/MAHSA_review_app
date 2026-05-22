@@ -6,7 +6,8 @@ var currentCandidateIndex = Number(localStorage.getItem(currentCandidateIndexKey
 const reviewsStorageKey = `reviews_${reviewerId}`;
 const APP_VERSION = "0.3.1";
 const DATASET_VERSION = "2026-05-18-sites-batch-01"
-
+var buttonKey = `button_${reviewerId}`;
+var times_pressed = localStorage.getItem(buttonKey) || 0;
 
 // session variables 
 let reviews = JSON.parse(localStorage.getItem(reviewsStorageKey)) || [];
@@ -25,6 +26,7 @@ const logoHomeLink = document.getElementById("logo_home_link");
 const preview = document.getElementById("image-preview");
 const previewImg = document.getElementById("preview-img");
 const previewScale = document.getElementById("preview-scale");
+const export_button = document.getElementById("export_button");
 
 const imageScaleMap = {
     "savi_img": "savi_scale_img",
@@ -33,6 +35,118 @@ const imageScaleMap = {
 };
 
 const reviewImages = document.querySelectorAll(".review-img");
+
+function releaseBalloons() {
+    const container = document.getElementById("balloon-container");
+    const colours = [
+        "#ff6b6b",
+        "#ffd93d",
+        "#6bcB77",
+        "#4d96ff",
+        "#b983ff",
+        "#ff9f1c"
+    ];
+
+    for (let i = 0; i < 100; i++) {
+        const balloon = document.createElement("div");
+        balloon.classList.add("balloon");
+
+        // ---------- SIZE GROWS WITH CLICKS ----------
+        const scale = 1 + (1 * 0.05);
+
+        const width = (30 + Math.random() * 25) * scale;
+        const height = width * 1.3;
+
+        balloon.style.width = width + "px";
+        balloon.style.height = height + "px";
+
+        // ---------- POSITION ----------
+        balloon.style.left = Math.random() * 100 + "vw";
+
+        // ---------- COLOUR ----------
+        balloon.style.backgroundColor = colours[Math.floor(Math.random() * colours.length)];
+
+        // ---------- SPEED ----------
+        balloon.style.animationDuration = (4 + Math.random() * 5) + "s";
+
+        balloon.style.animationDelay = (Math.random() * 1.5 * (1 * 0.5)) + "s";
+
+        container.appendChild(balloon);
+
+        balloon.addEventListener("animationend", () => {
+            balloon.remove();
+        });
+    }
+}
+
+function csvEscape(value) {
+  if (value === null || value === undefined) {
+    return "";
+  }
+
+  const stringValue = String(value);
+
+  if (
+    stringValue.includes(",") ||
+    stringValue.includes("\n") ||
+    stringValue.includes('"')
+  ) {
+    return `"${stringValue.replace(/"/g, '""')}"`;
+  }
+
+  return stringValue;
+}
+
+function exportReviewsToCSV() {
+    // Save current review page 
+    saveCurrentReview();
+    pressedButton = localStorage.getItem(buttonKey) || 0;
+
+    // Check is any reveiws 
+    if (reviews.length === 0) {
+        alert("No reviews to export yet.");
+        return
+    }
+
+    const csvHeaders = [
+        "candidate_id",
+        "reviewer_id",
+        "reviewer_name",
+        "label",
+        "confidence",
+        "extent",
+        "notes",
+        "timestamp"
+    ];
+    
+    const rows = reviews.map(review => {
+        return csvHeaders
+        .map(header => csvEscape(review[header]))
+        .join(",")
+    })
+
+    if (pressedButton >= 1) {
+        rows.push(csvEscape(`${reviewerName} pressed the button ${pressedButton} times`));
+    }
+
+    const csvContent = [
+        csvHeaders.join(","),
+        ...rows
+    ].join("\n");
+    console.log(csvContent);
+    const blob = new Blob([csvContent], {
+        type: "text/csv;charset=utf-8;"
+    });
+
+    const url = URL.createObjectURL(blob);
+
+    const link = document.createElement("a");
+    link.href = url;
+    link.download = `${reviewerName}_reviews`;
+    link.click();
+
+    URL.revokeObjectURL(url);
+}
 
 
 // update header to show who is logged in  
@@ -69,11 +183,24 @@ function updateFormStatus() {
 
     // update span text
     if (allAnswered) {
-        statusSpan.textContent = `${candidate.candidate_id} Model confidence: ${candidate.median_probability_category} (${probability})`;
+        statusSpan.textContent = `Model confidence: ${candidate.median_probability_category} (${probability})`;
         statusSpan.style.fontWeight = 'bold';
     } else {
-        statusSpan.textContent = `${candidate.candidate_id} Model confidence: Hidden, please answer all questions to reveal.`;
+        statusSpan.textContent = `Model confidence: Hidden, please answer all questions to reveal.`;
         statusSpan.style.fontWeight = 'normal';
+    }
+    // If everything has also been reviewed 
+    if (currentCandidateIndex + 1 === Number(total_number) && allAnswered) {
+        // Trigger clean 
+        
+        console.log("All reviwed")
+        // Change colour of export button to draw attention
+        export_button.className = "btn btn-danger btn";
+        export_button.disabled = false;
+        releaseBalloons();;
+    } else {
+        export_button.className = "btn btn-primary btn"
+        export_button.disabled = true;
     }
 }
 
@@ -135,7 +262,7 @@ function saveCurrentReview() {
         app_version: APP_VERSION,
         dataset_version: DATASET_VERSION
     };
-
+    console.log(review);
     // Filter all reviews just to the ones done by this user
     reviews = reviews.filter(
         r => !(r.candidate_id === candidate.candidate_id && r.reviewer_id === reviewerId)
@@ -264,10 +391,15 @@ document.addEventListener("keydown", function (event) {
     }
 });
 
+export_button.addEventListener("click", function () {
+  exportReviewsToCSV();
+});
+
 // Initial page setup
 UpdateReviewer();
 loadCandidates();
 
+// Make it so that select boxes don't hold focus, this allows key commands to work at all times
 document.querySelectorAll("select").forEach(select => {
     select.addEventListener("change", function () {
         this.blur();
