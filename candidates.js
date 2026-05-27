@@ -3,80 +3,23 @@
 
 const candidates = [
   {
-    "candidate_id": "site_0000",
-    "median_probability": "90.4400706291199",
-    "median_probability_category": "Very High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      1134406.21614,
-      3286733.37237,
-      1135696.21614,
-      3288023.37237
-    ],
-    "review_square_side_m": 1290.0,
-    "display_pixel_size_m": 1.6125,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0000_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0000_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0000_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0000_MSRM.png",
-        "scale_path": "imgs/review_images/site_0000_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.18612881004810333,
-        "vmax": 0.15938349068164825,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0000_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0000_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0432791709899902,
-        "vmax": 1.2720584869384766,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.55456843853585, 75.54796513658867"
-  },
-  {
-    "candidate_id": "site_0001",
-    "median_probability": "73.40098023414609",
+    "candidate_id": "site_0062",
+    "median_probability": "72.3109245300293",
     "median_probability_category": "High",
     "image_size_px": 800,
     "review_square_bounds": [
-      685017.0883,
-      3402969.54293,
-      686257.0883,
-      3404209.54293
+      1099477.5121379215,
+      3277089.1718647047,
+      1100617.5121379215,
+      3278229.1718647047
     ],
-    "review_square_side_m": 1240.0,
-    "display_pixel_size_m": 1.55,
+    "review_square_side_m": 1140.0,
+    "display_pixel_size_m": 1.425,
     "images": [
       {
         "name": "rgb",
         "type": "rgb",
-        "path": "imgs/review_images/site_0001_rgb.png",
+        "path": "imgs/review_images/site_0062_rgb.png",
         "bands": [
           2,
           1,
@@ -86,8 +29,8 @@ const candidates = [
       {
         "name": "SAVI (Wet)",
         "type": "colormap",
-        "path": "imgs/review_images/site_0001_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0001_SAVI (Wet)_scale.png",
+        "path": "imgs/review_images/site_0062_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0062_SAVI (Wet)_scale.png",
         "band": 23,
         "vmin": -0.5,
         "vmax": 0.5,
@@ -96,139 +39,25 @@ const candidates = [
       {
         "name": "MSRM",
         "type": "colormap",
-        "path": "imgs/review_images/site_0001_MSRM.png",
-        "scale_path": "imgs/review_images/site_0001_MSRM_scale.png",
+        "path": "imgs/review_images/site_0062_MSRM.png",
+        "scale_path": "imgs/review_images/site_0062_MSRM_scale.png",
         "band": 42,
-        "vmin": -0.12879694998264313,
-        "vmax": 0.14512889087200165,
+        "vmin": -0.20918750762939453,
+        "vmax": 0.1973070204257965,
         "cmap": "RdYlGn"
       },
       {
         "name": "Clay Mineral Ratio",
         "type": "colormap",
-        "path": "imgs/review_images/site_0001_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0001_Clay Mineral Ratio_scale.png",
+        "path": "imgs/review_images/site_0062_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0062_Clay Mineral Ratio_scale.png",
         "band": 25,
-        "vmin": 1.155573844909668,
-        "vmax": 1.3171799182891846,
+        "vmin": 1.1166774034500122,
+        "vmax": 1.2585989236831665,
         "cmap": "RdYlGn"
       }
     ],
-    "google_maps_url": "https://maps.google.com/?q=30.750781423031622, 70.93933121568595"
-  },
-  {
-    "candidate_id": "site_0002",
-    "median_probability": "85.1599931716919",
-    "median_probability_category": "Very High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      1138818.60436,
-      3267152.65818,
-      1140148.60436,
-      3268482.65818
-    ],
-    "review_square_side_m": 1330.0,
-    "display_pixel_size_m": 1.6625,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0002_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0002_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0002_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0002_MSRM.png",
-        "scale_path": "imgs/review_images/site_0002_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.21933594346046448,
-        "vmax": 0.18167906999588013,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0002_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0002_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.1558111906051636,
-        "vmax": 1.3801909685134888,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.376938606884394, 75.58203176884993"
-  },
-  {
-    "candidate_id": "site_0003",
-    "median_probability": "92.340612411499",
-    "median_probability_category": "Very High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      796171.85371,
-      3230083.11925,
-      797671.85371,
-      3231583.11925
-    ],
-    "review_square_side_m": 1500.0,
-    "display_pixel_size_m": 1.875,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0003_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0003_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0003_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0003_MSRM.png",
-        "scale_path": "imgs/review_images/site_0003_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.08616070449352264,
-        "vmax": 0.08519023656845093,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0003_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0003_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0315804481506348,
-        "vmax": 1.1317377090454102,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.171397177170793, 72.05276842908012"
+    "google_maps_url": "https://maps.google.com/?q=29.484652383282246, 75.18351937254228"
   },
   {
     "candidate_id": "site_0004",
@@ -288,5552 +117,23 @@ const candidates = [
     "google_maps_url": "https://maps.google.com/?q=30.627200297323597, 73.27425361072709"
   },
   {
-    "candidate_id": "site_0005",
-    "median_probability": "83.3362877368927",
-    "median_probability_category": "Very High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      906053.97173,
-      3388913.99381,
-      907443.97173,
-      3390303.99381
-    ],
-    "review_square_side_m": 1390.0,
-    "display_pixel_size_m": 1.7375,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0005_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0005_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0005_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0005_MSRM.png",
-        "scale_path": "imgs/review_images/site_0005_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.16136257350444794,
-        "vmax": 0.15622998774051666,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0005_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0005_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.1052809953689575,
-        "vmax": 1.339483380317688,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=30.569976442182785, 73.2398694546968"
-  },
-  {
-    "candidate_id": "site_0006",
-    "median_probability": "70.8366513252258",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      771630.65837,
-      3227659.44771,
-      772870.65837,
-      3228899.44771
-    ],
-    "review_square_side_m": 1240.0,
-    "display_pixel_size_m": 1.55,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0006_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0006_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0006_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0006_MSRM.png",
-        "scale_path": "imgs/review_images/site_0006_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.1755516678094864,
-        "vmax": 0.18014661967754364,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0006_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0006_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0539535284042358,
-        "vmax": 1.45577871799469,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.15391708524847, 71.79875131666252"
-  },
-  {
-    "candidate_id": "site_0007",
-    "median_probability": "68.6163306236267",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      786572.0162607699,
-      3215594.3449159474,
-      787712.0162607699,
-      3216734.3449159474
-    ],
-    "review_square_side_m": 1140.0,
-    "display_pixel_size_m": 1.425,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0007_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0007_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0007_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0007_MSRM.png",
-        "scale_path": "imgs/review_images/site_0007_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.2195195108652115,
-        "vmax": 0.22097529470920563,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0007_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0007_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.068679928779602,
-        "vmax": 1.1238287687301636,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.041429383044868, 71.94855566131544"
-  },
-  {
-    "candidate_id": "site_0008",
-    "median_probability": "68.3444380760193",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      765591.0301295605,
-      3274925.3359528435,
-      766691.0301295605,
-      3276025.3359528435
-    ],
-    "review_square_side_m": 1100.0,
-    "display_pixel_size_m": 1.375,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0008_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0008_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0008_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0008_MSRM.png",
-        "scale_path": "imgs/review_images/site_0008_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.21336621046066284,
-        "vmax": 0.26215672492980957,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0008_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0008_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0849446058273315,
-        "vmax": 1.3089572191238403,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.580689841197945, 71.74741162188543"
-  },
-  {
-    "candidate_id": "site_0009",
-    "median_probability": "74.7783780097961",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      765636.03013,
-      3274770.33595,
-      766776.03013,
-      3275910.33595
-    ],
-    "review_square_side_m": 1140.0,
-    "display_pixel_size_m": 1.425,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0009_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0009_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0009_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0009_MSRM.png",
-        "scale_path": "imgs/review_images/site_0009_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.21272975206375122,
-        "vmax": 0.2508005201816559,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0009_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0009_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.084101915359497,
-        "vmax": 1.3050928115844727,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.579458961886132, 71.74804899420701"
-  },
-  {
-    "candidate_id": "site_0010",
-    "median_probability": "66.375333070755",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      1137320.5029039462,
-      3429146.6778185996,
-      1138410.5029039462,
-      3430236.6778185996
-    ],
-    "review_square_side_m": 1090.0,
-    "display_pixel_size_m": 1.3625,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0010_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0010_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0010_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0010_MSRM.png",
-        "scale_path": "imgs/review_images/site_0010_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.16944777965545654,
-        "vmax": 0.16625908017158508,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0010_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0010_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.1285483837127686,
-        "vmax": 1.3066658973693848,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=30.82882804914545, 75.66253480979987"
-  },
-  {
-    "candidate_id": "site_0011",
-    "median_probability": "66.3710474967957",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      1049657.4675429426,
-      3367922.0929802386,
-      1050727.4675429426,
-      3368992.0929802386
-    ],
-    "review_square_side_m": 1070.0,
-    "display_pixel_size_m": 1.3375,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0011_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0011_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0011_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0011_MSRM.png",
-        "scale_path": "imgs/review_images/site_0011_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.21128951013088226,
-        "vmax": 0.22582079470157623,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0011_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0011_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.1018855571746826,
-        "vmax": 1.3174254894256592,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=30.322898958443, 74.71850109718359"
-  },
-  {
-    "candidate_id": "site_0012",
-    "median_probability": "74.8442411422729",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      1043977.46754,
-      3366622.09298,
-      1045147.46754,
-      3367792.09298
-    ],
-    "review_square_side_m": 1170.0,
-    "display_pixel_size_m": 1.4625,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0012_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0012_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0012_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0012_MSRM.png",
-        "scale_path": "imgs/review_images/site_0012_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.17727063596248627,
-        "vmax": 0.1666540950536728,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0012_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0012_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0620782375335693,
-        "vmax": 1.211071491241455,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=30.31421695108405, 74.65957840766204"
-  },
-  {
-    "candidate_id": "site_0013",
-    "median_probability": "75.20936727523801",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      879118.54765,
-      3366688.25158,
-      880308.54765,
-      3367878.25158
-    ],
-    "review_square_side_m": 1190.0,
-    "display_pixel_size_m": 1.4875,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0013_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0013_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0013_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0013_MSRM.png",
-        "scale_path": "imgs/review_images/site_0013_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.1539011001586914,
-        "vmax": 0.15030604600906372,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0013_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0013_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.210710883140564,
-        "vmax": 1.4117573499679565,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=30.377862363798965, 72.95050725674416"
-  },
-  {
-    "candidate_id": "site_0014",
-    "median_probability": "79.04896140098569",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      828694.34683,
-      3369109.82624,
-      829984.34683,
-      3370399.82624
-    ],
-    "review_square_side_m": 1290.0,
-    "display_pixel_size_m": 1.6125,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0014_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0014_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0014_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0014_MSRM.png",
-        "scale_path": "imgs/review_images/site_0014_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.12773950397968292,
-        "vmax": 0.11800079792737961,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0014_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0014_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.1956478357315063,
-        "vmax": 1.382454514503479,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=30.41491968542607, 72.42804443704075"
-  },
-  {
-    "candidate_id": "site_0015",
-    "median_probability": "78.70251536369321",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      834184.34683,
-      3368709.82624,
-      835444.34683,
-      3369969.82624
-    ],
-    "review_square_side_m": 1260.0,
-    "display_pixel_size_m": 1.575,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0015_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0015_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0015_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0015_MSRM.png",
-        "scale_path": "imgs/review_images/site_0015_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.1265624463558197,
-        "vmax": 0.12302710115909576,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0015_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0015_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.2729467153549194,
-        "vmax": 1.4513362646102905,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=30.409673663925727, 72.48481211936667"
-  },
-  {
-    "candidate_id": "site_0016",
-    "median_probability": "89.07234072685239",
-    "median_probability_category": "Very High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      828664.34683,
-      3367819.82624,
-      830134.34683,
-      3369289.82624
-    ],
-    "review_square_side_m": 1470.0,
-    "display_pixel_size_m": 1.8375,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0016_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0016_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0016_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0016_MSRM.png",
-        "scale_path": "imgs/review_images/site_0016_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.15850399434566498,
-        "vmax": 0.15469075739383698,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0016_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0016_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.1900913715362549,
-        "vmax": 1.3636164665222168,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=30.4040938729552, 72.42828983483973"
-  },
-  {
-    "candidate_id": "site_0017",
-    "median_probability": "79.1245520114899",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      828504.34683,
-      3366049.82624,
-      829714.34683,
-      3367259.82624
-    ],
-    "review_square_side_m": 1210.0,
-    "display_pixel_size_m": 1.5125,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0017_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0017_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0017_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0017_MSRM.png",
-        "scale_path": "imgs/review_images/site_0017_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.11569993197917938,
-        "vmax": 0.1109904944896698,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0017_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0017_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.2178798913955688,
-        "vmax": 1.440724492073059,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=30.387058077659646, 72.42467827583363"
-  },
-  {
-    "candidate_id": "site_0018",
-    "median_probability": "92.8755223751068",
-    "median_probability_category": "Very High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      879618.64383,
-      3343831.00337,
-      880958.64383,
-      3345171.00337
-    ],
-    "review_square_side_m": 1340.0,
-    "display_pixel_size_m": 1.675,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0018_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0018_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0018_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0018_MSRM.png",
-        "scale_path": "imgs/review_images/site_0018_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.17626066505908966,
-        "vmax": 0.18033765256404877,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0018_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0018_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.237365484237671,
-        "vmax": 1.4972856044769287,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=30.172579893255033, 72.9482472885472"
-  },
-  {
-    "candidate_id": "site_0019",
-    "median_probability": "93.1711971759796",
-    "median_probability_category": "Very High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      883823.64383,
-      3338801.00337,
-      885263.64383,
-      3340241.00337
-    ],
-    "review_square_side_m": 1440.0,
-    "display_pixel_size_m": 1.8,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0019_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0019_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0019_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0019_MSRM.png",
-        "scale_path": "imgs/review_images/site_0019_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.1633119285106659,
-        "vmax": 0.1656118929386139,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0019_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0019_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.2056353092193604,
-        "vmax": 1.4519429206848145,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=30.126411494446337, 72.99052651986226"
-  },
-  {
-    "candidate_id": "site_0020",
-    "median_probability": "86.5707457065582",
-    "median_probability_category": "Very High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      1150184.75387,
-      3269697.65818,
-      1151434.75387,
-      3270947.65818
-    ],
-    "review_square_side_m": 1250.0,
-    "display_pixel_size_m": 1.5625,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0020_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0020_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0020_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0020_MSRM.png",
-        "scale_path": "imgs/review_images/site_0020_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.324441522359848,
-        "vmax": 0.3190767467021942,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0020_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0020_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.1130939722061157,
-        "vmax": 1.262689232826233,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.39359436998106, 75.69943093573625"
-  },
-  {
-    "candidate_id": "site_0021",
-    "median_probability": "70.4861462116241",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      771797.72732,
-      3378937.79077,
-      772957.72732,
-      3380097.79077
-    ],
-    "review_square_side_m": 1160.0,
-    "display_pixel_size_m": 1.45,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0021_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0021_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0021_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0021_MSRM.png",
-        "scale_path": "imgs/review_images/site_0021_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.12462399154901505,
-        "vmax": 0.12173540145158768,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0021_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0021_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.2191499471664429,
-        "vmax": 1.4254709482192993,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=30.517132736328378, 71.83836630378894"
-  },
-  {
-    "candidate_id": "site_0022",
-    "median_probability": "70.12081742286679",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      888495.71613,
-      3338049.933,
-      889635.71613,
-      3339189.933
-    ],
-    "review_square_side_m": 1140.0,
-    "display_pixel_size_m": 1.425,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0022_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0022_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0022_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0022_MSRM.png",
-        "scale_path": "imgs/review_images/site_0022_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.14712826907634735,
-        "vmax": 0.1448134332895279,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0022_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0022_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.2523869276046753,
-        "vmax": 1.4732459783554077,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=30.116866374878324, 73.03702599526817"
-  },
-  {
-    "candidate_id": "site_0023",
-    "median_probability": "85.0945770740509",
-    "median_probability_category": "Very High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      926869.71046,
-      3539221.45285,
-      928249.71046,
-      3540601.45285
-    ],
-    "review_square_side_m": 1380.0,
-    "display_pixel_size_m": 1.725,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0023_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0023_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0023_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0023_MSRM.png",
-        "scale_path": "imgs/review_images/site_0023_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.1803416907787323,
-        "vmax": 0.18545717000961304,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0023_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0023_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.105185627937317,
-        "vmax": 1.3363622426986694,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=31.914725169626738, 73.52031662902185"
-  },
-  {
-    "candidate_id": "site_0024",
-    "median_probability": "74.0904688835144",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      835440.16718,
-      3311451.0506,
-      836650.16718,
-      3312661.0506
-    ],
-    "review_square_side_m": 1210.0,
-    "display_pixel_size_m": 1.5125,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0024_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0024_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0024_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0024_MSRM.png",
-        "scale_path": "imgs/review_images/site_0024_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.1787407100200653,
-        "vmax": 0.1946433186531067,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0024_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0024_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.1732338666915894,
-        "vmax": 1.470781922340393,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.89334094379152, 72.47942217479806"
-  },
-  {
-    "candidate_id": "site_0025",
-    "median_probability": "73.60665202140811",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      836330.16718,
-      3307486.0506,
-      837740.16718,
-      3308896.0506
-    ],
-    "review_square_side_m": 1410.0,
-    "display_pixel_size_m": 1.7625,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0025_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0025_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0025_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0025_MSRM.png",
-        "scale_path": "imgs/review_images/site_0025_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.17549705505371094,
-        "vmax": 0.16704928874969482,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0025_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0025_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.1188294887542725,
-        "vmax": 1.324216604232788,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.85825440439688, 72.48844350829945"
-  },
-  {
-    "candidate_id": "site_0026",
-    "median_probability": "68.8146114349365",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      834445.16718,
-      3307341.0506,
-      835635.16718,
-      3308531.0506
-    ],
-    "review_square_side_m": 1190.0,
-    "display_pixel_size_m": 1.4875,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0026_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0026_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0026_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0026_MSRM.png",
-        "scale_path": "imgs/review_images/site_0026_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.09402254223823547,
-        "vmax": 0.11153189837932587,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0026_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0026_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.100233554840088,
-        "vmax": 1.3579518795013428,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.856501140084355, 72.46774664478818"
-  },
-  {
-    "candidate_id": "site_0027",
-    "median_probability": "67.0922160148621",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      639605.2405266716,
-      3239074.2660298515,
-      640685.2405266716,
-      3240154.2660298515
-    ],
-    "review_square_side_m": 1080.0,
-    "display_pixel_size_m": 1.35,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0027_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0027_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0027_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0027_MSRM.png",
-        "scale_path": "imgs/review_images/site_0027_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.14729972183704376,
-        "vmax": 0.15081904828548431,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0027_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0027_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.1578575372695923,
-        "vmax": 1.3636215925216675,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.277684307328038, 70.44265661638984"
-  },
-  {
-    "candidate_id": "site_0028",
-    "median_probability": "88.2835745811462",
-    "median_probability_category": "Very High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      644420.24053,
-      3238814.26603,
-      645960.24053,
-      3240354.26603
-    ],
-    "review_square_side_m": 1540.0,
-    "display_pixel_size_m": 1.925,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0028_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0028_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0028_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0028_MSRM.png",
-        "scale_path": "imgs/review_images/site_0028_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.09873850643634796,
-        "vmax": 0.09803622961044312,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0028_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0028_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.118676781654358,
-        "vmax": 1.3145686388015747,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.276842876142684, 70.49457157103096"
-  },
-  {
-    "candidate_id": "site_0029",
-    "median_probability": "74.4381129741669",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      773541.03013,
-      3290000.62979,
-      774851.03013,
-      3291310.62979
-    ],
-    "review_square_side_m": 1310.0,
-    "display_pixel_size_m": 1.6375,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0029_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0029_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0029_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0029_MSRM.png",
-        "scale_path": "imgs/review_images/site_0029_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.1526172012090683,
-        "vmax": 0.1596103459596634,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0029_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0029_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.1782091856002808,
-        "vmax": 1.4017137289047241,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.715779245169532, 71.8343151631222"
-  },
-  {
-    "candidate_id": "site_0030",
-    "median_probability": "65.5637323856354",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      773101.0301295605,
-      3289115.629790552,
-      774161.0301295605,
-      3290175.629790552
-    ],
-    "review_square_side_m": 1060.0,
-    "display_pixel_size_m": 1.325,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0030_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0030_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0030_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0030_MSRM.png",
-        "scale_path": "imgs/review_images/site_0030_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.1030561551451683,
-        "vmax": 0.1047576293349266,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0030_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0030_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.098709225654602,
-        "vmax": 1.3225291967391968,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.706800014749245, 71.82822542340342"
-  },
-  {
-    "candidate_id": "site_0031",
-    "median_probability": "65.3297662734985",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      773191.0301295605,
-      3289075.629790552,
-      774271.0301295605,
-      3290155.629790552
-    ],
-    "review_square_side_m": 1080.0,
-    "display_pixel_size_m": 1.35,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0031_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0031_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0031_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0031_MSRM.png",
-        "scale_path": "imgs/review_images/site_0031_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.10776875913143158,
-        "vmax": 0.11041617393493652,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0031_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0031_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.091223955154419,
-        "vmax": 1.3155815601348877,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.70650752217662, 71.82925037836745"
-  },
-  {
-    "candidate_id": "site_0032",
-    "median_probability": "65.9117519855499",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      770930.6583678663,
-      3239899.447712465,
-      772050.6583678663,
-      3241019.447712465
-    ],
-    "review_square_side_m": 1120.0,
-    "display_pixel_size_m": 1.4,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0032_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0032_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0032_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0032_MSRM.png",
-        "scale_path": "imgs/review_images/site_0032_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.14359401166439056,
-        "vmax": 0.12543423473834991,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0032_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0032_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0484287738800049,
-        "vmax": 1.1264123916625977,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.2638818624078, 71.79392517818263"
-  },
-  {
-    "candidate_id": "site_0033",
-    "median_probability": "74.5015740394592",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      773600.65837,
-      3236024.44771,
-      774910.65837,
-      3237334.44771
-    ],
-    "review_square_side_m": 1310.0,
-    "display_pixel_size_m": 1.6375,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0033_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0033_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0033_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0033_MSRM.png",
-        "scale_path": "imgs/review_images/site_0033_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.22028379142284393,
-        "vmax": 0.23921288549900055,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0033_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0033_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0709373950958252,
-        "vmax": 1.3266124725341797,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.22920881274668, 71.82141579067367"
-  },
-  {
-    "candidate_id": "site_0034",
-    "median_probability": "78.5502016544342",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      772510.65837,
-      3234659.44771,
-      774040.65837,
-      3236189.44771
-    ],
-    "review_square_side_m": 1530.0,
-    "display_pixel_size_m": 1.9125,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0034_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0034_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0034_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0034_MSRM.png",
-        "scale_path": "imgs/review_images/site_0034_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.19562213122844696,
-        "vmax": 0.18864814937114716,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0034_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0034_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0884623527526855,
-        "vmax": 1.3618648052215576,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.218107486621083, 71.81103487175561"
-  },
-  {
-    "candidate_id": "site_0035",
-    "median_probability": "74.6795296669006",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      709327.32916,
-      3336171.17234,
-      710597.32916,
-      3337441.17234
-    ],
-    "review_square_side_m": 1270.0,
-    "display_pixel_size_m": 1.5875,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0035_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0035_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0035_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0035_MSRM.png",
-        "scale_path": "imgs/review_images/site_0035_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.4981454014778137,
-        "vmax": 0.49820733070373535,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0035_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0035_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.062010407447815,
-        "vmax": 1.1809290647506714,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=30.144522524695297, 71.17985887701825"
-  },
-  {
-    "candidate_id": "site_0036",
-    "median_probability": "67.0519232749939",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      711852.3291565176,
-      3335731.1723379223,
-      713062.3291565176,
-      3336941.1723379223
-    ],
-    "review_square_side_m": 1210.0,
-    "display_pixel_size_m": 1.5125,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0036_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0036_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0036_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0036_MSRM.png",
-        "scale_path": "imgs/review_images/site_0036_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.49057164788246155,
-        "vmax": 0.483832448720932,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0036_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0036_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.028969168663025,
-        "vmax": 1.1364527940750122,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=30.139851574937698, 71.20565203234514"
-  },
-  {
-    "candidate_id": "site_0037",
-    "median_probability": "69.17708516120909",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      711997.3291565176,
-      3335311.1723379223,
-      713107.3291565176,
-      3336421.1723379223
-    ],
-    "review_square_side_m": 1110.0,
-    "display_pixel_size_m": 1.3875,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0037_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0037_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0037_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0037_MSRM.png",
-        "scale_path": "imgs/review_images/site_0037_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.4207935035228729,
-        "vmax": 0.4332934319972992,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0037_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0037_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.027589201927185,
-        "vmax": 1.1734009981155396,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=30.135596690966214, 71.2065433399003"
-  },
-  {
-    "candidate_id": "site_0038",
-    "median_probability": "71.1898565292358",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      1259548.84377,
-      3284174.21859,
-      1260748.84377,
-      3285374.21859
-    ],
-    "review_square_side_m": 1200.0,
-    "display_pixel_size_m": 1.5,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0038_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0038_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0038_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0038_MSRM.png",
-        "scale_path": "imgs/review_images/site_0038_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.2597730755805969,
-        "vmax": 0.2778394818305969,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0038_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0038_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.1093910932540894,
-        "vmax": 1.3588439226150513,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.46166986069071, 76.8268468745095"
-  },
-  {
-    "candidate_id": "site_0039",
-    "median_probability": "67.1005666255951",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      1076893.0234616883,
-      3278223.0934357992,
-      1077993.0234616883,
-      3279323.0934357992
-    ],
-    "review_square_side_m": 1100.0,
-    "display_pixel_size_m": 1.375,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0039_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0039_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0039_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0039_MSRM.png",
-        "scale_path": "imgs/review_images/site_0039_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.2954869270324707,
-        "vmax": 0.31551700830459595,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0039_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0039_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0994153022766113,
-        "vmax": 1.2979998588562012,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.505267228514022, 74.95223040525555"
-  },
-  {
-    "candidate_id": "site_0040",
-    "median_probability": "73.7092256546021",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      771671.03013,
-      3282760.19086,
-      772881.03013,
-      3283970.19086
-    ],
-    "review_square_side_m": 1210.0,
-    "display_pixel_size_m": 1.5125,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0040_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0040_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0040_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0040_MSRM.png",
-        "scale_path": "imgs/review_images/site_0040_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.1373010277748108,
-        "vmax": 0.1467370092868805,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0040_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0040_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.2076945304870605,
-        "vmax": 1.4323854446411133,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.65048559333043, 71.81265684297969"
-  },
-  {
-    "candidate_id": "site_0041",
-    "median_probability": "70.1899170875549",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      769126.03013,
-      3280080.19086,
-      770326.03013,
-      3281280.19086
-    ],
-    "review_square_side_m": 1200.0,
-    "display_pixel_size_m": 1.5,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0041_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0041_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0041_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0041_MSRM.png",
-        "scale_path": "imgs/review_images/site_0041_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.13160178065299988,
-        "vmax": 0.12971442937850952,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0041_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0041_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.1805022954940796,
-        "vmax": 1.3999727964401245,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.62683801263168, 71.78567419655158"
-  },
-  {
-    "candidate_id": "site_0042",
-    "median_probability": "65.60325622558591",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      958977.4329560194,
-      3483876.32687057,
-      960027.4329560194,
-      3484926.32687057
-    ],
-    "review_square_side_m": 1050.0,
-    "display_pixel_size_m": 1.3125,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0042_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0042_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0042_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0042_MSRM.png",
-        "scale_path": "imgs/review_images/site_0042_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.10623335093259811,
-        "vmax": 0.10298477858304977,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0042_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0042_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.1717740297317505,
-        "vmax": 1.3519827127456665,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=31.40323956480949, 73.83107910861342"
-  },
-  {
-    "candidate_id": "site_0043",
-    "median_probability": "70.5502688884735",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      786413.58632,
-      3233940.06458,
-      787613.58632,
-      3235140.06458
-    ],
-    "review_square_side_m": 1200.0,
-    "display_pixel_size_m": 1.5,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0043_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0043_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0043_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0043_MSRM.png",
-        "scale_path": "imgs/review_images/site_0043_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.1899113804101944,
-        "vmax": 0.2010457068681717,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0043_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0043_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 0.9988452196121216,
-        "vmax": 1.199391484260559,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.20709332764652, 71.95196899414874"
-  },
-  {
-    "candidate_id": "site_0044",
-    "median_probability": "67.1997249126434",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      794693.58632,
-      3228275.06458,
-      795803.58632,
-      3229385.06458
-    ],
-    "review_square_side_m": 1110.0,
-    "display_pixel_size_m": 1.3875,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0044_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0044_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0044_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0044_MSRM.png",
-        "scale_path": "imgs/review_images/site_0044_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.13659405708312988,
-        "vmax": 0.13313597440719604,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0044_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0044_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0666640996932983,
-        "vmax": 1.1347554922103882,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.153734538078044, 72.03505348503975"
-  },
-  {
-    "candidate_id": "site_0045",
-    "median_probability": "86.670970916748",
-    "median_probability_category": "Very High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      952714.62937,
-      3247607.2869,
-      954024.62937,
-      3248917.2869
-    ],
-    "review_square_side_m": 1310.0,
-    "display_pixel_size_m": 1.6375,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0045_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0045_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0045_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0045_MSRM.png",
-        "scale_path": "imgs/review_images/site_0045_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.41907379031181335,
-        "vmax": 0.40258947014808655,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0045_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0045_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0630877017974854,
-        "vmax": 1.1647005081176758,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.281939929614907, 73.66473720563994"
-  },
-  {
-    "candidate_id": "site_0046",
-    "median_probability": "86.9899988174438",
-    "median_probability_category": "Very High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      951044.62937,
-      3245842.2869,
-      952584.62937,
-      3247382.2869
-    ],
-    "review_square_side_m": 1540.0,
-    "display_pixel_size_m": 1.925,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0046_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0046_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0046_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0046_MSRM.png",
-        "scale_path": "imgs/review_images/site_0046_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.35604241490364075,
-        "vmax": 0.3717658221721649,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0046_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0046_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.046609878540039,
-        "vmax": 1.139237642288208,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.267654163637502, 73.64810832800067"
-  },
-  {
-    "candidate_id": "site_0047",
-    "median_probability": "76.77879333496091",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      946759.62937,
-      3245362.2869,
-      948149.62937,
-      3246752.2869
-    ],
-    "review_square_side_m": 1390.0,
-    "display_pixel_size_m": 1.7375,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0047_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0047_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0047_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0047_MSRM.png",
-        "scale_path": "imgs/review_images/site_0047_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.20573027431964874,
-        "vmax": 0.2127053290605545,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0047_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0047_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0828062295913696,
-        "vmax": 1.2155896425247192,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.264212776928318, 73.60315060407466"
-  },
-  {
-    "candidate_id": "site_0048",
-    "median_probability": "69.3030595779419",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      951644.62937,
-      3244522.2869,
-      952834.62937,
-      3245712.2869
-    ],
-    "review_square_side_m": 1190.0,
-    "display_pixel_size_m": 1.4875,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0048_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0048_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0048_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0048_MSRM.png",
-        "scale_path": "imgs/review_images/site_0048_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.4258219003677368,
-        "vmax": 0.4318573474884033,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0048_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0048_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0638364553451538,
-        "vmax": 1.1522449254989624,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.254053484859927, 73.65185860525592"
-  },
-  {
-    "candidate_id": "site_0049",
-    "median_probability": "85.6202721595764",
-    "median_probability_category": "Very High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      948679.62937,
-      3244482.2869,
-      950209.62937,
-      3246012.2869
-    ],
-    "review_square_side_m": 1530.0,
-    "display_pixel_size_m": 1.9125,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0049_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0049_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0049_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0049_MSRM.png",
-        "scale_path": "imgs/review_images/site_0049_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.33969900012016296,
-        "vmax": 0.3289606273174286,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0049_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0049_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0813783407211304,
-        "vmax": 1.2313929796218872,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.256219705343142, 73.62323897040145"
-  },
-  {
-    "candidate_id": "site_0050",
-    "median_probability": "72.0567643642426",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      952779.62937,
-      3243972.2869,
-      953929.62937,
-      3245122.2869
-    ],
-    "review_square_side_m": 1150.0,
-    "display_pixel_size_m": 1.4375,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0050_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0050_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0050_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0050_MSRM.png",
-        "scale_path": "imgs/review_images/site_0050_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.4104704260826111,
-        "vmax": 0.357502281665802,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0050_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0050_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.068261981010437,
-        "vmax": 1.131754755973816,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.248526635915, 73.66306331305644"
-  },
-  {
-    "candidate_id": "site_0051",
-    "median_probability": "82.92302489280699",
-    "median_probability_category": "Very High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      946919.62937,
-      3243902.2869,
-      948349.62937,
-      3245332.2869
-    ],
-    "review_square_side_m": 1430.0,
-    "display_pixel_size_m": 1.7875,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0051_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0051_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0051_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0051_MSRM.png",
-        "scale_path": "imgs/review_images/site_0051_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.1868022233247757,
-        "vmax": 0.20256386697292328,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0051_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0051_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0945355892181396,
-        "vmax": 1.209693431854248,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.25119424325547, 73.60441584208857"
-  },
-  {
-    "candidate_id": "site_0052",
-    "median_probability": "92.5434589385986",
-    "median_probability_category": "Very High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      951614.62937,
-      3243597.2869,
-      953284.62937,
-      3245267.2869
-    ],
-    "review_square_side_m": 1670.0,
-    "display_pixel_size_m": 2.0875,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0052_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0052_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0052_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0052_MSRM.png",
-        "scale_path": "imgs/review_images/site_0052_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.39805686473846436,
-        "vmax": 0.41244959831237793,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0052_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0052_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0602933168411255,
-        "vmax": 1.138128399848938,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.247816206716394, 73.65373330427522"
-  },
-  {
-    "candidate_id": "site_0053",
-    "median_probability": "71.48591876029971",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      949629.62937,
-      3242862.2869,
-      950809.62937,
-      3244042.2869
-    ],
-    "review_square_side_m": 1180.0,
-    "display_pixel_size_m": 1.475,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0053_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0053_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0053_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0053_MSRM.png",
-        "scale_path": "imgs/review_images/site_0053_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.5887759923934937,
-        "vmax": 0.7322018146514893,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0053_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0053_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0585126876831055,
-        "vmax": 1.127898931503296,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.239796035804037, 73.63046078358573"
-  },
-  {
-    "candidate_id": "site_0054",
-    "median_probability": "82.75277018547061",
-    "median_probability_category": "Very High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      945749.62937,
-      3242362.2869,
-      947559.62937,
-      3244172.2869
-    ],
-    "review_square_side_m": 1810.0,
-    "display_pixel_size_m": 2.2625,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0054_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0054_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0054_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0054_MSRM.png",
-        "scale_path": "imgs/review_images/site_0054_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.4414243996143341,
-        "vmax": 0.448812872171402,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0054_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0054_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.062869668006897,
-        "vmax": 1.1916590929031372,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.239395475906743, 73.59381866452297"
-  },
-  {
-    "candidate_id": "site_0055",
-    "median_probability": "86.64168119430539",
-    "median_probability_category": "Very High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      943569.62937,
-      3240212.2869,
-      945289.62937,
-      3241932.2869
-    ],
-    "review_square_side_m": 1720.0,
-    "display_pixel_size_m": 2.15,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0055_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0055_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0055_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0055_MSRM.png",
-        "scale_path": "imgs/review_images/site_0055_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.4522952735424042,
-        "vmax": 0.49792030453681946,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0055_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0055_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0335477590560913,
-        "vmax": 1.165545105934143,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.22043112389964, 73.57011623976032"
-  },
-  {
-    "candidate_id": "site_0056",
-    "median_probability": "97.6212799549103",
-    "median_probability_category": "Very High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      781918.55847,
-      3301852.72061,
-      783458.55847,
-      3303392.72061
-    ],
-    "review_square_side_m": 1540.0,
-    "display_pixel_size_m": 1.925,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0056_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0056_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0056_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0056_MSRM.png",
-        "scale_path": "imgs/review_images/site_0056_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.16021060943603516,
-        "vmax": 0.154203861951828,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0056_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0056_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.1596143245697021,
-        "vmax": 1.3748846054077148,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.821732597549257, 71.92514198000073"
-  },
-  {
-    "candidate_id": "site_0057",
-    "median_probability": "69.4618761539459",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      783228.5584748546,
-      3298137.720605809,
-      784338.5584748546,
-      3299247.720605809
-    ],
-    "review_square_side_m": 1110.0,
-    "display_pixel_size_m": 1.3875,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0057_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0057_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0057_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0057_MSRM.png",
-        "scale_path": "imgs/review_images/site_0057_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.10648670047521591,
-        "vmax": 0.1036515161395073,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0057_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0057_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.2113072872161865,
-        "vmax": 1.467320442199707,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.78606031735208, 71.93542488482952"
-  },
-  {
-    "candidate_id": "site_0058",
-    "median_probability": "80.11552095413211",
-    "median_probability_category": "Very High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      784153.55847,
-      3296037.72061,
-      785453.55847,
-      3297337.72061
-    ],
-    "review_square_side_m": 1300.0,
-    "display_pixel_size_m": 1.625,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0058_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0058_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0058_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0058_MSRM.png",
-        "scale_path": "imgs/review_images/site_0058_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.12188612669706345,
-        "vmax": 0.09296617656946182,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0058_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0058_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.1780527830123901,
-        "vmax": 1.459877848625183,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.76775474383351, 71.94543467151563"
-  },
-  {
-    "candidate_id": "site_0059",
-    "median_probability": "69.7749137878418",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      924604.7104639327,
-      3538761.452845961,
-      925694.7104639327,
-      3539851.452845961
-    ],
-    "review_square_side_m": 1090.0,
-    "display_pixel_size_m": 1.3625,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0059_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0059_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0059_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0059_MSRM.png",
-        "scale_path": "imgs/review_images/site_0059_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.13488782942295074,
-        "vmax": 0.09324153512716293,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0059_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0059_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.1212167739868164,
-        "vmax": 1.3017940521240234,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=31.910187162096634, 73.49463939044846"
-  },
-  {
-    "candidate_id": "site_0060",
-    "median_probability": "74.8431324958801",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      1093347.51214,
-      3285639.17186,
-      1094477.51214,
-      3286769.17186
-    ],
-    "review_square_side_m": 1130.0,
-    "display_pixel_size_m": 1.4125,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0060_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0060_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0060_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0060_MSRM.png",
-        "scale_path": "imgs/review_images/site_0060_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.2742314338684082,
-        "vmax": 0.2469293475151062,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0060_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0060_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.1053192615509033,
-        "vmax": 1.2328259944915771,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.564252373296675, 75.12523447549863"
-  },
-  {
-    "candidate_id": "site_0061",
-    "median_probability": "68.5154914855957",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      1093437.5121379215,
-      3285529.1718647047,
-      1094497.5121379215,
-      3286589.1718647047
-    ],
-    "review_square_side_m": 1060.0,
-    "display_pixel_size_m": 1.325,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0061_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0061_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0061_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0061_MSRM.png",
-        "scale_path": "imgs/review_images/site_0061_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.28760480880737305,
-        "vmax": 0.27468782663345337,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0061_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0061_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.1059753894805908,
-        "vmax": 1.2293415069580078,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.562925089893948, 75.12572020195562"
-  },
-  {
-    "candidate_id": "site_0062",
-    "median_probability": "72.3109245300293",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      1099477.5121379215,
-      3277089.1718647047,
-      1100617.5121379215,
-      3278229.1718647047
-    ],
-    "review_square_side_m": 1140.0,
-    "display_pixel_size_m": 1.425,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0062_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0062_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0062_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0062_MSRM.png",
-        "scale_path": "imgs/review_images/site_0062_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.20918750762939453,
-        "vmax": 0.1973070204257965,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0062_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0062_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.1166774034500122,
-        "vmax": 1.2585989236831665,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.484652383282246, 75.18351937254228"
-  },
-  {
-    "candidate_id": "site_0063",
-    "median_probability": "74.8362958431244",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      671426.31093,
-      3538458.01143,
-      672686.31093,
-      3539718.01143
-    ],
-    "review_square_side_m": 1260.0,
-    "display_pixel_size_m": 1.575,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0063_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0063_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0063_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0063_MSRM.png",
-        "scale_path": "imgs/review_images/site_0063_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.20224745571613312,
-        "vmax": 0.20030198991298676,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0063_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0063_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0687944889068604,
-        "vmax": 1.1919758319854736,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=31.974776685805608, 70.82092843918491"
-  },
-  {
-    "candidate_id": "site_0064",
-    "median_probability": "71.13962769508359",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      840506.71006,
-      3579369.59264,
-      841676.71006,
-      3580539.59264
-    ],
-    "review_square_side_m": 1170.0,
-    "display_pixel_size_m": 1.4625,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0064_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0064_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0064_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0064_MSRM.png",
-        "scale_path": "imgs/review_images/site_0064_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.17001432180404663,
-        "vmax": 0.15773603320121765,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0064_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0064_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.2124193906784058,
-        "vmax": 1.47956120967865,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=32.304499719578104, 72.62212542332395"
-  },
-  {
-    "candidate_id": "site_0065",
-    "median_probability": "78.0750274658203",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      810378.03242,
-      3224231.942,
-      811728.03242,
-      3225581.942
-    ],
-    "review_square_side_m": 1350.0,
-    "display_pixel_size_m": 1.6875,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0065_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0065_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0065_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0065_MSRM.png",
-        "scale_path": "imgs/review_images/site_0065_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.14827118813991547,
-        "vmax": 0.09550032764673233,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0065_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0065_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0330162048339844,
-        "vmax": 1.096099615097046,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.11460314575266, 72.19621882966614"
-  },
-  {
-    "candidate_id": "site_0066",
-    "median_probability": "76.1715292930603",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      845388.06445,
-      3475487.49971,
-      846678.06445,
-      3476777.49971
-    ],
-    "review_square_side_m": 1290.0,
-    "display_pixel_size_m": 1.6125,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0066_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0066_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0066_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0066_MSRM.png",
-        "scale_path": "imgs/review_images/site_0066_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.1461842805147171,
-        "vmax": 0.15380187332630157,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0066_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0066_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.1697531938552856,
-        "vmax": 1.3828696012496948,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=31.368208916763557, 72.63759971126271"
-  },
-  {
-    "candidate_id": "site_0067",
-    "median_probability": "80.0919830799103",
-    "median_probability_category": "Very High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      803724.22095,
-      3227493.11925,
-      805134.22095,
-      3228903.11925
-    ],
-    "review_square_side_m": 1410.0,
-    "display_pixel_size_m": 1.7625,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0067_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0067_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0067_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0067_MSRM.png",
-        "scale_path": "imgs/review_images/site_0067_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.1751122623682022,
-        "vmax": 0.19676347076892853,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0067_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0067_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0161408185958862,
-        "vmax": 1.1200729608535767,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.145868868667115, 72.12913974940896"
-  },
-  {
-    "candidate_id": "site_0068",
-    "median_probability": "67.3789203166962",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      805439.22095,
-      3225653.11925,
-      806609.22095,
-      3226823.11925
-    ],
-    "review_square_side_m": 1170.0,
-    "display_pixel_size_m": 1.4625,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0068_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0068_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0068_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0068_MSRM.png",
-        "scale_path": "imgs/review_images/site_0068_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.20337162911891937,
-        "vmax": 0.19637568295001984,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0068_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0068_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0484215021133423,
-        "vmax": 1.2277194261550903,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.127821374556483, 72.14497560911258"
-  },
-  {
-    "candidate_id": "site_0069",
-    "median_probability": "80.3138375282288",
-    "median_probability_category": "Very High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      1146389.28105,
-      3258918.6664,
-      1147689.28105,
-      3260218.6664
-    ],
-    "review_square_side_m": 1300.0,
-    "display_pixel_size_m": 1.625,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0069_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0069_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0069_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0069_MSRM.png",
-        "scale_path": "imgs/review_images/site_0069_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.13701491057872772,
-        "vmax": 0.13789446651935577,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0069_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0069_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0950335264205933,
-        "vmax": 1.2681540250778198,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.2991342955292, 75.65454104130353"
-  },
-  {
-    "candidate_id": "site_0070",
-    "median_probability": "80.852735042572",
-    "median_probability_category": "Very High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      885833.64383,
-      3336583.82121,
-      887153.64383,
-      3337903.82121
-    ],
-    "review_square_side_m": 1320.0,
-    "display_pixel_size_m": 1.65,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0070_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0070_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0070_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0070_MSRM.png",
-        "scale_path": "imgs/review_images/site_0070_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.132404163479805,
-        "vmax": 0.1322527676820755,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0070_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0070_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.2744094133377075,
-        "vmax": 1.491961121559143,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=30.105295477324503, 73.00989140033562"
-  },
-  {
-    "candidate_id": "site_0071",
-    "median_probability": "68.30308437347409",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      887243.64383,
-      3328668.82121,
-      888403.64383,
-      3329828.82121
-    ],
-    "review_square_side_m": 1160.0,
-    "display_pixel_size_m": 1.45,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0071_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0071_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0071_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0071_MSRM.png",
-        "scale_path": "imgs/review_images/site_0071_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.21009224653244019,
-        "vmax": 0.21222487092018127,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0071_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0071_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0528738498687744,
-        "vmax": 1.263305425643921,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=30.032901148504383, 73.020746452606"
-  },
-  {
-    "candidate_id": "site_0072",
-    "median_probability": "73.6569881439209",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      922309.52785,
-      3598654.28546,
-      923449.52785,
-      3599794.28546
-    ],
-    "review_square_side_m": 1140.0,
-    "display_pixel_size_m": 1.425,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0072_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0072_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0072_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0072_MSRM.png",
-        "scale_path": "imgs/review_images/site_0072_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.3071613013744354,
-        "vmax": 0.31061360239982605,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0072_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0072_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.1482447385787964,
-        "vmax": 1.3752425909042358,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=32.44992527679662, 73.4971671430017"
-  },
-  {
-    "candidate_id": "site_0073",
-    "median_probability": "83.1581473350525",
-    "median_probability_category": "Very High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      893881.9499,
-      3328093.82121,
-      895201.9499,
-      3329413.82121
-    ],
-    "review_square_side_m": 1320.0,
-    "display_pixel_size_m": 1.65,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0073_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0073_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0073_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0073_MSRM.png",
-        "scale_path": "imgs/review_images/site_0073_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.17889049649238586,
-        "vmax": 0.1772831678390503,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0073_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0073_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0397230386734009,
-        "vmax": 1.2037423849105835,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=30.026299356692192, 73.09006782486539"
-  },
-  {
-    "candidate_id": "site_0074",
-    "median_probability": "73.1305718421936",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      922909.71046,
-      3534386.64862,
-      924099.71046,
-      3535576.64862
-    ],
-    "review_square_side_m": 1190.0,
-    "display_pixel_size_m": 1.4875,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0074_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0074_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0074_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0074_MSRM.png",
-        "scale_path": "imgs/review_images/site_0074_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.1893361359834671,
-        "vmax": 0.1978086680173874,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0074_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0074_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0995270013809204,
-        "vmax": 1.2891279458999634,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=31.871901938595236, 73.47540837844834"
-  },
-  {
-    "candidate_id": "site_0075",
-    "median_probability": "65.6846404075623",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      921994.7104639327,
-      3534121.6486217757,
-      923044.7104639327,
-      3535171.6486217757
-    ],
-    "review_square_side_m": 1050.0,
-    "display_pixel_size_m": 1.3125,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0075_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0075_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0075_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0075_MSRM.png",
-        "scale_path": "imgs/review_images/site_0075_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.11895308643579483,
-        "vmax": 0.08776604384183884,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0075_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0075_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.116843342781067,
-        "vmax": 1.281617283821106,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=31.869254517975918, 73.46488081149685"
-  },
-  {
-    "candidate_id": "site_0076",
-    "median_probability": "81.05972409248349",
-    "median_probability_category": "Very High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      1176608.96375,
-      3229811.09806,
-      1177898.96375,
-      3231101.09806
-    ],
-    "review_square_side_m": 1290.0,
-    "display_pixel_size_m": 1.6125,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0076_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0076_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0076_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0076_MSRM.png",
-        "scale_path": "imgs/review_images/site_0076_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.22546878457069397,
-        "vmax": 0.23753878474235535,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0076_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0076_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.1478999853134155,
-        "vmax": 1.327247977256775,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.022493260698475, 75.94576980468837"
-  },
-  {
-    "candidate_id": "site_0077",
-    "median_probability": "80.2978157997131",
-    "median_probability_category": "Very High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      852828.85528,
-      3320906.38501,
-      854268.85528,
-      3322346.38501
-    ],
-    "review_square_side_m": 1440.0,
-    "display_pixel_size_m": 1.8,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0077_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0077_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0077_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0077_MSRM.png",
-        "scale_path": "imgs/review_images/site_0077_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.14251860976219177,
-        "vmax": 0.14378023147583008,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0077_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0077_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.1523340940475464,
-        "vmax": 1.3972259759902954,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.974631567863884, 72.66351491069467"
-  },
-  {
-    "candidate_id": "site_0078",
-    "median_probability": "82.4615776538849",
-    "median_probability_category": "Very High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      850213.85528,
-      3317331.38501,
-      851533.85528,
-      3318651.38501
-    ],
-    "review_square_side_m": 1320.0,
-    "display_pixel_size_m": 1.65,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0078_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0078_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0078_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0078_MSRM.png",
-        "scale_path": "imgs/review_images/site_0078_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.1901809275150299,
-        "vmax": 0.17561274766921997,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0078_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0078_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.207362174987793,
-        "vmax": 1.4494638442993164,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.94266095240395, 72.63465020224555"
-  },
-  {
-    "candidate_id": "site_0079",
-    "median_probability": "66.1720931529999",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      768183.70777,
-      3223382.22903,
-      769473.70777,
-      3224672.22903
-    ],
-    "review_square_side_m": 1290.0,
-    "display_pixel_size_m": 1.6125,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0079_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0079_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0079_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0079_MSRM.png",
-        "scale_path": "imgs/review_images/site_0079_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.20897845923900604,
-        "vmax": 0.22596107423305511,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0079_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0079_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.028933048248291,
-        "vmax": 1.282893419265747,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.116312336897977, 71.76258155257311"
-  },
-  {
-    "candidate_id": "site_0080",
-    "median_probability": "74.3262648582458",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      764518.70777,
-      3221997.22903,
-      765738.70777,
-      3223217.22903
-    ],
-    "review_square_side_m": 1220.0,
-    "display_pixel_size_m": 1.525,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0080_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0080_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0080_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0080_MSRM.png",
-        "scale_path": "imgs/review_images/site_0080_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.14132468402385712,
-        "vmax": 0.14258427917957306,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0080_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0080_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.2196259498596191,
-        "vmax": 1.4333155155181885,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.104288050047895, 71.72425732169874"
-  },
-  {
-    "candidate_id": "site_0081",
-    "median_probability": "67.5317823886871",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      769268.70777,
-      3215897.22903,
-      770388.70777,
-      3217017.22903
-    ],
-    "review_square_side_m": 1120.0,
-    "display_pixel_size_m": 1.4,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0081_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0081_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0081_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0081_MSRM.png",
-        "scale_path": "imgs/review_images/site_0081_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.12260664999485016,
-        "vmax": 0.11636331677436829,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0081_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0081_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0709420442581177,
-        "vmax": 1.249106526374817,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.047854792682177, 71.77101961390797"
-  },
-  {
-    "candidate_id": "site_0082",
-    "median_probability": "79.5285522937775",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      761358.70777,
-      3215087.22903,
-      762968.70777,
-      3216697.22903
-    ],
-    "review_square_side_m": 1610.0,
-    "display_pixel_size_m": 2.0125,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0082_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0082_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0082_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0082_MSRM.png",
-        "scale_path": "imgs/review_images/site_0082_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.20124417543411255,
-        "vmax": 0.1910836100578308,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0082_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0082_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0684897899627686,
-        "vmax": 1.378577470779419,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.044361742715974, 71.6922440239313"
-  },
-  {
-    "candidate_id": "site_0083",
-    "median_probability": "71.5075552463531",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      760198.70777,
-      3214752.22903,
-      761528.70777,
-      3216082.22903
-    ],
-    "review_square_side_m": 1330.0,
-    "display_pixel_size_m": 1.6625,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0083_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0083_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0083_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0083_MSRM.png",
-        "scale_path": "imgs/review_images/site_0083_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.21582254767417908,
-        "vmax": 0.23900988698005676,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0083_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0083_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 0.9867814779281616,
-        "vmax": 1.2894035577774048,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.040346080138935, 71.67879529930707"
-  },
-  {
-    "candidate_id": "site_0084",
-    "median_probability": "74.117374420166",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      766075.65837,
-      3230951.65399,
-      767355.65837,
-      3232231.65399
-    ],
-    "review_square_side_m": 1280.0,
-    "display_pixel_size_m": 1.6,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0084_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0084_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0084_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0084_MSRM.png",
-        "scale_path": "imgs/review_images/site_0084_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.18622994422912598,
-        "vmax": 0.19984689354896545,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0084_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0084_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.03211510181427,
-        "vmax": 1.237798810005188,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.184954130752836, 71.74270000417285"
-  },
-  {
-    "candidate_id": "site_0085",
-    "median_probability": "71.3699758052826",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      790013.8954,
-      3293447.72061,
-      791223.8954,
-      3294657.72061
-    ],
-    "review_square_side_m": 1210.0,
-    "display_pixel_size_m": 1.5125,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0085_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0085_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0085_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0085_MSRM.png",
-        "scale_path": "imgs/review_images/site_0085_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.10130792111158371,
-        "vmax": 0.11146502941846848,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0085_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0085_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.2871286869049072,
-        "vmax": 1.5591304302215576,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.742654284690474, 72.00479943290291"
-  },
-  {
-    "candidate_id": "site_0086",
-    "median_probability": "81.5575182437897",
-    "median_probability_category": "Very High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      788743.8954,
-      3291087.72061,
-      790123.8954,
-      3292467.72061
-    ],
-    "review_square_side_m": 1380.0,
-    "display_pixel_size_m": 1.725,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0086_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0086_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0086_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0086_MSRM.png",
-        "scale_path": "imgs/review_images/site_0086_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.13174307346343994,
-        "vmax": 0.1164536327123642,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0086_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0086_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.320162057876587,
-        "vmax": 1.6052258014678955,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.72242810394564, 71.99195224912911"
-  },
-  {
-    "candidate_id": "site_0087",
-    "median_probability": "67.6346063613892",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      785398.8954,
-      3288002.72061,
-      786548.8954,
-      3289152.72061
-    ],
-    "review_square_side_m": 1150.0,
-    "display_pixel_size_m": 1.4375,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0087_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0087_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0087_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0087_MSRM.png",
-        "scale_path": "imgs/review_images/site_0087_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.13199007511138916,
-        "vmax": 0.12263085693120956,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0087_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0087_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.262462854385376,
-        "vmax": 1.5356676578521729,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.69438995330915, 71.95537980594486"
-  },
-  {
-    "candidate_id": "site_0088",
-    "median_probability": "70.186185836792",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      1083123.02346,
-      3285709.17186,
-      1084253.02346,
-      3286839.17186
-    ],
-    "review_square_side_m": 1130.0,
-    "display_pixel_size_m": 1.4125,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0088_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0088_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0088_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0088_MSRM.png",
-        "scale_path": "imgs/review_images/site_0088_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.20586258172988892,
-        "vmax": 0.20015424489974976,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0088_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0088_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.1071869134902954,
-        "vmax": 1.3344899415969849,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.569697771095026, 75.02031136612483"
-  },
-  {
-    "candidate_id": "site_0089",
-    "median_probability": "66.19249582290651",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      785808.8954041072,
-      3300552.720605809,
-      786918.8954041072,
-      3301662.720605809
-    ],
-    "review_square_side_m": 1110.0,
-    "display_pixel_size_m": 1.3875,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0089_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0089_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0089_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0089_MSRM.png",
-        "scale_path": "imgs/review_images/site_0089_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.12487015128135681,
-        "vmax": 0.11123590171337128,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0089_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0089_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.1660643815994263,
-        "vmax": 1.4018641710281372,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.807231087873497, 71.9627277310941"
-  },
-  {
-    "candidate_id": "site_0090",
-    "median_probability": "68.45678687095639",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      786398.8954041072,
-      3298802.720605809,
-      787528.8954041072,
-      3299932.720605809
-    ],
-    "review_square_side_m": 1130.0,
-    "display_pixel_size_m": 1.4125,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0090_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0090_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0090_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0090_MSRM.png",
-        "scale_path": "imgs/review_images/site_0090_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.08289013057947159,
-        "vmax": 0.06513255089521408,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0090_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0090_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.3359812498092651,
-        "vmax": 1.5883833169937134,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.791409671419512, 71.96846499631259"
-  },
-  {
-    "candidate_id": "site_0091",
-    "median_probability": "66.515326499939",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      785498.8954041072,
-      3295907.720605809,
-      786568.8954041072,
-      3296977.720605809
-    ],
-    "review_square_side_m": 1070.0,
-    "display_pixel_size_m": 1.3375,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0091_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0091_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0091_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0091_MSRM.png",
-        "scale_path": "imgs/review_images/site_0091_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.11304298788309097,
-        "vmax": 0.1340825855731964,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0091_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0091_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.2906664609909058,
-        "vmax": 1.560914158821106,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.76526272549037, 71.95807976539635"
-  },
-  {
-    "candidate_id": "site_0092",
-    "median_probability": "79.9763143062592",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      690467.35465,
-      3478120.80867,
-      691787.35465,
-      3479440.80867
-    ],
-    "review_square_side_m": 1320.0,
-    "display_pixel_size_m": 1.65,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0092_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0092_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0092_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0092_MSRM.png",
-        "scale_path": "imgs/review_images/site_0092_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.20517297089099884,
-        "vmax": 0.2177639752626419,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0092_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0092_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0820003747940063,
-        "vmax": 1.333799958229065,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=31.427953513135968, 71.01089245045789"
-  },
-  {
-    "candidate_id": "site_0093",
-    "median_probability": "78.23602557182309",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      690132.35465,
-      3474090.80867,
-      691442.35465,
-      3475400.80867
-    ],
-    "review_square_side_m": 1310.0,
-    "display_pixel_size_m": 1.6375,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0093_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0093_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0093_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0093_MSRM.png",
-        "scale_path": "imgs/review_images/site_0093_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.24086599051952362,
-        "vmax": 0.22605477273464203,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0093_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0093_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0533181428909302,
-        "vmax": 1.3266342878341675,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=31.391625611789497, 71.00654236441757"
-  },
-  {
-    "candidate_id": "site_0094",
-    "median_probability": "86.6469323635101",
-    "median_probability_category": "Very High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      785336.9484,
-      3234858.99531,
-      786826.9484,
-      3236348.99531
-    ],
-    "review_square_side_m": 1490.0,
-    "display_pixel_size_m": 1.8625,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0094_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0094_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0094_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0094_MSRM.png",
-        "scale_path": "imgs/review_images/site_0094_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.2194681614637375,
-        "vmax": 0.21929724514484406,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0094_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0094_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0896246433258057,
-        "vmax": 1.3433806896209717,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.21689425948902, 71.94267169292146"
-  },
-  {
-    "candidate_id": "site_0095",
-    "median_probability": "69.3965971469879",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      778926.9484,
-      3234053.99531,
-      780266.9484,
-      3235393.99531
-    ],
-    "review_square_side_m": 1340.0,
-    "display_pixel_size_m": 1.675,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0095_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0095_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0095_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0095_MSRM.png",
-        "scale_path": "imgs/review_images/site_0095_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.22434423863887787,
-        "vmax": 0.23617325723171234,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0095_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0095_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.060593843460083,
-        "vmax": 1.3503947257995605,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.210411868593823, 71.87581493177589"
-  },
-  {
-    "candidate_id": "site_0096",
-    "median_probability": "77.98994779586789",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      1031153.25676,
-      3249446.49889,
-      1032453.25676,
-      3250746.49889
-    ],
-    "review_square_side_m": 1300.0,
-    "display_pixel_size_m": 1.625,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0096_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0096_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0096_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0096_MSRM.png",
-        "scale_path": "imgs/review_images/site_0096_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.33863526582717896,
-        "vmax": 0.3459101915359497,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0096_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0096_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0980157852172852,
-        "vmax": 1.1847338676452637,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.267853350320415, 74.4698007671365"
-  },
-  {
-    "candidate_id": "site_0097",
-    "median_probability": "92.16720461845401",
-    "median_probability_category": "Very High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      1031888.25676,
-      3248361.49889,
-      1033468.25676,
-      3249941.49889
-    ],
-    "review_square_side_m": 1580.0,
-    "display_pixel_size_m": 1.975,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0097_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0097_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0097_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0097_MSRM.png",
-        "scale_path": "imgs/review_images/site_0097_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.3615231513977051,
-        "vmax": 0.4012793302536011,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0097_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0097_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0676575899124146,
-        "vmax": 1.2183758020401,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.25899489192112, 74.47831244138338"
-  },
-  {
-    "candidate_id": "site_0098",
-    "median_probability": "82.2331964969635",
-    "median_probability_category": "Very High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      1032033.25676,
-      3247791.49889,
-      1033383.25676,
-      3249141.49889
-    ],
-    "review_square_side_m": 1350.0,
-    "display_pixel_size_m": 1.6875,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0098_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0098_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0098_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0098_MSRM.png",
-        "scale_path": "imgs/review_images/site_0098_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.3568277657032013,
-        "vmax": 0.3530472218990326,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0098_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0098_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0729857683181763,
-        "vmax": 1.1675156354904175,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.252828078610513, 74.47829085353082"
-  },
-  {
-    "candidate_id": "site_0099",
-    "median_probability": "72.3098754882812",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      1037208.25676,
-      3246961.49889,
-      1038668.25676,
-      3248421.49889
-    ],
-    "review_square_side_m": 1460.0,
-    "display_pixel_size_m": 1.825,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0099_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0099_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0099_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0099_MSRM.png",
-        "scale_path": "imgs/review_images/site_0099_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.3508118987083435,
-        "vmax": 0.4007101058959961,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0099_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0099_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.1019368171691895,
-        "vmax": 1.2015540599822998,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.243653035083383, 74.53149303085736"
-  },
-  {
-    "candidate_id": "site_0100",
-    "median_probability": "65.98103046417239",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      1033133.25676,
-      3245571.49889,
-      1034273.25676,
-      3246711.49889
-    ],
-    "review_square_side_m": 1140.0,
-    "display_pixel_size_m": 1.425,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0100_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0100_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0100_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0100_MSRM.png",
-        "scale_path": "imgs/review_images/site_0100_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.4098714292049408,
-        "vmax": 0.5229266285896301,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0100_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0100_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0759581327438354,
-        "vmax": 1.1494594812393188,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.231520685606256, 74.4873666001453"
-  },
-  {
-    "candidate_id": "site_0101",
-    "median_probability": "71.2356209754944",
+    "candidate_id": "site_0150",
+    "median_probability": "71.0226953029633",
     "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      1037203.25676,
-      3245261.49889,
-      1038443.25676,
-      3246501.49889
-    ],
-    "review_square_side_m": 1240.0,
-    "display_pixel_size_m": 1.55,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0101_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0101_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0101_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0101_MSRM.png",
-        "scale_path": "imgs/review_images/site_0101_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.3905095160007477,
-        "vmax": 0.46996113657951355,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0101_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0101_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0678353309631348,
-        "vmax": 1.2048540115356445,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.2274418246327, 74.52943845866999"
-  },
-  {
-    "candidate_id": "site_0102",
-    "median_probability": "81.3446819782257",
-    "median_probability_category": "Very High",
     "image_size_px": 800,
     "review_square_bounds": [
-      1036998.25676,
-      3244611.49889,
-      1038478.25676,
-      3246091.49889
+      833577.6210377591,
+      3231912.960469837,
+      834597.6210377591,
+      3232932.960469837
     ],
-    "review_square_side_m": 1480.0,
-    "display_pixel_size_m": 1.85,
+    "review_square_side_m": 1020.0,
+    "display_pixel_size_m": 1.275,
     "images": [
       {
         "name": "rgb",
         "type": "rgb",
-        "path": "imgs/review_images/site_0102_rgb.png",
+        "path": "imgs/review_images/site_0150_rgb.png",
         "bands": [
           2,
           1,
@@ -5843,8 +143,8 @@ const candidates = [
       {
         "name": "SAVI (Wet)",
         "type": "colormap",
-        "path": "imgs/review_images/site_0102_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0102_SAVI (Wet)_scale.png",
+        "path": "imgs/review_images/site_0150_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0150_SAVI (Wet)_scale.png",
         "band": 23,
         "vmin": -0.5,
         "vmax": 0.5,
@@ -5853,25 +153,25 @@ const candidates = [
       {
         "name": "MSRM",
         "type": "colormap",
-        "path": "imgs/review_images/site_0102_MSRM.png",
-        "scale_path": "imgs/review_images/site_0102_MSRM_scale.png",
+        "path": "imgs/review_images/site_0150_MSRM.png",
+        "scale_path": "imgs/review_images/site_0150_MSRM_scale.png",
         "band": 42,
-        "vmin": -0.3992246389389038,
-        "vmax": 0.4550330638885498,
+        "vmin": -0.4785618782043457,
+        "vmax": 0.501384437084198,
         "cmap": "RdYlGn"
       },
       {
         "name": "Clay Mineral Ratio",
         "type": "colormap",
-        "path": "imgs/review_images/site_0102_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0102_Clay Mineral Ratio_scale.png",
+        "path": "imgs/review_images/site_0150_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0150_Clay Mineral Ratio_scale.png",
         "band": 25,
-        "vmin": 1.0780175924301147,
-        "vmax": 1.176871657371521,
+        "vmin": 1.0546876192092896,
+        "vmax": 1.1641308069229126,
         "cmap": "RdYlGn"
       }
     ],
-    "google_maps_url": "https://maps.google.com/?q=29.222716630519553, 74.52831141218932"
+    "google_maps_url": "https://maps.google.com/?q=29.17647085308828, 72.43482487863709"
   },
   {
     "candidate_id": "site_0103",
@@ -5931,23 +231,23 @@ const candidates = [
     "google_maps_url": "https://maps.google.com/?q=29.221905777372587, 74.50219732898428"
   },
   {
-    "candidate_id": "site_0104",
-    "median_probability": "66.2176549434662",
+    "candidate_id": "site_0015",
+    "median_probability": "78.70251536369321",
     "median_probability_category": "High",
     "image_size_px": 800,
     "review_square_bounds": [
-      1037657.46754,
-      3363377.09298,
-      1038767.46754,
-      3364487.09298
+      834184.34683,
+      3368709.82624,
+      835444.34683,
+      3369969.82624
     ],
-    "review_square_side_m": 1110.0,
-    "display_pixel_size_m": 1.3875,
+    "review_square_side_m": 1260.0,
+    "display_pixel_size_m": 1.575,
     "images": [
       {
         "name": "rgb",
         "type": "rgb",
-        "path": "imgs/review_images/site_0104_rgb.png",
+        "path": "imgs/review_images/site_0015_rgb.png",
         "bands": [
           2,
           1,
@@ -5957,8 +257,8 @@ const candidates = [
       {
         "name": "SAVI (Wet)",
         "type": "colormap",
-        "path": "imgs/review_images/site_0104_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0104_SAVI (Wet)_scale.png",
+        "path": "imgs/review_images/site_0015_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0015_SAVI (Wet)_scale.png",
         "band": 23,
         "vmin": -0.5,
         "vmax": 0.5,
@@ -5967,272 +267,44 @@ const candidates = [
       {
         "name": "MSRM",
         "type": "colormap",
-        "path": "imgs/review_images/site_0104_MSRM.png",
-        "scale_path": "imgs/review_images/site_0104_MSRM_scale.png",
+        "path": "imgs/review_images/site_0015_MSRM.png",
+        "scale_path": "imgs/review_images/site_0015_MSRM_scale.png",
         "band": 42,
-        "vmin": -0.30563411116600037,
-        "vmax": 0.3521803319454193,
+        "vmin": -0.1265624463558197,
+        "vmax": 0.12302710115909576,
         "cmap": "RdYlGn"
       },
       {
         "name": "Clay Mineral Ratio",
         "type": "colormap",
-        "path": "imgs/review_images/site_0104_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0104_Clay Mineral Ratio_scale.png",
+        "path": "imgs/review_images/site_0015_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0015_Clay Mineral Ratio_scale.png",
         "band": 25,
-        "vmin": 1.0540684461593628,
-        "vmax": 1.2714442014694214,
+        "vmin": 1.2729467153549194,
+        "vmax": 1.4513362646102905,
         "cmap": "RdYlGn"
       }
     ],
-    "google_maps_url": "https://maps.google.com/?q=30.287639974048446, 74.59217407679336"
+    "google_maps_url": "https://maps.google.com/?q=30.409673663925727, 72.48481211936667"
   },
   {
-    "candidate_id": "site_0105",
-    "median_probability": "75.25149583816531",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      1040567.46754,
-      3363372.09298,
-      1041817.46754,
-      3364622.09298
-    ],
-    "review_square_side_m": 1250.0,
-    "display_pixel_size_m": 1.5625,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0105_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0105_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0105_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0105_MSRM.png",
-        "scale_path": "imgs/review_images/site_0105_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.24839478731155396,
-        "vmax": 0.2649608254432678,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0105_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0105_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0692788362503052,
-        "vmax": 1.2829593420028687,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=30.286898416283613, 74.62304575278986"
-  },
-  {
-    "candidate_id": "site_0106",
-    "median_probability": "71.2593555450439",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      951566.66163,
-      3397516.29087,
-      952786.66163,
-      3398736.29087
-    ],
-    "review_square_side_m": 1220.0,
-    "display_pixel_size_m": 1.525,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0106_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0106_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0106_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0106_MSRM.png",
-        "scale_path": "imgs/review_images/site_0106_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.15244358777999878,
-        "vmax": 0.14931637048721313,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0106_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0106_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.2607518434524536,
-        "vmax": 1.4960359334945679,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=30.630306848782936, 73.71583418796132"
-  },
-  {
-    "candidate_id": "site_0107",
-    "median_probability": "73.1134176254272",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      1164607.34641,
-      3222371.09806,
-      1165777.34641,
-      3223541.09806
-    ],
-    "review_square_side_m": 1170.0,
-    "display_pixel_size_m": 1.4625,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0107_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0107_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0107_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0107_MSRM.png",
-        "scale_path": "imgs/review_images/site_0107_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.38926854729652405,
-        "vmax": 0.37904325127601624,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0107_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0107_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0484521389007568,
-        "vmax": 1.211233377456665,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=28.961611167284456, 75.81836703810416"
-  },
-  {
-    "candidate_id": "site_0108",
-    "median_probability": "66.9854283332825",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      1167607.3464139786,
-      3222121.0980574815,
-      1168717.3464139786,
-      3223231.0980574815
-    ],
-    "review_square_side_m": 1110.0,
-    "display_pixel_size_m": 1.3875,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0108_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0108_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0108_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0108_MSRM.png",
-        "scale_path": "imgs/review_images/site_0108_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.31815868616104126,
-        "vmax": 0.34262967109680176,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0108_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0108_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.072808027267456,
-        "vmax": 1.1884617805480957,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=28.957557478432477, 75.84846508384011"
-  },
-  {
-    "candidate_id": "site_0109",
-    "median_probability": "84.214186668396",
+    "candidate_id": "site_0076",
+    "median_probability": "81.05972409248349",
     "median_probability_category": "Very High",
     "image_size_px": 800,
     "review_square_bounds": [
-      1038977.46754,
-      3364317.09298,
-      1040247.46754,
-      3365587.09298
+      1176608.96375,
+      3229811.09806,
+      1177898.96375,
+      3231101.09806
     ],
-    "review_square_side_m": 1270.0,
-    "display_pixel_size_m": 1.5875,
+    "review_square_side_m": 1290.0,
+    "display_pixel_size_m": 1.6125,
     "images": [
       {
         "name": "rgb",
         "type": "rgb",
-        "path": "imgs/review_images/site_0109_rgb.png",
+        "path": "imgs/review_images/site_0076_rgb.png",
         "bands": [
           2,
           1,
@@ -6242,8 +314,8 @@ const candidates = [
       {
         "name": "SAVI (Wet)",
         "type": "colormap",
-        "path": "imgs/review_images/site_0109_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0109_SAVI (Wet)_scale.png",
+        "path": "imgs/review_images/site_0076_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0076_SAVI (Wet)_scale.png",
         "band": 23,
         "vmin": -0.5,
         "vmax": 0.5,
@@ -6252,823 +324,25 @@ const candidates = [
       {
         "name": "MSRM",
         "type": "colormap",
-        "path": "imgs/review_images/site_0109_MSRM.png",
-        "scale_path": "imgs/review_images/site_0109_MSRM_scale.png",
+        "path": "imgs/review_images/site_0076_MSRM.png",
+        "scale_path": "imgs/review_images/site_0076_MSRM_scale.png",
         "band": 42,
-        "vmin": -0.22995248436927795,
-        "vmax": 0.22609040141105652,
+        "vmin": -0.22546878457069397,
+        "vmax": 0.23753878474235535,
         "cmap": "RdYlGn"
       },
       {
         "name": "Clay Mineral Ratio",
         "type": "colormap",
-        "path": "imgs/review_images/site_0109_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0109_Clay Mineral Ratio_scale.png",
+        "path": "imgs/review_images/site_0076_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0076_Clay Mineral Ratio_scale.png",
         "band": 25,
-        "vmin": 1.1104199886322021,
-        "vmax": 1.2849574089050293,
+        "vmin": 1.1478999853134155,
+        "vmax": 1.327247977256775,
         "cmap": "RdYlGn"
       }
     ],
-    "google_maps_url": "https://maps.google.com/?q=30.296178730714903, 74.60718484179797"
-  },
-  {
-    "candidate_id": "site_0110",
-    "median_probability": "78.0654788017273",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      827390.16718,
-      3311641.9631,
-      828690.16718,
-      3312941.9631
-    ],
-    "review_square_side_m": 1300.0,
-    "display_pixel_size_m": 1.625,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0110_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0110_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0110_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0110_MSRM.png",
-        "scale_path": "imgs/review_images/site_0110_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.1688074767589569,
-        "vmax": 0.16557005047798157,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0110_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0110_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.3350456953048706,
-        "vmax": 1.7003201246261597,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.897625511638395, 72.39673338733083"
-  },
-  {
-    "candidate_id": "site_0111",
-    "median_probability": "69.9874818325043",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      823800.16718,
-      3309621.9631,
-      824950.16718,
-      3310771.9631
-    ],
-    "review_square_side_m": 1150.0,
-    "display_pixel_size_m": 1.4375,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0111_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0111_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0111_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0111_MSRM.png",
-        "scale_path": "imgs/review_images/site_0111_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.151866614818573,
-        "vmax": 0.17173334956169128,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0111_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0111_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.2022266387939453,
-        "vmax": 1.5613977909088135,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.879722646066853, 72.35820499750886"
-  },
-  {
-    "candidate_id": "site_0112",
-    "median_probability": "79.41081523895261",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      820500.16718,
-      3306891.9631,
-      821770.16718,
-      3308161.9631
-    ],
-    "review_square_side_m": 1270.0,
-    "display_pixel_size_m": 1.5875,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0112_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0112_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0112_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0112_MSRM.png",
-        "scale_path": "imgs/review_images/site_0112_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.09777349978685379,
-        "vmax": 0.08806341141462326,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0112_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0112_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.2944871187210083,
-        "vmax": 1.6788769960403442,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.856516215907035, 72.32391075125449"
-  },
-  {
-    "candidate_id": "site_0113",
-    "median_probability": "76.0515153408051",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      922284.71046,
-      3543426.64862,
-      923494.71046,
-      3544636.64862
-    ],
-    "review_square_side_m": 1210.0,
-    "display_pixel_size_m": 1.5125,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0113_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0113_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0113_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0113_MSRM.png",
-        "scale_path": "imgs/review_images/site_0113_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.14583097398281097,
-        "vmax": 0.14872752130031586,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0113_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0113_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0721702575683594,
-        "vmax": 1.3315112590789795,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=31.9535296032865, 73.47287080536299"
-  },
-  {
-    "candidate_id": "site_0114",
-    "median_probability": "92.9553747177124",
-    "median_probability_category": "Very High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      900931.37447,
-      3362172.74356,
-      902341.37447,
-      3363582.74356
-    ],
-    "review_square_side_m": 1410.0,
-    "display_pixel_size_m": 1.7625,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0114_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0114_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0114_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0114_MSRM.png",
-        "scale_path": "imgs/review_images/site_0114_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.13053639233112335,
-        "vmax": 0.12724639475345612,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0114_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0114_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.252699613571167,
-        "vmax": 1.4550812244415283,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=30.331122401319924, 73.17640791519057"
-  },
-  {
-    "candidate_id": "site_0115",
-    "median_probability": "73.892480134964",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      901681.37447,
-      3358172.74356,
-      902911.37447,
-      3359402.74356
-    ],
-    "review_square_side_m": 1230.0,
-    "display_pixel_size_m": 1.5375,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0115_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0115_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0115_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0115_MSRM.png",
-        "scale_path": "imgs/review_images/site_0115_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.15153801441192627,
-        "vmax": 0.14514893293380737,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0115_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0115_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.2498054504394531,
-        "vmax": 1.492544174194336,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=30.2940929550401, 73.18168962969258"
-  },
-  {
-    "candidate_id": "site_0117",
-    "median_probability": "80.1270186901093",
-    "median_probability_category": "Very High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      982557.0981,
-      3370824.29794,
-      983897.0981,
-      3372164.29794
-    ],
-    "review_square_side_m": 1340.0,
-    "display_pixel_size_m": 1.675,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0117_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0117_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0117_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0117_MSRM.png",
-        "scale_path": "imgs/review_images/site_0117_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.12577304244041443,
-        "vmax": 0.11932750791311264,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0117_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0117_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0723443031311035,
-        "vmax": 1.2351906299591064,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=30.378776285926566, 74.0262886451282"
-  },
-  {
-    "candidate_id": "site_0118",
-    "median_probability": "73.1654286384583",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      1035201.34091,
-      3467608.96371,
-      1036321.34091,
-      3468728.96371
-    ],
-    "review_square_side_m": 1120.0,
-    "display_pixel_size_m": 1.4,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0118_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0118_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0118_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0118_MSRM.png",
-        "scale_path": "imgs/review_images/site_0118_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.21931464970111847,
-        "vmax": 0.24682267010211945,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0118_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0118_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.1230072975158691,
-        "vmax": 1.3442628383636475,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=31.22481717663134, 74.62110169238171"
-  },
-  {
-    "candidate_id": "site_0119",
-    "median_probability": "78.4408569335938",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      766536.03013,
-      3284130.33595,
-      767866.03013,
-      3285460.33595
-    ],
-    "review_square_side_m": 1330.0,
-    "display_pixel_size_m": 1.6625,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0119_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0119_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0119_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0119_MSRM.png",
-        "scale_path": "imgs/review_images/site_0119_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.09953532367944717,
-        "vmax": 0.10325372964143753,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0119_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0119_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.2070379257202148,
-        "vmax": 1.49269437789917,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.66447927412706, 71.76063453674018"
-  },
-  {
-    "candidate_id": "site_0120",
-    "median_probability": "86.5264236927032",
-    "median_probability_category": "Very High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      1081685.06989,
-      3428084.69213,
-      1083105.06989,
-      3429504.69213
-    ],
-    "review_square_side_m": 1420.0,
-    "display_pixel_size_m": 1.775,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0120_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0120_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0120_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0120_MSRM.png",
-        "scale_path": "imgs/review_images/site_0120_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.04803328216075897,
-        "vmax": 0.06428495794534683,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0120_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0120_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0634663105010986,
-        "vmax": 1.2328245639801025,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=30.84927124703744, 75.08552440214714"
-  },
-  {
-    "candidate_id": "site_0121",
-    "median_probability": "79.65988516807559",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      1080790.0698936526,
-      3428034.6921289405,
-      1081860.0698936526,
-      3429104.6921289405
-    ],
-    "review_square_side_m": 1070.0,
-    "display_pixel_size_m": 1.3375,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0121_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0121_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0121_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0121_MSRM.png",
-        "scale_path": "imgs/review_images/site_0121_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.08198994398117065,
-        "vmax": 0.10558366775512695,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0121_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0121_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0554466247558594,
-        "vmax": 1.2213656902313232,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=30.847776846684194, 75.07426925997596"
-  },
-  {
-    "candidate_id": "site_0122",
-    "median_probability": "70.4142272472382",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      1080405.0698936526,
-      3427854.6921289405,
-      1081485.0698936526,
-      3428934.6921289405
-    ],
-    "review_square_side_m": 1080.0,
-    "display_pixel_size_m": 1.35,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0122_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0122_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0122_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0122_MSRM.png",
-        "scale_path": "imgs/review_images/site_0122_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.09855516999959946,
-        "vmax": 0.10591530054807663,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0122_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0122_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0582859516143799,
-        "vmax": 1.2375187873840332,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=30.846392623320263, 75.07021822284251"
-  },
-  {
-    "candidate_id": "site_0123",
-    "median_probability": "88.7652516365051",
-    "median_probability_category": "Very High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      1080395.06989,
-      3427694.69213,
-      1081885.06989,
-      3429184.69213
-    ],
-    "review_square_side_m": 1490.0,
-    "display_pixel_size_m": 1.8625,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0123_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0123_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0123_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0123_MSRM.png",
-        "scale_path": "imgs/review_images/site_0123_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.09542347490787506,
-        "vmax": 0.09837894141674042,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0123_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0123_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0664739608764648,
-        "vmax": 1.2291975021362305,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=30.846700930512565, 75.07227160873747"
-  },
-  {
-    "candidate_id": "site_0124",
-    "median_probability": "71.02652192115781",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      1078855.06989,
-      3426449.69213,
-      1080005.06989,
-      3427599.69213
-    ],
-    "review_square_side_m": 1150.0,
-    "display_pixel_size_m": 1.4375,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0124_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0124_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0124_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0124_MSRM.png",
-        "scale_path": "imgs/review_images/site_0124_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.17907895147800446,
-        "vmax": 0.22446651756763458,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0124_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0124_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.1043697595596313,
-        "vmax": 1.295484185218811,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=30.834839981992086, 75.05368826820622"
+    "google_maps_url": "https://maps.google.com/?q=29.022493260698475, 75.94576980468837"
   },
   {
     "candidate_id": "site_0125",
@@ -7128,234 +402,6 @@ const candidates = [
     "google_maps_url": "https://maps.google.com/?q=30.016319210405264, 72.56712762243276"
   },
   {
-    "candidate_id": "site_0126",
-    "median_probability": "73.8644003868103",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      837636.71886,
-      3320146.38501,
-      838796.71886,
-      3321306.38501
-    ],
-    "review_square_side_m": 1160.0,
-    "display_pixel_size_m": 1.45,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0126_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0126_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0126_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0126_MSRM.png",
-        "scale_path": "imgs/review_images/site_0126_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.1315036416053772,
-        "vmax": 0.11168840527534485,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0126_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0126_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.3523967266082764,
-        "vmax": 1.6044018268585205,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.970846696122702, 72.50461059757629"
-  },
-  {
-    "candidate_id": "site_0127",
-    "median_probability": "65.5714452266693",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      1079443.0234616883,
-      3291143.0934357992,
-      1080493.0234616883,
-      3292193.0934357992
-    ],
-    "review_square_side_m": 1050.0,
-    "display_pixel_size_m": 1.3125,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0127_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0127_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0127_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0127_MSRM.png",
-        "scale_path": "imgs/review_images/site_0127_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.21892991662025452,
-        "vmax": 0.20986026525497437,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0127_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0127_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.1062560081481934,
-        "vmax": 1.3438360691070557,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.619844821369707, 74.98498454227466"
-  },
-  {
-    "candidate_id": "site_0128",
-    "median_probability": "68.3349668979645",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      767880.65837,
-      3239031.65399,
-      769090.65837,
-      3240241.65399
-    ],
-    "review_square_side_m": 1210.0,
-    "display_pixel_size_m": 1.5125,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0128_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0128_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0128_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0128_MSRM.png",
-        "scale_path": "imgs/review_images/site_0128_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.1744822859764099,
-        "vmax": 0.1789519190788269,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0128_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0128_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0649925470352173,
-        "vmax": 1.2631551027297974,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.25710699064477, 71.76283098100345"
-  },
-  {
-    "candidate_id": "site_0129",
-    "median_probability": "65.19973874092099",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      778808.5584748546,
-      3289817.720605809,
-      779858.5584748546,
-      3290867.720605809
-    ],
-    "review_square_side_m": 1050.0,
-    "display_pixel_size_m": 1.3125,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0129_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0129_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0129_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0129_MSRM.png",
-        "scale_path": "imgs/review_images/site_0129_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.14480862021446228,
-        "vmax": 0.1368197202682495,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0129_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0129_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0889525413513184,
-        "vmax": 1.5295383930206299,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.711811753155725, 71.88728444373582"
-  },
-  {
     "candidate_id": "site_0130",
     "median_probability": "69.0068483352661",
     "median_probability_category": "High",
@@ -7411,690 +457,6 @@ const candidates = [
       }
     ],
     "google_maps_url": "https://maps.google.com/?q=29.706739504013928, 71.93946678332325"
-  },
-  {
-    "candidate_id": "site_0131",
-    "median_probability": "75.70928335189821",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      1167622.34641,
-      3219256.09806,
-      1168862.34641,
-      3220496.09806
-    ],
-    "review_square_side_m": 1240.0,
-    "display_pixel_size_m": 1.55,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0131_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0131_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0131_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0131_MSRM.png",
-        "scale_path": "imgs/review_images/site_0131_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.3139895796775818,
-        "vmax": 0.31543493270874023,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0131_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0131_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0705406665802002,
-        "vmax": 1.16058349609375,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=28.932423891145334, 75.84762202670565"
-  },
-  {
-    "candidate_id": "site_0132",
-    "median_probability": "68.4060871601105",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      1169082.34641,
-      3214176.09806,
-      1170222.34641,
-      3215316.09806
-    ],
-    "review_square_side_m": 1140.0,
-    "display_pixel_size_m": 1.425,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0132_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0132_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0132_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0132_MSRM.png",
-        "scale_path": "imgs/review_images/site_0132_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.9114574790000916,
-        "vmax": 0.8113986849784851,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0132_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0132_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0498827695846558,
-        "vmax": 1.179958462715149,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=28.8857180350011, 75.85894634337987"
-  },
-  {
-    "candidate_id": "site_0133",
-    "median_probability": "75.730961561203",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      1171002.34641,
-      3212876.09806,
-      1172232.34641,
-      3214106.09806
-    ],
-    "review_square_side_m": 1230.0,
-    "display_pixel_size_m": 1.5375,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0133_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0133_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0133_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0133_MSRM.png",
-        "scale_path": "imgs/review_images/site_0133_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.3746081590652466,
-        "vmax": 0.3463917374610901,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0133_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0133_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0587800741195679,
-        "vmax": 1.1817466020584106,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=28.87344738183761, 75.87820899064221"
-  },
-  {
-    "candidate_id": "site_0134",
-    "median_probability": "69.3833529949188",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      1156151.434972825,
-      3286316.5718067535,
-      1157291.434972825,
-      3287456.5718067535
-    ],
-    "review_square_side_m": 1140.0,
-    "display_pixel_size_m": 1.425,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0134_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0134_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0134_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0134_MSRM.png",
-        "scale_path": "imgs/review_images/site_0134_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.2887313663959503,
-        "vmax": 0.2767055928707123,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0134_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0134_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.1285369396209717,
-        "vmax": 1.3192002773284912,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.538975826833063, 75.76983434644194"
-  },
-  {
-    "candidate_id": "site_0135",
-    "median_probability": "67.1277344226837",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      1159037.34641,
-      3228209.59737,
-      1160177.34641,
-      3229349.59737
-    ],
-    "review_square_side_m": 1140.0,
-    "display_pixel_size_m": 1.425,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0135_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0135_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0135_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0135_MSRM.png",
-        "scale_path": "imgs/review_images/site_0135_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.5012876987457275,
-        "vmax": 0.47232919931411743,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0135_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0135_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0420877933502197,
-        "vmax": 1.2786600589752197,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.01669292967953, 75.76486251311952"
-  },
-  {
-    "candidate_id": "site_0136",
-    "median_probability": "88.2442116737366",
-    "median_probability_category": "Very High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      1162777.34641,
-      3224309.59737,
-      1164117.34641,
-      3225649.59737
-    ],
-    "review_square_side_m": 1340.0,
-    "display_pixel_size_m": 1.675,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0136_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0136_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0136_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0136_MSRM.png",
-        "scale_path": "imgs/review_images/site_0136_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.4943264424800873,
-        "vmax": 0.48062393069267273,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0136_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0136_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.036702036857605,
-        "vmax": 1.1100181341171265,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=28.98065056544379, 75.80177598981543"
-  },
-  {
-    "candidate_id": "site_0137",
-    "median_probability": "65.4257297515869",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      1161702.3464139786,
-      3224049.597373102,
-      1162752.3464139786,
-      3225099.597373102
-    ],
-    "review_square_side_m": 1050.0,
-    "display_pixel_size_m": 1.3125,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0137_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0137_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0137_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0137_MSRM.png",
-        "scale_path": "imgs/review_images/site_0137_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.42771047353744507,
-        "vmax": 0.3734198808670044,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0137_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0137_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.037784218788147,
-        "vmax": 1.1598883867263794,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=28.977652132557647, 75.78910282330622"
-  },
-  {
-    "candidate_id": "site_0138",
-    "median_probability": "65.87761044502261",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      1196107.9227329334,
-      3244302.224186346,
-      1197157.9227329334,
-      3245352.224186346
-    ],
-    "review_square_side_m": 1050.0,
-    "display_pixel_size_m": 1.3125,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0138_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0138_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0138_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0138_MSRM.png",
-        "scale_path": "imgs/review_images/site_0138_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.24313831329345703,
-        "vmax": 0.2975200414657593,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0138_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0138_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.1256953477859497,
-        "vmax": 1.2759720087051392,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.140787282744014, 76.15218644158202"
-  },
-  {
-    "candidate_id": "site_0139",
-    "median_probability": "68.0106282234192",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      1133678.60436,
-      3267397.42063,
-      1134808.60436,
-      3268527.42063
-    ],
-    "review_square_side_m": 1130.0,
-    "display_pixel_size_m": 1.4125,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0139_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0139_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0139_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0139_MSRM.png",
-        "scale_path": "imgs/review_images/site_0139_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.232107013463974,
-        "vmax": 0.25697213411331177,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0139_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0139_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.1042946577072144,
-        "vmax": 1.3083022832870483,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.38088535926709, 75.52847280373244"
-  },
-  {
-    "candidate_id": "site_0141",
-    "median_probability": "82.472962141037",
-    "median_probability_category": "Very High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      783291.9484,
-      3232913.99531,
-      784671.9484,
-      3234293.99531
-    ],
-    "review_square_side_m": 1380.0,
-    "display_pixel_size_m": 1.725,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0141_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0141_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0141_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0141_MSRM.png",
-        "scale_path": "imgs/review_images/site_0141_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.1950635313987732,
-        "vmax": 0.20428818464279175,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0141_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0141_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0824345350265503,
-        "vmax": 1.3591614961624146,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.19933965608153, 71.9205825610967"
-  },
-  {
-    "candidate_id": "site_0142",
-    "median_probability": "98.0781197547913",
-    "median_probability_category": "Very High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      778756.9484,
-      3228633.99531,
-      780486.9484,
-      3230363.99531
-    ],
-    "review_square_side_m": 1730.0,
-    "display_pixel_size_m": 2.1625,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0142_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0142_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0142_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0142_MSRM.png",
-        "scale_path": "imgs/review_images/site_0142_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.18865782022476196,
-        "vmax": 0.19330868124961853,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0142_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0142_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0922690629959106,
-        "vmax": 1.4640661478042603,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.163306537124846, 71.8747570999833"
-  },
-  {
-    "candidate_id": "site_0143",
-    "median_probability": "73.2707440853119",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      812551.53311,
-      3534334.96085,
-      813721.53311,
-      3535504.96085
-    ],
-    "review_square_side_m": 1170.0,
-    "display_pixel_size_m": 1.4625,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0143_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0143_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0143_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0143_MSRM.png",
-        "scale_path": "imgs/review_images/site_0143_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.10122068226337433,
-        "vmax": 0.09843079745769501,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0143_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0143_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.1709554195404053,
-        "vmax": 1.3986589908599854,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=31.907063986378073, 72.31102509044393"
   },
   {
     "candidate_id": "site_0144",
@@ -8154,1602 +516,6 @@ const candidates = [
     "google_maps_url": "https://maps.google.com/?q=31.88661262014229, 72.38404300235726"
   },
   {
-    "candidate_id": "site_0145",
-    "median_probability": "74.1009056568146",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      845487.62104,
-      3238422.96047,
-      846727.62104,
-      3239662.96047
-    ],
-    "review_square_side_m": 1240.0,
-    "display_pixel_size_m": 1.55,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0145_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0145_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0145_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0145_MSRM.png",
-        "scale_path": "imgs/review_images/site_0145_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.11304416507482529,
-        "vmax": 0.1123683825135231,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0145_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0145_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.2493767738342285,
-        "vmax": 1.4285452365875244,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.232879809516042, 72.56027393298022"
-  },
-  {
-    "candidate_id": "site_0146",
-    "median_probability": "85.7272803783417",
-    "median_probability_category": "Very High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      836682.62104,
-      3235392.96047,
-      837902.62104,
-      3236612.96047
-    ],
-    "review_square_side_m": 1220.0,
-    "display_pixel_size_m": 1.525,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0146_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0146_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0146_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0146_MSRM.png",
-        "scale_path": "imgs/review_images/site_0146_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.10852562636137009,
-        "vmax": 0.09235801547765732,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0146_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0146_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.248720645904541,
-        "vmax": 1.4343082904815674,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.20787452767988, 72.46881296084719"
-  },
-  {
-    "candidate_id": "site_0147",
-    "median_probability": "82.4204444885254",
-    "median_probability_category": "Very High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      831552.62104,
-      3235122.96047,
-      832802.62104,
-      3236372.96047
-    ],
-    "review_square_side_m": 1250.0,
-    "display_pixel_size_m": 1.5625,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0147_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0147_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0147_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0147_MSRM.png",
-        "scale_path": "imgs/review_images/site_0147_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.13650158047676086,
-        "vmax": 0.12291508167982101,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0147_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0147_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.252286434173584,
-        "vmax": 1.427107334136963,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.206929888599493, 72.41621059319291"
-  },
-  {
-    "candidate_id": "site_0148",
-    "median_probability": "75.2982199192047",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      833422.62104,
-      3232037.96047,
-      834542.62104,
-      3233157.96047
-    ],
-    "review_square_side_m": 1120.0,
-    "display_pixel_size_m": 1.4,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0148_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0148_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0148_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0148_MSRM.png",
-        "scale_path": "imgs/review_images/site_0148_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.44001805782318115,
-        "vmax": 0.460645854473114,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0148_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0148_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0528631210327148,
-        "vmax": 1.1951944828033447,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.178075177808086, 72.43379950910438"
-  },
-  {
-    "candidate_id": "site_0149",
-    "median_probability": "85.2518320083618",
-    "median_probability_category": "Very High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      833452.62104,
-      3231927.96047,
-      834602.62104,
-      3233077.96047
-    ],
-    "review_square_side_m": 1150.0,
-    "display_pixel_size_m": 1.4375,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0149_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0149_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0149_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0149_MSRM.png",
-        "scale_path": "imgs/review_images/site_0149_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.45113489031791687,
-        "vmax": 0.4383842647075653,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0149_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0149_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0555602312088013,
-        "vmax": 1.1922532320022583,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.177207416106896, 72.43423294918983"
-  },
-  {
-    "candidate_id": "site_0150",
-    "median_probability": "71.0226953029633",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      833577.6210377591,
-      3231912.960469837,
-      834597.6210377591,
-      3232932.960469837
-    ],
-    "review_square_side_m": 1020.0,
-    "display_pixel_size_m": 1.275,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0150_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0150_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0150_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0150_MSRM.png",
-        "scale_path": "imgs/review_images/site_0150_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.4785618782043457,
-        "vmax": 0.501384437084198,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0150_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0150_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0546876192092896,
-        "vmax": 1.1641308069229126,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.17647085308828, 72.43482487863709"
-  },
-  {
-    "candidate_id": "site_0151",
-    "median_probability": "71.0226953029633",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      833552.6210377591,
-      3231872.960469837,
-      834592.6210377591,
-      3232912.960469837
-    ],
-    "review_square_side_m": 1040.0,
-    "display_pixel_size_m": 1.3,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0151_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0151_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0151_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0151_MSRM.png",
-        "scale_path": "imgs/review_images/site_0151_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.4741455614566803,
-        "vmax": 0.490327924489975,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0151_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0151_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0541516542434692,
-        "vmax": 1.1691912412643433,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.176204522261838, 72.4346618784964"
-  },
-  {
-    "candidate_id": "site_0152",
-    "median_probability": "83.0803513526917",
-    "median_probability_category": "Very High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      833502.6210377591,
-      3231832.960469837,
-      834522.6210377591,
-      3232852.960469837
-    ],
-    "review_square_side_m": 1020.0,
-    "display_pixel_size_m": 1.275,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0152_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0152_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0152_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0152_MSRM.png",
-        "scale_path": "imgs/review_images/site_0152_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.46910256147384644,
-        "vmax": 0.5082749724388123,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0152_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0152_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0512745380401611,
-        "vmax": 1.1706335544586182,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.175769865645936, 72.43403090924386"
-  },
-  {
-    "candidate_id": "site_0153",
-    "median_probability": "83.0803513526917",
-    "median_probability_category": "Very High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      833522.62104,
-      3231722.96047,
-      834992.62104,
-      3233192.96047
-    ],
-    "review_square_side_m": 1470.0,
-    "display_pixel_size_m": 1.8375,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0153_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0153_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0153_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0153_MSRM.png",
-        "scale_path": "imgs/review_images/site_0153_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.39351409673690796,
-        "vmax": 0.33068692684173584,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0153_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0153_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0513908863067627,
-        "vmax": 1.1734271049499512,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.17674131778301, 72.43658059615035"
-  },
-  {
-    "candidate_id": "site_0154",
-    "median_probability": "71.2407052516937",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      862560.20004,
-      3275906.56389,
-      863790.20004,
-      3277136.56389
-    ],
-    "review_square_side_m": 1230.0,
-    "display_pixel_size_m": 1.5375,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0154_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0154_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0154_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0154_MSRM.png",
-        "scale_path": "imgs/review_images/site_0154_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.16583596169948578,
-        "vmax": 0.1291554719209671,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0154_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0154_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.071605920791626,
-        "vmax": 1.2913780212402344,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.56563040253298, 72.74791325919884"
-  },
-  {
-    "candidate_id": "site_0155",
-    "median_probability": "87.4574542045593",
-    "median_probability_category": "Very High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      861550.20004,
-      3275776.56389,
-      863050.20004,
-      3277276.56389
-    ],
-    "review_square_side_m": 1500.0,
-    "display_pixel_size_m": 1.875,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0155_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0155_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0155_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0155_MSRM.png",
-        "scale_path": "imgs/review_images/site_0155_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.1391727328300476,
-        "vmax": 0.1446363925933838,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0155_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0155_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0466898679733276,
-        "vmax": 1.269938349723816,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.56592980973802, 72.73890105590876"
-  },
-  {
-    "candidate_id": "site_0156",
-    "median_probability": "76.323276758194",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      860800.20004,
-      3274486.56389,
-      862230.20004,
-      3275916.56389
-    ],
-    "review_square_side_m": 1430.0,
-    "display_pixel_size_m": 1.7875,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0156_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0156_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0156_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0156_MSRM.png",
-        "scale_path": "imgs/review_images/site_0156_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.1713670939207077,
-        "vmax": 0.16017146408557892,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0156_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0156_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.1289983987808228,
-        "vmax": 1.3256422281265259,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.554224566467823, 72.7303751761126"
-  },
-  {
-    "candidate_id": "site_0157",
-    "median_probability": "72.15068340301511",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      861740.20004,
-      3273776.56389,
-      862980.20004,
-      3275016.56389
-    ],
-    "review_square_side_m": 1240.0,
-    "display_pixel_size_m": 1.55,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0157_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0157_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0157_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0157_MSRM.png",
-        "scale_path": "imgs/review_images/site_0157_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.17681942880153656,
-        "vmax": 0.18009217083454132,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0157_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0157_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.082885503768921,
-        "vmax": 1.2798826694488525,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.546729777156028, 72.7388118415739"
-  },
-  {
-    "candidate_id": "site_0158",
-    "median_probability": "80.4918110370636",
-    "median_probability_category": "Very High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      857070.20004,
-      3270956.56389,
-      858690.20004,
-      3272576.56389
-    ],
-    "review_square_side_m": 1620.0,
-    "display_pixel_size_m": 2.025,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0158_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0158_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0158_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0158_MSRM.png",
-        "scale_path": "imgs/review_images/site_0158_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.1624710112810135,
-        "vmax": 0.177951380610466,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0158_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0158_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.097678542137146,
-        "vmax": 1.274182915687561,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.524335009245814, 72.69180606649795"
-  },
-  {
-    "candidate_id": "site_0159",
-    "median_probability": "69.4949924945831",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      857340.20004,
-      3270591.56389,
-      858630.20004,
-      3271881.56389
-    ],
-    "review_square_side_m": 1290.0,
-    "display_pixel_size_m": 1.6125,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0159_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0159_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0159_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0159_MSRM.png",
-        "scale_path": "imgs/review_images/site_0159_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.18583743274211884,
-        "vmax": 0.20198853313922882,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0159_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0159_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0704506635665894,
-        "vmax": 1.237550139427185,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.51953154855256, 72.6927137799938"
-  },
-  {
-    "candidate_id": "site_0160",
-    "median_probability": "70.2237188816071",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      863190.20004,
-      3269106.56389,
-      864400.20004,
-      3270316.56389
-    ],
-    "review_square_side_m": 1210.0,
-    "display_pixel_size_m": 1.5125,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0160_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0160_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0160_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0160_MSRM.png",
-        "scale_path": "imgs/review_images/site_0160_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.11033405363559723,
-        "vmax": 0.09872281551361084,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0160_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0160_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.091552495956421,
-        "vmax": 1.2850737571716309,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.504120171996718, 72.7520322665244"
-  },
-  {
-    "candidate_id": "site_0161",
-    "median_probability": "78.205668926239",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      856060.20004,
-      3267546.56389,
-      857480.20004,
-      3268966.56389
-    ],
-    "review_square_side_m": 1420.0,
-    "display_pixel_size_m": 1.775,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0161_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0161_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0161_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0161_MSRM.png",
-        "scale_path": "imgs/review_images/site_0161_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.15176744759082794,
-        "vmax": 0.15583424270153046,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0161_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0161_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0627866983413696,
-        "vmax": 1.2413262128829956,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.49303924968163, 72.67923035664502"
-  },
-  {
-    "candidate_id": "site_0162",
-    "median_probability": "67.649507522583",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      860620.20004,
-      3267236.56389,
-      861800.20004,
-      3268416.56389
-    ],
-    "review_square_side_m": 1180.0,
-    "display_pixel_size_m": 1.475,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0162_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0162_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0162_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0162_MSRM.png",
-        "scale_path": "imgs/review_images/site_0162_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.1364292949438095,
-        "vmax": 0.13382084667682648,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0162_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0162_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.1333204507827759,
-        "vmax": 1.307181477546692,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.487892802886318, 72.72479656194892"
-  },
-  {
-    "candidate_id": "site_0163",
-    "median_probability": "81.1245918273926",
-    "median_probability_category": "Very High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      929053.0851,
-      3402562.63576,
-      930413.0851,
-      3403922.63576
-    ],
-    "review_square_side_m": 1360.0,
-    "display_pixel_size_m": 1.7,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0163_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0163_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0163_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0163_MSRM.png",
-        "scale_path": "imgs/review_images/site_0163_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.18220627307891846,
-        "vmax": 0.1768898069858551,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0163_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0163_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.1414076089859009,
-        "vmax": 1.5511661767959595,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=30.684608289002313, 73.48451401772816"
-  },
-  {
-    "candidate_id": "site_0164",
-    "median_probability": "72.91609048843381",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      1177133.96375,
-      3211081.09806,
-      1178423.96375,
-      3212371.09806
-    ],
-    "review_square_side_m": 1290.0,
-    "display_pixel_size_m": 1.6125,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0164_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0164_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0164_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0164_MSRM.png",
-        "scale_path": "imgs/review_images/site_0164_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.3793546259403229,
-        "vmax": 0.3803384006023407,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0164_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0164_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0570279359817505,
-        "vmax": 1.1994091272354126,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=28.85440270055581, 75.93987588240002"
-  },
-  {
-    "candidate_id": "site_0165",
-    "median_probability": "81.45074248313901",
-    "median_probability_category": "Very High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      798712.96946,
-      3214481.942,
-      800022.96946,
-      3215791.942
-    ],
-    "review_square_side_m": 1310.0,
-    "display_pixel_size_m": 1.6375,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0165_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0165_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0165_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0165_MSRM.png",
-        "scale_path": "imgs/review_images/site_0165_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.13286033272743225,
-        "vmax": 0.11797783523797989,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0165_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0165_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0592095851898193,
-        "vmax": 1.199730634689331,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.029355533572872, 72.07367859520433"
-  },
-  {
-    "candidate_id": "site_0166",
-    "median_probability": "79.5806586742401",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      788533.58632,
-      3242525.06458,
-      789793.58632,
-      3243785.06458
-    ],
-    "review_square_side_m": 1260.0,
-    "display_pixel_size_m": 1.575,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0166_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0166_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0166_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0166_MSRM.png",
-        "scale_path": "imgs/review_images/site_0166_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.46936386823654175,
-        "vmax": 0.44567441940307617,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0166_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0166_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.2393172979354858,
-        "vmax": 1.8185919523239136,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.284254509693856, 71.97630563104673"
-  },
-  {
-    "candidate_id": "site_0167",
-    "median_probability": "65.8024668693542",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      788543.5863199771,
-      3237415.0645810715,
-      789603.5863199771,
-      3238475.0645810715
-    ],
-    "review_square_side_m": 1060.0,
-    "display_pixel_size_m": 1.325,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0167_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0167_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0167_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0167_MSRM.png",
-        "scale_path": "imgs/review_images/site_0167_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.22641167044639587,
-        "vmax": 0.25638648867607117,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0167_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0167_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0204380750656128,
-        "vmax": 1.2417093515396118,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.23731529563957, 71.97402005759051"
-  },
-  {
-    "candidate_id": "site_0168",
-    "median_probability": "69.3783760070801",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      945572.4329560194,
-      3487381.32687057,
-      946692.4329560194,
-      3488501.32687057
-    ],
-    "review_square_side_m": 1120.0,
-    "display_pixel_size_m": 1.4,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0168_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0168_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0168_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0168_MSRM.png",
-        "scale_path": "imgs/review_images/site_0168_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.36823663115501404,
-        "vmax": 0.3718712031841278,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0168_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0168_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.123315691947937,
-        "vmax": 1.35663902759552,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=31.44028979401737, 73.69250562793047"
-  },
-  {
-    "candidate_id": "site_0169",
-    "median_probability": "71.0591614246368",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      951142.4329560194,
-      3479826.32687057,
-      952262.4329560194,
-      3480946.32687057
-    ],
-    "review_square_side_m": 1120.0,
-    "display_pixel_size_m": 1.4,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0169_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0169_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0169_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0169_MSRM.png",
-        "scale_path": "imgs/review_images/site_0169_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.14057669043540955,
-        "vmax": 0.141810804605484,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0169_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0169_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.1958692073822021,
-        "vmax": 1.3375494480133057,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=31.370200693504575, 73.74749295632532"
-  },
-  {
-    "candidate_id": "site_0170",
-    "median_probability": "86.5969002246857",
-    "median_probability_category": "Very High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      789012.40594,
-      3363226.50379,
-      790332.40594,
-      3364546.50379
-    ],
-    "review_square_side_m": 1320.0,
-    "display_pixel_size_m": 1.65,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0170_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0170_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0170_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0170_MSRM.png",
-        "scale_path": "imgs/review_images/site_0170_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.0927666574716568,
-        "vmax": 0.08807158470153809,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0170_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0170_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.29896080493927,
-        "vmax": 1.6725155115127563,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=30.372223672888286, 72.01404458766656"
-  },
-  {
-    "candidate_id": "site_0171",
-    "median_probability": "92.3446118831635",
-    "median_probability_category": "Very High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      790277.40594,
-      3354576.50379,
-      791567.40594,
-      3355866.50379
-    ],
-    "review_square_side_m": 1290.0,
-    "display_pixel_size_m": 1.6125,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0171_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0171_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0171_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0171_MSRM.png",
-        "scale_path": "imgs/review_images/site_0171_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.1346956193447113,
-        "vmax": 0.1286270022392273,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0171_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0171_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.2443256378173828,
-        "vmax": 1.4801106452941895,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=30.293838281362113, 72.02463255404192"
-  },
-  {
-    "candidate_id": "site_0172",
-    "median_probability": "90.46363830566409",
-    "median_probability_category": "Very High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      931388.0851,
-      3391212.63576,
-      932768.0851,
-      3392592.63576
-    ],
-    "review_square_side_m": 1380.0,
-    "display_pixel_size_m": 1.725,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0172_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0172_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0172_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0172_MSRM.png",
-        "scale_path": "imgs/review_images/site_0172_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.23942121863365173,
-        "vmax": 0.24674749374389648,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0172_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0172_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.2395601272583008,
-        "vmax": 1.5190415382385254,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=30.581750021337665, 73.5041841067503"
-  },
-  {
     "candidate_id": "site_0173",
     "median_probability": "76.66277885437009",
     "median_probability_category": "High",
@@ -9807,984 +573,15 @@ const candidates = [
     "google_maps_url": "https://maps.google.com/?q=30.559425507005788, 73.56041355356028"
   },
   {
-    "candidate_id": "site_0174",
-    "median_probability": "78.0931115150452",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      865643.12558,
-      3582622.04709,
-      866903.12558,
-      3583882.04709
-    ],
-    "review_square_side_m": 1260.0,
-    "display_pixel_size_m": 1.575,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0174_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0174_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0174_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0174_MSRM.png",
-        "scale_path": "imgs/review_images/site_0174_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.13172905147075653,
-        "vmax": 0.12303738296031952,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0174_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0174_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.208555817604065,
-        "vmax": 1.5583997964859009,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=32.32622728753035, 72.89029117864708"
-  },
-  {
-    "candidate_id": "site_0175",
-    "median_probability": "77.7974009513855",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      836778.06445,
-      3468771.84566,
-      838058.06445,
-      3470051.84566
-    ],
-    "review_square_side_m": 1280.0,
-    "display_pixel_size_m": 1.6,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0175_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0175_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0175_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0175_MSRM.png",
-        "scale_path": "imgs/review_images/site_0175_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.14536438882350922,
-        "vmax": 0.13944648206233978,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0175_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0175_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.1437599658966064,
-        "vmax": 1.3530340194702148,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=31.31022201986589, 72.5449128518437"
-  },
-  {
-    "candidate_id": "site_0176",
-    "median_probability": "67.61435270309451",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      834428.06445,
-      3466056.84566,
-      835558.06445,
-      3467186.84566
-    ],
-    "review_square_side_m": 1130.0,
-    "display_pixel_size_m": 1.4125,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0176_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0176_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0176_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0176_MSRM.png",
-        "scale_path": "imgs/review_images/site_0176_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.1028733178973198,
-        "vmax": 0.11759398132562637,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0176_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0176_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.1201552152633667,
-        "vmax": 1.3281749486923218,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=31.28579658245808, 72.51854196246416"
-  },
-  {
-    "candidate_id": "site_0177",
-    "median_probability": "79.11114692687991",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      960348.23121,
-      3540737.27617,
-      961538.23121,
-      3541927.27617
-    ],
-    "review_square_side_m": 1190.0,
-    "display_pixel_size_m": 1.4875,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0177_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0177_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0177_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0177_MSRM.png",
-        "scale_path": "imgs/review_images/site_0177_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.19227033853530884,
-        "vmax": 0.1841672658920288,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0177_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0177_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.1858956813812256,
-        "vmax": 1.355132818222046,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=31.914463340492762, 73.87288198705873"
-  },
-  {
-    "candidate_id": "site_0178",
-    "median_probability": "65.95531105995181",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      1005422.78739,
-      3417370.58168,
-      1006612.78739,
-      3418560.58168
-    ],
-    "review_square_side_m": 1190.0,
-    "display_pixel_size_m": 1.4875,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0178_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0178_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0178_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0178_MSRM.png",
-        "scale_path": "imgs/review_images/site_0178_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.4363318979740143,
-        "vmax": 0.39403846859931946,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0178_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0178_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0299936532974243,
-        "vmax": 1.299702763557434,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=30.787017849957657, 74.28518821737102"
-  },
-  {
-    "candidate_id": "site_0179",
-    "median_probability": "67.74247884750369",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      723523.79714,
-      3578097.1061,
-      724683.79714,
-      3579257.1061
-    ],
-    "review_square_side_m": 1160.0,
-    "display_pixel_size_m": 1.45,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0179_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0179_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0179_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0179_MSRM.png",
-        "scale_path": "imgs/review_images/site_0179_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.3367699086666107,
-        "vmax": 0.36003175377845764,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0179_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0179_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.1333519220352173,
-        "vmax": 1.3094297647476196,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=32.322531892855, 71.3806667216351"
-  },
-  {
-    "candidate_id": "site_0180",
-    "median_probability": "82.002180814743",
+    "candidate_id": "site_0109",
+    "median_probability": "84.214186668396",
     "median_probability_category": "Very High",
     "image_size_px": 800,
     "review_square_bounds": [
-      721798.79714,
-      3575227.1061,
-      723098.79714,
-      3576527.1061
-    ],
-    "review_square_side_m": 1300.0,
-    "display_pixel_size_m": 1.625,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0180_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0180_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0180_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0180_MSRM.png",
-        "scale_path": "imgs/review_images/site_0180_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.3991152048110962,
-        "vmax": 0.3942912817001343,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0180_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0180_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.1005302667617798,
-        "vmax": 1.341720461845398,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=32.29762397232688, 71.3624430313122"
-  },
-  {
-    "candidate_id": "site_0181",
-    "median_probability": "70.793354511261",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      720743.79714,
-      3573137.1061,
-      721913.79714,
-      3574307.1061
-    ],
-    "review_square_side_m": 1170.0,
-    "display_pixel_size_m": 1.4625,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0181_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0181_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0181_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0181_MSRM.png",
-        "scale_path": "imgs/review_images/site_0181_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.40766599774360657,
-        "vmax": 0.4177516996860504,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0181_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0181_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.1047226190567017,
-        "vmax": 1.3348735570907593,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=32.27842125364869, 71.35005570580829"
-  },
-  {
-    "candidate_id": "site_0182",
-    "median_probability": "67.0694828033447",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      1052422.4675429426,
-      3355172.0929802386,
-      1053512.4675429426,
-      3356262.0929802386
-    ],
-    "review_square_side_m": 1090.0,
-    "display_pixel_size_m": 1.3625,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0182_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0182_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0182_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0182_MSRM.png",
-        "scale_path": "imgs/review_images/site_0182_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.27355504035949707,
-        "vmax": 0.30122560262680054,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0182_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0182_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0688061714172363,
-        "vmax": 1.247758388519287,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=30.207246527657496, 74.74054127673324"
-  },
-  {
-    "candidate_id": "site_0183",
-    "median_probability": "66.78335070610049",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      1052522.4675429426,
-      3355142.0929802386,
-      1053592.4675429426,
-      3356212.0929802386
-    ],
-    "review_square_side_m": 1070.0,
-    "display_pixel_size_m": 1.3375,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0183_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0183_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0183_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0183_MSRM.png",
-        "scale_path": "imgs/review_images/site_0183_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.28495603799819946,
-        "vmax": 0.30689537525177,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0183_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0183_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0702992677688599,
-        "vmax": 1.2397807836532593,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=30.206846496383996, 74.74145074795182"
-  },
-  {
-    "candidate_id": "site_0184",
-    "median_probability": "78.9216876029968",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      848565.06506,
-      3483433.64631,
-      849855.06506,
-      3484723.64631
-    ],
-    "review_square_side_m": 1290.0,
-    "display_pixel_size_m": 1.6125,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0184_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0184_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0184_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0184_MSRM.png",
-        "scale_path": "imgs/review_images/site_0184_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.14786899089813232,
-        "vmax": 0.14589619636535645,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0184_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0184_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.2384873628616333,
-        "vmax": 1.5503941774368286,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=31.438805539039187, 72.67372897966143"
-  },
-  {
-    "candidate_id": "site_0185",
-    "median_probability": "84.1017603874207",
-    "median_probability_category": "Very High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      840345.06506,
-      3481653.64631,
-      841665.06506,
-      3482973.64631
-    ],
-    "review_square_side_m": 1320.0,
-    "display_pixel_size_m": 1.65,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0185_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0185_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0185_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0185_MSRM.png",
-        "scale_path": "imgs/review_images/site_0185_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.14069031178951263,
-        "vmax": 0.1307619959115982,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0185_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0185_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.2708160877227783,
-        "vmax": 1.5388681888580322,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=31.42535719925935, 72.58695106357008"
-  },
-  {
-    "candidate_id": "site_0186",
-    "median_probability": "83.1764042377472",
-    "median_probability_category": "Very High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      842785.06506,
-      3477403.64631,
-      844155.06506,
-      3478773.64631
-    ],
-    "review_square_side_m": 1370.0,
-    "display_pixel_size_m": 1.7125,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0186_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0186_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0186_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0186_MSRM.png",
-        "scale_path": "imgs/review_images/site_0186_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.14515575766563416,
-        "vmax": 0.14211899042129517,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0186_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0186_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.1731911897659302,
-        "vmax": 1.4763342142105103,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=31.386584374386885, 72.61137698894143"
-  },
-  {
-    "candidate_id": "site_0187",
-    "median_probability": "80.8519184589386",
-    "median_probability_category": "Very High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      723924.03054,
-      3239006.79247,
-      725644.03054,
-      3240726.79247
-    ],
-    "review_square_side_m": 1720.0,
-    "display_pixel_size_m": 2.15,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0187_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0187_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0187_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0187_MSRM.png",
-        "scale_path": "imgs/review_images/site_0187_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.157556414604187,
-        "vmax": 0.15881770849227905,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0187_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0187_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.1481106281280518,
-        "vmax": 1.3960156440734863,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.267720368752222, 71.31350273707872"
-  },
-  {
-    "candidate_id": "site_0188",
-    "median_probability": "70.4702436923981",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      718934.03054,
-      3238536.79247,
-      720104.03054,
-      3239706.79247
-    ],
-    "review_square_side_m": 1170.0,
-    "display_pixel_size_m": 1.4625,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0188_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0188_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0188_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0188_MSRM.png",
-        "scale_path": "imgs/review_images/site_0188_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.1343398243188858,
-        "vmax": 0.1512891799211502,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0188_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0188_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.1185322999954224,
-        "vmax": 1.3517733812332153,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.261928449808877, 71.25920230991646"
-  },
-  {
-    "candidate_id": "site_0189",
-    "median_probability": "85.9007060527802",
-    "median_probability_category": "Very High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      721654.03054,
-      3238456.79247,
-      723414.03054,
-      3240216.79247
-    ],
-    "review_square_side_m": 1760.0,
-    "display_pixel_size_m": 2.2,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0189_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0189_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0189_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0189_MSRM.png",
-        "scale_path": "imgs/review_images/site_0189_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.2247542440891266,
-        "vmax": 0.22569960355758667,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0189_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0189_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.1183909177780151,
-        "vmax": 1.364160418510437,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.26333940162313, 71.29025431012987"
-  },
-  {
-    "candidate_id": "site_0190",
-    "median_probability": "84.37510132789609",
-    "median_probability_category": "Very High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      720719.03054,
-      3238366.79247,
-      722199.03054,
-      3239846.79247
-    ],
-    "review_square_side_m": 1480.0,
-    "display_pixel_size_m": 1.85,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0190_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0190_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0190_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0190_MSRM.png",
-        "scale_path": "imgs/review_images/site_0190_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.17085742950439453,
-        "vmax": 0.1605266034603119,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0190_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0190_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.1518239974975586,
-        "vmax": 1.3937394618988037,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.261454266341378, 71.27915198124357"
-  },
-  {
-    "candidate_id": "site_0191",
-    "median_probability": "87.09925413131711",
-    "median_probability_category": "Very High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      723359.03054,
-      3238146.79247,
-      724629.03054,
-      3239416.79247
+      1038977.46754,
+      3364317.09298,
+      1040247.46754,
+      3365587.09298
     ],
     "review_square_side_m": 1270.0,
     "display_pixel_size_m": 1.5875,
@@ -10792,7 +589,7 @@ const candidates = [
       {
         "name": "rgb",
         "type": "rgb",
-        "path": "imgs/review_images/site_0191_rgb.png",
+        "path": "imgs/review_images/site_0109_rgb.png",
         "bands": [
           2,
           1,
@@ -10802,8 +599,8 @@ const candidates = [
       {
         "name": "SAVI (Wet)",
         "type": "colormap",
-        "path": "imgs/review_images/site_0191_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0191_SAVI (Wet)_scale.png",
+        "path": "imgs/review_images/site_0109_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0109_SAVI (Wet)_scale.png",
         "band": 23,
         "vmin": -0.5,
         "vmax": 0.5,
@@ -10812,25 +609,82 @@ const candidates = [
       {
         "name": "MSRM",
         "type": "colormap",
-        "path": "imgs/review_images/site_0191_MSRM.png",
-        "scale_path": "imgs/review_images/site_0191_MSRM_scale.png",
+        "path": "imgs/review_images/site_0109_MSRM.png",
+        "scale_path": "imgs/review_images/site_0109_MSRM_scale.png",
         "band": 42,
-        "vmin": -0.18361109495162964,
-        "vmax": 0.1896374523639679,
+        "vmin": -0.22995248436927795,
+        "vmax": 0.22609040141105652,
         "cmap": "RdYlGn"
       },
       {
         "name": "Clay Mineral Ratio",
         "type": "colormap",
-        "path": "imgs/review_images/site_0191_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0191_Clay Mineral Ratio_scale.png",
+        "path": "imgs/review_images/site_0109_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0109_Clay Mineral Ratio_scale.png",
         "band": 25,
-        "vmin": 1.207356572151184,
-        "vmax": 1.3857463598251343,
+        "vmin": 1.1104199886322021,
+        "vmax": 1.2849574089050293,
         "cmap": "RdYlGn"
       }
     ],
-    "google_maps_url": "https://maps.google.com/?q=29.25807604992458, 71.3051578480531"
+    "google_maps_url": "https://maps.google.com/?q=30.296178730714903, 74.60718484179797"
+  },
+  {
+    "candidate_id": "site_0017",
+    "median_probability": "79.1245520114899",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      828504.34683,
+      3366049.82624,
+      829714.34683,
+      3367259.82624
+    ],
+    "review_square_side_m": 1210.0,
+    "display_pixel_size_m": 1.5125,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0017_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0017_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0017_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0017_MSRM.png",
+        "scale_path": "imgs/review_images/site_0017_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.11569993197917938,
+        "vmax": 0.1109904944896698,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0017_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0017_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.2178798913955688,
+        "vmax": 1.440724492073059,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=30.387058077659646, 72.42467827583363"
   },
   {
     "candidate_id": "site_0192",
@@ -10890,23 +744,23 @@ const candidates = [
     "google_maps_url": "https://maps.google.com/?q=29.222933283727045, 71.24970626475393"
   },
   {
-    "candidate_id": "site_0193",
-    "median_probability": "71.2632179260254",
+    "candidate_id": "site_0208",
+    "median_probability": "68.9703643321991",
     "median_probability_category": "High",
     "image_size_px": 800,
     "review_square_bounds": [
-      725745.49379,
-      3427488.28468,
-      726975.49379,
-      3428718.28468
+      950466.66163,
+      3404716.29087,
+      951666.66163,
+      3405916.29087
     ],
-    "review_square_side_m": 1230.0,
-    "display_pixel_size_m": 1.5375,
+    "review_square_side_m": 1200.0,
+    "display_pixel_size_m": 1.5,
     "images": [
       {
         "name": "rgb",
         "type": "rgb",
-        "path": "imgs/review_images/site_0193_rgb.png",
+        "path": "imgs/review_images/site_0208_rgb.png",
         "bands": [
           2,
           1,
@@ -10916,8 +770,8 @@ const candidates = [
       {
         "name": "SAVI (Wet)",
         "type": "colormap",
-        "path": "imgs/review_images/site_0193_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0193_SAVI (Wet)_scale.png",
+        "path": "imgs/review_images/site_0208_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0208_SAVI (Wet)_scale.png",
         "band": 23,
         "vmin": -0.5,
         "vmax": 0.5,
@@ -10926,158 +780,44 @@ const candidates = [
       {
         "name": "MSRM",
         "type": "colormap",
-        "path": "imgs/review_images/site_0193_MSRM.png",
-        "scale_path": "imgs/review_images/site_0193_MSRM_scale.png",
+        "path": "imgs/review_images/site_0208_MSRM.png",
+        "scale_path": "imgs/review_images/site_0208_MSRM_scale.png",
         "band": 42,
-        "vmin": -0.15314093232154846,
-        "vmax": 0.15914908051490784,
+        "vmin": -0.18152599036693573,
+        "vmax": 0.1855810135602951,
         "cmap": "RdYlGn"
       },
       {
         "name": "Clay Mineral Ratio",
         "type": "colormap",
-        "path": "imgs/review_images/site_0193_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0193_Clay Mineral Ratio_scale.png",
+        "path": "imgs/review_images/site_0208_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0208_Clay Mineral Ratio_scale.png",
         "band": 25,
-        "vmin": 1.0342128276824951,
-        "vmax": 1.2313768863677979,
+        "vmin": 1.1807540655136108,
+        "vmax": 1.4979244470596313,
         "cmap": "RdYlGn"
       }
     ],
-    "google_maps_url": "https://maps.google.com/?q=30.964735585344652, 71.36991740694967"
+    "google_maps_url": "https://maps.google.com/?q=30.69538675781346, 73.7074308942747"
   },
   {
-    "candidate_id": "site_0194",
-    "median_probability": "71.8904972076416",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      785032.68702,
-      3223873.71985,
-      786402.68702,
-      3225243.71985
-    ],
-    "review_square_side_m": 1370.0,
-    "display_pixel_size_m": 1.7125,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0194_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0194_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0194_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0194_MSRM.png",
-        "scale_path": "imgs/review_images/site_0194_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.12542593479156494,
-        "vmax": 0.12156479060649872,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0194_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0194_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.0614835023880005,
-        "vmax": 1.1225820779800415,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.117416283888325, 71.93609208533923"
-  },
-  {
-    "candidate_id": "site_0195",
-    "median_probability": "67.2496378421783",
-    "median_probability_category": "High",
-    "image_size_px": 800,
-    "review_square_bounds": [
-      780022.6870230195,
-      3223763.7198530026,
-      781092.6870230195,
-      3224833.7198530026
-    ],
-    "review_square_side_m": 1070.0,
-    "display_pixel_size_m": 1.3375,
-    "images": [
-      {
-        "name": "rgb",
-        "type": "rgb",
-        "path": "imgs/review_images/site_0195_rgb.png",
-        "bands": [
-          2,
-          1,
-          0
-        ]
-      },
-      {
-        "name": "SAVI (Wet)",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0195_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0195_SAVI (Wet)_scale.png",
-        "band": 23,
-        "vmin": -0.5,
-        "vmax": 0.5,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "MSRM",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0195_MSRM.png",
-        "scale_path": "imgs/review_images/site_0195_MSRM_scale.png",
-        "band": 42,
-        "vmin": -0.12378896027803421,
-        "vmax": 0.12235208600759506,
-        "cmap": "RdYlGn"
-      },
-      {
-        "name": "Clay Mineral Ratio",
-        "type": "colormap",
-        "path": "imgs/review_images/site_0195_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0195_Clay Mineral Ratio_scale.png",
-        "band": 25,
-        "vmin": 1.1022002696990967,
-        "vmax": 1.3515846729278564,
-        "cmap": "RdYlGn"
-      }
-    ],
-    "google_maps_url": "https://maps.google.com/?q=29.116222967299723, 71.88305752819828"
-  },
-  {
-    "candidate_id": "site_0196",
-    "median_probability": "82.1882307529449",
+    "candidate_id": "site_0058",
+    "median_probability": "80.11552095413211",
     "median_probability_category": "Very High",
     "image_size_px": 800,
     "review_square_bounds": [
-      778622.68702,
-      3223513.71985,
-      779892.68702,
-      3224783.71985
+      784153.55847,
+      3296037.72061,
+      785453.55847,
+      3297337.72061
     ],
-    "review_square_side_m": 1270.0,
-    "display_pixel_size_m": 1.5875,
+    "review_square_side_m": 1300.0,
+    "display_pixel_size_m": 1.625,
     "images": [
       {
         "name": "rgb",
         "type": "rgb",
-        "path": "imgs/review_images/site_0196_rgb.png",
+        "path": "imgs/review_images/site_0058_rgb.png",
         "bands": [
           2,
           1,
@@ -11087,8 +827,8 @@ const candidates = [
       {
         "name": "SAVI (Wet)",
         "type": "colormap",
-        "path": "imgs/review_images/site_0196_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0196_SAVI (Wet)_scale.png",
+        "path": "imgs/review_images/site_0058_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0058_SAVI (Wet)_scale.png",
         "band": 23,
         "vmin": -0.5,
         "vmax": 0.5,
@@ -11097,36 +837,207 @@ const candidates = [
       {
         "name": "MSRM",
         "type": "colormap",
-        "path": "imgs/review_images/site_0196_MSRM.png",
-        "scale_path": "imgs/review_images/site_0196_MSRM_scale.png",
+        "path": "imgs/review_images/site_0058_MSRM.png",
+        "scale_path": "imgs/review_images/site_0058_MSRM_scale.png",
         "band": 42,
-        "vmin": -0.11234915256500244,
-        "vmax": 0.10374349355697632,
+        "vmin": -0.12188612669706345,
+        "vmax": 0.09296617656946182,
         "cmap": "RdYlGn"
       },
       {
         "name": "Clay Mineral Ratio",
         "type": "colormap",
-        "path": "imgs/review_images/site_0196_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0196_Clay Mineral Ratio_scale.png",
+        "path": "imgs/review_images/site_0058_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0058_Clay Mineral Ratio_scale.png",
         "band": 25,
-        "vmin": 1.264242172241211,
-        "vmax": 1.471907138824463,
+        "vmin": 1.1780527830123901,
+        "vmax": 1.459877848625183,
         "cmap": "RdYlGn"
       }
     ],
-    "google_maps_url": "https://maps.google.com/?q=29.115157288896757, 71.869674843856"
+    "google_maps_url": "https://maps.google.com/?q=29.76775474383351, 71.94543467151563"
   },
   {
-    "candidate_id": "site_0197",
-    "median_probability": "76.16892457008359",
+    "candidate_id": "site_0142",
+    "median_probability": "98.0781197547913",
+    "median_probability_category": "Very High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      778756.9484,
+      3228633.99531,
+      780486.9484,
+      3230363.99531
+    ],
+    "review_square_side_m": 1730.0,
+    "display_pixel_size_m": 2.1625,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0142_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0142_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0142_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0142_MSRM.png",
+        "scale_path": "imgs/review_images/site_0142_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.18865782022476196,
+        "vmax": 0.19330868124961853,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0142_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0142_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0922690629959106,
+        "vmax": 1.4640661478042603,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.163306537124846, 71.8747570999833"
+  },
+  {
+    "candidate_id": "site_0106",
+    "median_probability": "71.2593555450439",
     "median_probability_category": "High",
     "image_size_px": 800,
     "review_square_bounds": [
-      777807.68702,
-      3215333.71985,
-      779097.68702,
-      3216623.71985
+      951566.66163,
+      3397516.29087,
+      952786.66163,
+      3398736.29087
+    ],
+    "review_square_side_m": 1220.0,
+    "display_pixel_size_m": 1.525,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0106_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0106_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0106_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0106_MSRM.png",
+        "scale_path": "imgs/review_images/site_0106_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.15244358777999878,
+        "vmax": 0.14931637048721313,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0106_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0106_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.2607518434524536,
+        "vmax": 1.4960359334945679,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=30.630306848782936, 73.71583418796132"
+  },
+  {
+    "candidate_id": "site_0041",
+    "median_probability": "70.1899170875549",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      769126.03013,
+      3280080.19086,
+      770326.03013,
+      3281280.19086
+    ],
+    "review_square_side_m": 1200.0,
+    "display_pixel_size_m": 1.5,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0041_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0041_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0041_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0041_MSRM.png",
+        "scale_path": "imgs/review_images/site_0041_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.13160178065299988,
+        "vmax": 0.12971442937850952,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0041_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0041_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.1805022954940796,
+        "vmax": 1.3999727964401245,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.62683801263168, 71.78567419655158"
+  },
+  {
+    "candidate_id": "site_0164",
+    "median_probability": "72.91609048843381",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      1177133.96375,
+      3211081.09806,
+      1178423.96375,
+      3212371.09806
     ],
     "review_square_side_m": 1290.0,
     "display_pixel_size_m": 1.6125,
@@ -11134,7 +1045,7 @@ const candidates = [
       {
         "name": "rgb",
         "type": "rgb",
-        "path": "imgs/review_images/site_0197_rgb.png",
+        "path": "imgs/review_images/site_0164_rgb.png",
         "bands": [
           2,
           1,
@@ -11144,8 +1055,8 @@ const candidates = [
       {
         "name": "SAVI (Wet)",
         "type": "colormap",
-        "path": "imgs/review_images/site_0197_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0197_SAVI (Wet)_scale.png",
+        "path": "imgs/review_images/site_0164_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0164_SAVI (Wet)_scale.png",
         "band": 23,
         "vmin": -0.5,
         "vmax": 0.5,
@@ -11154,36 +1065,93 @@ const candidates = [
       {
         "name": "MSRM",
         "type": "colormap",
-        "path": "imgs/review_images/site_0197_MSRM.png",
-        "scale_path": "imgs/review_images/site_0197_MSRM_scale.png",
+        "path": "imgs/review_images/site_0164_MSRM.png",
+        "scale_path": "imgs/review_images/site_0164_MSRM_scale.png",
         "band": 42,
-        "vmin": -0.15704700350761414,
-        "vmax": 0.13495111465454102,
+        "vmin": -0.3793546259403229,
+        "vmax": 0.3803384006023407,
         "cmap": "RdYlGn"
       },
       {
         "name": "Clay Mineral Ratio",
         "type": "colormap",
-        "path": "imgs/review_images/site_0197_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0197_Clay Mineral Ratio_scale.png",
+        "path": "imgs/review_images/site_0164_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0164_Clay Mineral Ratio_scale.png",
         "band": 25,
-        "vmin": 1.0303958654403687,
-        "vmax": 1.1125832796096802,
+        "vmin": 1.0570279359817505,
+        "vmax": 1.1994091272354126,
         "cmap": "RdYlGn"
       }
     ],
-    "google_maps_url": "https://maps.google.com/?q=29.041684958883323, 71.85937522582012"
+    "google_maps_url": "https://maps.google.com/?q=28.85440270055581, 75.93987588240002"
   },
   {
-    "candidate_id": "site_0198",
-    "median_probability": "71.2970614433289",
+    "candidate_id": "site_0038",
+    "median_probability": "71.1898565292358",
     "median_probability_category": "High",
     "image_size_px": 800,
     "review_square_bounds": [
-      774868.70777,
-      3220989.60397,
-      775998.70777,
-      3222119.60397
+      1259548.84377,
+      3284174.21859,
+      1260748.84377,
+      3285374.21859
+    ],
+    "review_square_side_m": 1200.0,
+    "display_pixel_size_m": 1.5,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0038_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0038_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0038_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0038_MSRM.png",
+        "scale_path": "imgs/review_images/site_0038_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.2597730755805969,
+        "vmax": 0.2778394818305969,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0038_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0038_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.1093910932540894,
+        "vmax": 1.3588439226150513,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.46166986069071, 76.8268468745095"
+  },
+  {
+    "candidate_id": "site_0060",
+    "median_probability": "74.8431324958801",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      1093347.51214,
+      3285639.17186,
+      1094477.51214,
+      3286769.17186
     ],
     "review_square_side_m": 1130.0,
     "display_pixel_size_m": 1.4125,
@@ -11191,7 +1159,7 @@ const candidates = [
       {
         "name": "rgb",
         "type": "rgb",
-        "path": "imgs/review_images/site_0198_rgb.png",
+        "path": "imgs/review_images/site_0060_rgb.png",
         "bands": [
           2,
           1,
@@ -11201,8 +1169,8 @@ const candidates = [
       {
         "name": "SAVI (Wet)",
         "type": "colormap",
-        "path": "imgs/review_images/site_0198_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0198_SAVI (Wet)_scale.png",
+        "path": "imgs/review_images/site_0060_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0060_SAVI (Wet)_scale.png",
         "band": 23,
         "vmin": -0.5,
         "vmax": 0.5,
@@ -11211,44 +1179,44 @@ const candidates = [
       {
         "name": "MSRM",
         "type": "colormap",
-        "path": "imgs/review_images/site_0198_MSRM.png",
-        "scale_path": "imgs/review_images/site_0198_MSRM_scale.png",
+        "path": "imgs/review_images/site_0060_MSRM.png",
+        "scale_path": "imgs/review_images/site_0060_MSRM_scale.png",
         "band": 42,
-        "vmin": -0.1437615305185318,
-        "vmax": 0.15086786448955536,
+        "vmin": -0.2742314338684082,
+        "vmax": 0.2469293475151062,
         "cmap": "RdYlGn"
       },
       {
         "name": "Clay Mineral Ratio",
         "type": "colormap",
-        "path": "imgs/review_images/site_0198_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0198_Clay Mineral Ratio_scale.png",
+        "path": "imgs/review_images/site_0060_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0060_Clay Mineral Ratio_scale.png",
         "band": 25,
-        "vmin": 1.2064543962478638,
-        "vmax": 1.4335392713546753,
+        "vmin": 1.1053192615509033,
+        "vmax": 1.2328259944915771,
         "cmap": "RdYlGn"
       }
     ],
-    "google_maps_url": "https://maps.google.com/?q=29.0926069548739, 71.829778981338"
+    "google_maps_url": "https://maps.google.com/?q=29.564252373296675, 75.12523447549863"
   },
   {
-    "candidate_id": "site_0199",
-    "median_probability": "87.9127979278564",
-    "median_probability_category": "Very High",
+    "candidate_id": "site_0124",
+    "median_probability": "71.02652192115781",
+    "median_probability_category": "High",
     "image_size_px": 800,
     "review_square_bounds": [
-      776938.70777,
-      3218369.60397,
-      778278.70777,
-      3219709.60397
+      1078855.06989,
+      3426449.69213,
+      1080005.06989,
+      3427599.69213
     ],
-    "review_square_side_m": 1340.0,
-    "display_pixel_size_m": 1.675,
+    "review_square_side_m": 1150.0,
+    "display_pixel_size_m": 1.4375,
     "images": [
       {
         "name": "rgb",
         "type": "rgb",
-        "path": "imgs/review_images/site_0199_rgb.png",
+        "path": "imgs/review_images/site_0124_rgb.png",
         "bands": [
           2,
           1,
@@ -11258,8 +1226,8 @@ const candidates = [
       {
         "name": "SAVI (Wet)",
         "type": "colormap",
-        "path": "imgs/review_images/site_0199_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0199_SAVI (Wet)_scale.png",
+        "path": "imgs/review_images/site_0124_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0124_SAVI (Wet)_scale.png",
         "band": 23,
         "vmin": -0.5,
         "vmax": 0.5,
@@ -11268,25 +1236,139 @@ const candidates = [
       {
         "name": "MSRM",
         "type": "colormap",
-        "path": "imgs/review_images/site_0199_MSRM.png",
-        "scale_path": "imgs/review_images/site_0199_MSRM_scale.png",
+        "path": "imgs/review_images/site_0124_MSRM.png",
+        "scale_path": "imgs/review_images/site_0124_MSRM_scale.png",
         "band": 42,
-        "vmin": -0.20205016434192657,
-        "vmax": 0.20978815853595734,
+        "vmin": -0.17907895147800446,
+        "vmax": 0.22446651756763458,
         "cmap": "RdYlGn"
       },
       {
         "name": "Clay Mineral Ratio",
         "type": "colormap",
-        "path": "imgs/review_images/site_0199_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0199_Clay Mineral Ratio_scale.png",
+        "path": "imgs/review_images/site_0124_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0124_Clay Mineral Ratio_scale.png",
         "band": 25,
-        "vmin": 1.0878404378890991,
-        "vmax": 1.3531864881515503,
+        "vmin": 1.1043697595596313,
+        "vmax": 1.295484185218811,
         "cmap": "RdYlGn"
       }
     ],
-    "google_maps_url": "https://maps.google.com/?q=29.06946203277438, 71.85147701412427"
+    "google_maps_url": "https://maps.google.com/?q=30.834839981992086, 75.05368826820622"
+  },
+  {
+    "candidate_id": "site_0036",
+    "median_probability": "67.0519232749939",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      711852.3291565176,
+      3335731.1723379223,
+      713062.3291565176,
+      3336941.1723379223
+    ],
+    "review_square_side_m": 1210.0,
+    "display_pixel_size_m": 1.5125,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0036_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0036_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0036_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0036_MSRM.png",
+        "scale_path": "imgs/review_images/site_0036_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.49057164788246155,
+        "vmax": 0.483832448720932,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0036_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0036_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.028969168663025,
+        "vmax": 1.1364527940750122,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=30.139851574937698, 71.20565203234514"
+  },
+  {
+    "candidate_id": "site_0093",
+    "median_probability": "78.23602557182309",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      690132.35465,
+      3474090.80867,
+      691442.35465,
+      3475400.80867
+    ],
+    "review_square_side_m": 1310.0,
+    "display_pixel_size_m": 1.6375,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0093_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0093_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0093_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0093_MSRM.png",
+        "scale_path": "imgs/review_images/site_0093_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.24086599051952362,
+        "vmax": 0.22605477273464203,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0093_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0093_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0533181428909302,
+        "vmax": 1.3266342878341675,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=31.391625611789497, 71.00654236441757"
   },
   {
     "candidate_id": "site_0200",
@@ -11346,23 +1428,23 @@ const candidates = [
     "google_maps_url": "https://maps.google.com/?q=30.900745659937453, 75.15938830746701"
   },
   {
-    "candidate_id": "site_0201",
-    "median_probability": "68.8128292560577",
+    "candidate_id": "site_0066",
+    "median_probability": "76.1715292930603",
     "median_probability_category": "High",
     "image_size_px": 800,
     "review_square_bounds": [
-      1085690.0698936526,
-      3433619.4795319242,
-      1086810.0698936526,
-      3434739.4795319242
+      845388.06445,
+      3475487.49971,
+      846678.06445,
+      3476777.49971
     ],
-    "review_square_side_m": 1120.0,
-    "display_pixel_size_m": 1.4,
+    "review_square_side_m": 1290.0,
+    "display_pixel_size_m": 1.6125,
     "images": [
       {
         "name": "rgb",
         "type": "rgb",
-        "path": "imgs/review_images/site_0201_rgb.png",
+        "path": "imgs/review_images/site_0066_rgb.png",
         "bands": [
           2,
           1,
@@ -11372,8 +1454,8 @@ const candidates = [
       {
         "name": "SAVI (Wet)",
         "type": "colormap",
-        "path": "imgs/review_images/site_0201_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0201_SAVI (Wet)_scale.png",
+        "path": "imgs/review_images/site_0066_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0066_SAVI (Wet)_scale.png",
         "band": 23,
         "vmin": -0.5,
         "vmax": 0.5,
@@ -11382,44 +1464,44 @@ const candidates = [
       {
         "name": "MSRM",
         "type": "colormap",
-        "path": "imgs/review_images/site_0201_MSRM.png",
-        "scale_path": "imgs/review_images/site_0201_MSRM_scale.png",
+        "path": "imgs/review_images/site_0066_MSRM.png",
+        "scale_path": "imgs/review_images/site_0066_MSRM_scale.png",
         "band": 42,
-        "vmin": -0.22407756745815277,
-        "vmax": 0.25251156091690063,
+        "vmin": -0.1461842805147171,
+        "vmax": 0.15380187332630157,
         "cmap": "RdYlGn"
       },
       {
         "name": "Clay Mineral Ratio",
         "type": "colormap",
-        "path": "imgs/review_images/site_0201_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0201_Clay Mineral Ratio_scale.png",
+        "path": "imgs/review_images/site_0066_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0066_Clay Mineral Ratio_scale.png",
         "band": 25,
-        "vmin": 1.078951358795166,
-        "vmax": 1.2973029613494873,
+        "vmin": 1.1697531938552856,
+        "vmax": 1.3828696012496948,
         "cmap": "RdYlGn"
       }
     ],
-    "google_maps_url": "https://maps.google.com/?q=30.89568463655717, 75.12869715659427"
+    "google_maps_url": "https://maps.google.com/?q=31.368208916763557, 72.63759971126271"
   },
   {
-    "candidate_id": "site_0202",
-    "median_probability": "65.6797528266907",
+    "candidate_id": "site_0139",
+    "median_probability": "68.0106282234192",
     "median_probability_category": "High",
     "image_size_px": 800,
     "review_square_bounds": [
-      1271547.9860351796,
-      3306984.215504378,
-      1272597.9860351796,
-      3308034.215504378
+      1133678.60436,
+      3267397.42063,
+      1134808.60436,
+      3268527.42063
     ],
-    "review_square_side_m": 1050.0,
-    "display_pixel_size_m": 1.3125,
+    "review_square_side_m": 1130.0,
+    "display_pixel_size_m": 1.4125,
     "images": [
       {
         "name": "rgb",
         "type": "rgb",
-        "path": "imgs/review_images/site_0202_rgb.png",
+        "path": "imgs/review_images/site_0139_rgb.png",
         "bands": [
           2,
           1,
@@ -11429,8 +1511,8 @@ const candidates = [
       {
         "name": "SAVI (Wet)",
         "type": "colormap",
-        "path": "imgs/review_images/site_0202_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0202_SAVI (Wet)_scale.png",
+        "path": "imgs/review_images/site_0139_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0139_SAVI (Wet)_scale.png",
         "band": 23,
         "vmin": -0.5,
         "vmax": 0.5,
@@ -11439,25 +1521,538 @@ const candidates = [
       {
         "name": "MSRM",
         "type": "colormap",
-        "path": "imgs/review_images/site_0202_MSRM.png",
-        "scale_path": "imgs/review_images/site_0202_MSRM_scale.png",
+        "path": "imgs/review_images/site_0139_MSRM.png",
+        "scale_path": "imgs/review_images/site_0139_MSRM_scale.png",
         "band": 42,
-        "vmin": -0.18396028876304626,
-        "vmax": 0.1308324933052063,
+        "vmin": -0.232107013463974,
+        "vmax": 0.25697213411331177,
         "cmap": "RdYlGn"
       },
       {
         "name": "Clay Mineral Ratio",
         "type": "colormap",
-        "path": "imgs/review_images/site_0202_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0202_Clay Mineral Ratio_scale.png",
+        "path": "imgs/review_images/site_0139_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0139_Clay Mineral Ratio_scale.png",
         "band": 25,
-        "vmin": 1.0690197944641113,
-        "vmax": 1.3993496894836426,
+        "vmin": 1.1042946577072144,
+        "vmax": 1.3083022832870483,
         "cmap": "RdYlGn"
       }
     ],
-    "google_maps_url": "https://maps.google.com/?q=29.657611781010402, 76.96467471702715"
+    "google_maps_url": "https://maps.google.com/?q=29.38088535926709, 75.52847280373244"
+  },
+  {
+    "candidate_id": "site_0184",
+    "median_probability": "78.9216876029968",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      848565.06506,
+      3483433.64631,
+      849855.06506,
+      3484723.64631
+    ],
+    "review_square_side_m": 1290.0,
+    "display_pixel_size_m": 1.6125,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0184_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0184_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0184_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0184_MSRM.png",
+        "scale_path": "imgs/review_images/site_0184_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.14786899089813232,
+        "vmax": 0.14589619636535645,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0184_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0184_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.2384873628616333,
+        "vmax": 1.5503941774368286,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=31.438805539039187, 72.67372897966143"
+  },
+  {
+    "candidate_id": "site_0082",
+    "median_probability": "79.5285522937775",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      761358.70777,
+      3215087.22903,
+      762968.70777,
+      3216697.22903
+    ],
+    "review_square_side_m": 1610.0,
+    "display_pixel_size_m": 2.0125,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0082_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0082_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0082_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0082_MSRM.png",
+        "scale_path": "imgs/review_images/site_0082_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.20124417543411255,
+        "vmax": 0.1910836100578308,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0082_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0082_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0684897899627686,
+        "vmax": 1.378577470779419,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.044361742715974, 71.6922440239313"
+  },
+  {
+    "candidate_id": "site_0091",
+    "median_probability": "66.515326499939",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      785498.8954041072,
+      3295907.720605809,
+      786568.8954041072,
+      3296977.720605809
+    ],
+    "review_square_side_m": 1070.0,
+    "display_pixel_size_m": 1.3375,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0091_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0091_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0091_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0091_MSRM.png",
+        "scale_path": "imgs/review_images/site_0091_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.11304298788309097,
+        "vmax": 0.1340825855731964,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0091_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0091_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.2906664609909058,
+        "vmax": 1.560914158821106,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.76526272549037, 71.95807976539635"
+  },
+  {
+    "candidate_id": "site_0045",
+    "median_probability": "86.670970916748",
+    "median_probability_category": "Very High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      952714.62937,
+      3247607.2869,
+      954024.62937,
+      3248917.2869
+    ],
+    "review_square_side_m": 1310.0,
+    "display_pixel_size_m": 1.6375,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0045_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0045_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0045_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0045_MSRM.png",
+        "scale_path": "imgs/review_images/site_0045_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.41907379031181335,
+        "vmax": 0.40258947014808655,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0045_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0045_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0630877017974854,
+        "vmax": 1.1647005081176758,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.281939929614907, 73.66473720563994"
+  },
+  {
+    "candidate_id": "site_0044",
+    "median_probability": "67.1997249126434",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      794693.58632,
+      3228275.06458,
+      795803.58632,
+      3229385.06458
+    ],
+    "review_square_side_m": 1110.0,
+    "display_pixel_size_m": 1.3875,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0044_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0044_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0044_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0044_MSRM.png",
+        "scale_path": "imgs/review_images/site_0044_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.13659405708312988,
+        "vmax": 0.13313597440719604,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0044_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0044_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0666640996932983,
+        "vmax": 1.1347554922103882,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.153734538078044, 72.03505348503975"
+  },
+  {
+    "candidate_id": "site_0179",
+    "median_probability": "67.74247884750369",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      723523.79714,
+      3578097.1061,
+      724683.79714,
+      3579257.1061
+    ],
+    "review_square_side_m": 1160.0,
+    "display_pixel_size_m": 1.45,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0179_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0179_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0179_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0179_MSRM.png",
+        "scale_path": "imgs/review_images/site_0179_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.3367699086666107,
+        "vmax": 0.36003175377845764,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0179_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0179_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.1333519220352173,
+        "vmax": 1.3094297647476196,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=32.322531892855, 71.3806667216351"
+  },
+  {
+    "candidate_id": "site_0053",
+    "median_probability": "71.48591876029971",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      949629.62937,
+      3242862.2869,
+      950809.62937,
+      3244042.2869
+    ],
+    "review_square_side_m": 1180.0,
+    "display_pixel_size_m": 1.475,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0053_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0053_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0053_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0053_MSRM.png",
+        "scale_path": "imgs/review_images/site_0053_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.5887759923934937,
+        "vmax": 0.7322018146514893,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0053_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0053_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0585126876831055,
+        "vmax": 1.127898931503296,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.239796035804037, 73.63046078358573"
+  },
+  {
+    "candidate_id": "site_0112",
+    "median_probability": "79.41081523895261",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      820500.16718,
+      3306891.9631,
+      821770.16718,
+      3308161.9631
+    ],
+    "review_square_side_m": 1270.0,
+    "display_pixel_size_m": 1.5875,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0112_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0112_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0112_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0112_MSRM.png",
+        "scale_path": "imgs/review_images/site_0112_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.09777349978685379,
+        "vmax": 0.08806341141462326,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0112_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0112_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.2944871187210083,
+        "vmax": 1.6788769960403442,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.856516215907035, 72.32391075125449"
+  },
+  {
+    "candidate_id": "site_0083",
+    "median_probability": "71.5075552463531",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      760198.70777,
+      3214752.22903,
+      761528.70777,
+      3216082.22903
+    ],
+    "review_square_side_m": 1330.0,
+    "display_pixel_size_m": 1.6625,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0083_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0083_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0083_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0083_MSRM.png",
+        "scale_path": "imgs/review_images/site_0083_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.21582254767417908,
+        "vmax": 0.23900988698005676,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0083_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0083_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 0.9867814779281616,
+        "vmax": 1.2894035577774048,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.040346080138935, 71.67879529930707"
   },
   {
     "candidate_id": "site_0203",
@@ -11517,23 +2112,23 @@ const candidates = [
     "google_maps_url": "https://maps.google.com/?q=31.81780520708402, 72.29743264600121"
   },
   {
-    "candidate_id": "site_0204",
-    "median_probability": "69.9920475482941",
-    "median_probability_category": "High",
+    "candidate_id": "site_0147",
+    "median_probability": "82.4204444885254",
+    "median_probability_category": "Very High",
     "image_size_px": 800,
     "review_square_bounds": [
-      940623.0850983541,
-      3407416.2908704705,
-      941773.0850983541,
-      3408566.2908704705
+      831552.62104,
+      3235122.96047,
+      832802.62104,
+      3236372.96047
     ],
-    "review_square_side_m": 1150.0,
-    "display_pixel_size_m": 1.4375,
+    "review_square_side_m": 1250.0,
+    "display_pixel_size_m": 1.5625,
     "images": [
       {
         "name": "rgb",
         "type": "rgb",
-        "path": "imgs/review_images/site_0204_rgb.png",
+        "path": "imgs/review_images/site_0147_rgb.png",
         "bands": [
           2,
           1,
@@ -11543,8 +2138,8 @@ const candidates = [
       {
         "name": "SAVI (Wet)",
         "type": "colormap",
-        "path": "imgs/review_images/site_0204_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0204_SAVI (Wet)_scale.png",
+        "path": "imgs/review_images/site_0147_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0147_SAVI (Wet)_scale.png",
         "band": 23,
         "vmin": -0.5,
         "vmax": 0.5,
@@ -11553,44 +2148,44 @@ const candidates = [
       {
         "name": "MSRM",
         "type": "colormap",
-        "path": "imgs/review_images/site_0204_MSRM.png",
-        "scale_path": "imgs/review_images/site_0204_MSRM_scale.png",
+        "path": "imgs/review_images/site_0147_MSRM.png",
+        "scale_path": "imgs/review_images/site_0147_MSRM_scale.png",
         "band": 42,
-        "vmin": -0.16558757424354553,
-        "vmax": 0.14002805948257446,
+        "vmin": -0.13650158047676086,
+        "vmax": 0.12291508167982101,
         "cmap": "RdYlGn"
       },
       {
         "name": "Clay Mineral Ratio",
         "type": "colormap",
-        "path": "imgs/review_images/site_0204_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0204_Clay Mineral Ratio_scale.png",
+        "path": "imgs/review_images/site_0147_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0147_Clay Mineral Ratio_scale.png",
         "band": 25,
-        "vmin": 1.1771851778030396,
-        "vmax": 1.4578038454055786,
+        "vmin": 1.252286434173584,
+        "vmax": 1.427107334136963,
         "cmap": "RdYlGn"
       }
     ],
-    "google_maps_url": "https://maps.google.com/?q=30.723137022195367, 73.60586931072794"
+    "google_maps_url": "https://maps.google.com/?q=29.206929888599493, 72.41621059319291"
   },
   {
-    "candidate_id": "site_0206",
-    "median_probability": "78.3788800239563",
+    "candidate_id": "site_0006",
+    "median_probability": "70.8366513252258",
     "median_probability_category": "High",
     "image_size_px": 800,
     "review_square_bounds": [
-      819186.53311,
-      3517999.96085,
-      820466.53311,
-      3519279.96085
+      771630.65837,
+      3227659.44771,
+      772870.65837,
+      3228899.44771
     ],
-    "review_square_side_m": 1280.0,
-    "display_pixel_size_m": 1.6,
+    "review_square_side_m": 1240.0,
+    "display_pixel_size_m": 1.55,
     "images": [
       {
         "name": "rgb",
         "type": "rgb",
-        "path": "imgs/review_images/site_0206_rgb.png",
+        "path": "imgs/review_images/site_0006_rgb.png",
         "bands": [
           2,
           1,
@@ -11600,8 +2195,8 @@ const candidates = [
       {
         "name": "SAVI (Wet)",
         "type": "colormap",
-        "path": "imgs/review_images/site_0206_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0206_SAVI (Wet)_scale.png",
+        "path": "imgs/review_images/site_0006_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0006_SAVI (Wet)_scale.png",
         "band": 23,
         "vmin": -0.5,
         "vmax": 0.5,
@@ -11610,44 +2205,44 @@ const candidates = [
       {
         "name": "MSRM",
         "type": "colormap",
-        "path": "imgs/review_images/site_0206_MSRM.png",
-        "scale_path": "imgs/review_images/site_0206_MSRM_scale.png",
+        "path": "imgs/review_images/site_0006_MSRM.png",
+        "scale_path": "imgs/review_images/site_0006_MSRM_scale.png",
         "band": 42,
-        "vmin": -0.11604821681976318,
-        "vmax": 0.10372315347194672,
+        "vmin": -0.1755516678094864,
+        "vmax": 0.18014661967754364,
         "cmap": "RdYlGn"
       },
       {
         "name": "Clay Mineral Ratio",
         "type": "colormap",
-        "path": "imgs/review_images/site_0206_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0206_Clay Mineral Ratio_scale.png",
+        "path": "imgs/review_images/site_0006_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0006_Clay Mineral Ratio_scale.png",
         "band": 25,
-        "vmin": 1.1192166805267334,
-        "vmax": 1.4538209438323975,
+        "vmin": 1.0539535284042358,
+        "vmax": 1.45577871799469,
         "cmap": "RdYlGn"
       }
     ],
-    "google_maps_url": "https://maps.google.com/?q=31.75857911638181, 72.37631084273475"
+    "google_maps_url": "https://maps.google.com/?q=29.15391708524847, 71.79875131666252"
   },
   {
-    "candidate_id": "site_0207",
-    "median_probability": "68.3059096336365",
+    "candidate_id": "site_0181",
+    "median_probability": "70.793354511261",
     "median_probability_category": "High",
     "image_size_px": 800,
     "review_square_bounds": [
-      954496.66163,
-      3407081.29087,
-      955646.66163,
-      3408231.29087
+      720743.79714,
+      3573137.1061,
+      721913.79714,
+      3574307.1061
     ],
-    "review_square_side_m": 1150.0,
-    "display_pixel_size_m": 1.4375,
+    "review_square_side_m": 1170.0,
+    "display_pixel_size_m": 1.4625,
     "images": [
       {
         "name": "rgb",
         "type": "rgb",
-        "path": "imgs/review_images/site_0207_rgb.png",
+        "path": "imgs/review_images/site_0181_rgb.png",
         "bands": [
           2,
           1,
@@ -11657,8 +2252,8 @@ const candidates = [
       {
         "name": "SAVI (Wet)",
         "type": "colormap",
-        "path": "imgs/review_images/site_0207_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0207_SAVI (Wet)_scale.png",
+        "path": "imgs/review_images/site_0181_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0181_SAVI (Wet)_scale.png",
         "band": 23,
         "vmin": -0.5,
         "vmax": 0.5,
@@ -11667,36 +2262,492 @@ const candidates = [
       {
         "name": "MSRM",
         "type": "colormap",
-        "path": "imgs/review_images/site_0207_MSRM.png",
-        "scale_path": "imgs/review_images/site_0207_MSRM_scale.png",
+        "path": "imgs/review_images/site_0181_MSRM.png",
+        "scale_path": "imgs/review_images/site_0181_MSRM_scale.png",
         "band": 42,
-        "vmin": -0.14270266890525818,
-        "vmax": 0.1316269338130951,
+        "vmin": -0.40766599774360657,
+        "vmax": 0.4177516996860504,
         "cmap": "RdYlGn"
       },
       {
         "name": "Clay Mineral Ratio",
         "type": "colormap",
-        "path": "imgs/review_images/site_0207_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0207_Clay Mineral Ratio_scale.png",
+        "path": "imgs/review_images/site_0181_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0181_Clay Mineral Ratio_scale.png",
         "band": 25,
-        "vmin": 1.2170437574386597,
-        "vmax": 1.4962717294692993,
+        "vmin": 1.1047226190567017,
+        "vmax": 1.3348735570907593,
         "cmap": "RdYlGn"
       }
     ],
-    "google_maps_url": "https://maps.google.com/?q=30.7149086088643, 73.75014062457261"
+    "google_maps_url": "https://maps.google.com/?q=32.27842125364869, 71.35005570580829"
   },
   {
-    "candidate_id": "site_0208",
-    "median_probability": "68.9703643321991",
+    "candidate_id": "site_0034",
+    "median_probability": "78.5502016544342",
     "median_probability_category": "High",
     "image_size_px": 800,
     "review_square_bounds": [
-      950466.66163,
-      3404716.29087,
-      951666.66163,
-      3405916.29087
+      772510.65837,
+      3234659.44771,
+      774040.65837,
+      3236189.44771
+    ],
+    "review_square_side_m": 1530.0,
+    "display_pixel_size_m": 1.9125,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0034_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0034_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0034_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0034_MSRM.png",
+        "scale_path": "imgs/review_images/site_0034_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.19562213122844696,
+        "vmax": 0.18864814937114716,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0034_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0034_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0884623527526855,
+        "vmax": 1.3618648052215576,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.218107486621083, 71.81103487175561"
+  },
+  {
+    "candidate_id": "site_0189",
+    "median_probability": "85.9007060527802",
+    "median_probability_category": "Very High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      721654.03054,
+      3238456.79247,
+      723414.03054,
+      3240216.79247
+    ],
+    "review_square_side_m": 1760.0,
+    "display_pixel_size_m": 2.2,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0189_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0189_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0189_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0189_MSRM.png",
+        "scale_path": "imgs/review_images/site_0189_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.2247542440891266,
+        "vmax": 0.22569960355758667,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0189_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0189_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.1183909177780151,
+        "vmax": 1.364160418510437,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.26333940162313, 71.29025431012987"
+  },
+  {
+    "candidate_id": "site_0193",
+    "median_probability": "71.2632179260254",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      725745.49379,
+      3427488.28468,
+      726975.49379,
+      3428718.28468
+    ],
+    "review_square_side_m": 1230.0,
+    "display_pixel_size_m": 1.5375,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0193_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0193_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0193_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0193_MSRM.png",
+        "scale_path": "imgs/review_images/site_0193_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.15314093232154846,
+        "vmax": 0.15914908051490784,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0193_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0193_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0342128276824951,
+        "vmax": 1.2313768863677979,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=30.964735585344652, 71.36991740694967"
+  },
+  {
+    "candidate_id": "site_0212",
+    "median_probability": "65.7734930515289",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      1035186.3409067481,
+      3455678.963714742,
+      1036246.3409067481,
+      3456738.963714742
+    ],
+    "review_square_side_m": 1060.0,
+    "display_pixel_size_m": 1.325,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0212_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0212_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0212_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0212_MSRM.png",
+        "scale_path": "imgs/review_images/site_0212_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.26569607853889465,
+        "vmax": 0.27659931778907776,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0212_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0212_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.1771166324615479,
+        "vmax": 1.3983407020568848,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=31.11744300909669, 74.61427261986123"
+  },
+  {
+    "candidate_id": "site_0196",
+    "median_probability": "82.1882307529449",
+    "median_probability_category": "Very High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      778622.68702,
+      3223513.71985,
+      779892.68702,
+      3224783.71985
+    ],
+    "review_square_side_m": 1270.0,
+    "display_pixel_size_m": 1.5875,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0196_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0196_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0196_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0196_MSRM.png",
+        "scale_path": "imgs/review_images/site_0196_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.11234915256500244,
+        "vmax": 0.10374349355697632,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0196_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0196_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.264242172241211,
+        "vmax": 1.471907138824463,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.115157288896757, 71.869674843856"
+  },
+  {
+    "candidate_id": "site_0101",
+    "median_probability": "71.2356209754944",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      1037203.25676,
+      3245261.49889,
+      1038443.25676,
+      3246501.49889
+    ],
+    "review_square_side_m": 1240.0,
+    "display_pixel_size_m": 1.55,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0101_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0101_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0101_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0101_MSRM.png",
+        "scale_path": "imgs/review_images/site_0101_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.3905095160007477,
+        "vmax": 0.46996113657951355,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0101_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0101_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0678353309631348,
+        "vmax": 1.2048540115356445,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.2274418246327, 74.52943845866999"
+  },
+  {
+    "candidate_id": "site_0146",
+    "median_probability": "85.7272803783417",
+    "median_probability_category": "Very High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      836682.62104,
+      3235392.96047,
+      837902.62104,
+      3236612.96047
+    ],
+    "review_square_side_m": 1220.0,
+    "display_pixel_size_m": 1.525,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0146_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0146_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0146_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0146_MSRM.png",
+        "scale_path": "imgs/review_images/site_0146_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.10852562636137009,
+        "vmax": 0.09235801547765732,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0146_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0146_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.248720645904541,
+        "vmax": 1.4343082904815674,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.20787452767988, 72.46881296084719"
+  },
+  {
+    "candidate_id": "site_0094",
+    "median_probability": "86.6469323635101",
+    "median_probability_category": "Very High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      785336.9484,
+      3234858.99531,
+      786826.9484,
+      3236348.99531
+    ],
+    "review_square_side_m": 1490.0,
+    "display_pixel_size_m": 1.8625,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0094_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0094_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0094_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0094_MSRM.png",
+        "scale_path": "imgs/review_images/site_0094_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.2194681614637375,
+        "vmax": 0.21929724514484406,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0094_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0094_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0896246433258057,
+        "vmax": 1.3433806896209717,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.21689425948902, 71.94267169292146"
+  },
+  {
+    "candidate_id": "site_0043",
+    "median_probability": "70.5502688884735",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      786413.58632,
+      3233940.06458,
+      787613.58632,
+      3235140.06458
     ],
     "review_square_side_m": 1200.0,
     "display_pixel_size_m": 1.5,
@@ -11704,7 +2755,7 @@ const candidates = [
       {
         "name": "rgb",
         "type": "rgb",
-        "path": "imgs/review_images/site_0208_rgb.png",
+        "path": "imgs/review_images/site_0043_rgb.png",
         "bands": [
           2,
           1,
@@ -11714,8 +2765,8 @@ const candidates = [
       {
         "name": "SAVI (Wet)",
         "type": "colormap",
-        "path": "imgs/review_images/site_0208_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0208_SAVI (Wet)_scale.png",
+        "path": "imgs/review_images/site_0043_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0043_SAVI (Wet)_scale.png",
         "band": 23,
         "vmin": -0.5,
         "vmax": 0.5,
@@ -11724,25 +2775,1393 @@ const candidates = [
       {
         "name": "MSRM",
         "type": "colormap",
-        "path": "imgs/review_images/site_0208_MSRM.png",
-        "scale_path": "imgs/review_images/site_0208_MSRM_scale.png",
+        "path": "imgs/review_images/site_0043_MSRM.png",
+        "scale_path": "imgs/review_images/site_0043_MSRM_scale.png",
         "band": 42,
-        "vmin": -0.18152599036693573,
-        "vmax": 0.1855810135602951,
+        "vmin": -0.1899113804101944,
+        "vmax": 0.2010457068681717,
         "cmap": "RdYlGn"
       },
       {
         "name": "Clay Mineral Ratio",
         "type": "colormap",
-        "path": "imgs/review_images/site_0208_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0208_Clay Mineral Ratio_scale.png",
+        "path": "imgs/review_images/site_0043_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0043_Clay Mineral Ratio_scale.png",
         "band": 25,
-        "vmin": 1.1807540655136108,
-        "vmax": 1.4979244470596313,
+        "vmin": 0.9988452196121216,
+        "vmax": 1.199391484260559,
         "cmap": "RdYlGn"
       }
     ],
-    "google_maps_url": "https://maps.google.com/?q=30.69538675781346, 73.7074308942747"
+    "google_maps_url": "https://maps.google.com/?q=29.20709332764652, 71.95196899414874"
+  },
+  {
+    "candidate_id": "site_0012",
+    "median_probability": "74.8442411422729",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      1043977.46754,
+      3366622.09298,
+      1045147.46754,
+      3367792.09298
+    ],
+    "review_square_side_m": 1170.0,
+    "display_pixel_size_m": 1.4625,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0012_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0012_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0012_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0012_MSRM.png",
+        "scale_path": "imgs/review_images/site_0012_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.17727063596248627,
+        "vmax": 0.1666540950536728,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0012_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0012_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0620782375335693,
+        "vmax": 1.211071491241455,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=30.31421695108405, 74.65957840766204"
+  },
+  {
+    "candidate_id": "site_0145",
+    "median_probability": "74.1009056568146",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      845487.62104,
+      3238422.96047,
+      846727.62104,
+      3239662.96047
+    ],
+    "review_square_side_m": 1240.0,
+    "display_pixel_size_m": 1.55,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0145_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0145_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0145_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0145_MSRM.png",
+        "scale_path": "imgs/review_images/site_0145_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.11304416507482529,
+        "vmax": 0.1123683825135231,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0145_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0145_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.2493767738342285,
+        "vmax": 1.4285452365875244,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.232879809516042, 72.56027393298022"
+  },
+  {
+    "candidate_id": "site_0194",
+    "median_probability": "71.8904972076416",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      785032.68702,
+      3223873.71985,
+      786402.68702,
+      3225243.71985
+    ],
+    "review_square_side_m": 1370.0,
+    "display_pixel_size_m": 1.7125,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0194_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0194_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0194_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0194_MSRM.png",
+        "scale_path": "imgs/review_images/site_0194_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.12542593479156494,
+        "vmax": 0.12156479060649872,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0194_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0194_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0614835023880005,
+        "vmax": 1.1225820779800415,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.117416283888325, 71.93609208533923"
+  },
+  {
+    "candidate_id": "site_0048",
+    "median_probability": "69.3030595779419",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      951644.62937,
+      3244522.2869,
+      952834.62937,
+      3245712.2869
+    ],
+    "review_square_side_m": 1190.0,
+    "display_pixel_size_m": 1.4875,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0048_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0048_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0048_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0048_MSRM.png",
+        "scale_path": "imgs/review_images/site_0048_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.4258219003677368,
+        "vmax": 0.4318573474884033,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0048_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0048_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0638364553451538,
+        "vmax": 1.1522449254989624,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.254053484859927, 73.65185860525592"
+  },
+  {
+    "candidate_id": "site_0040",
+    "median_probability": "73.7092256546021",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      771671.03013,
+      3282760.19086,
+      772881.03013,
+      3283970.19086
+    ],
+    "review_square_side_m": 1210.0,
+    "display_pixel_size_m": 1.5125,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0040_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0040_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0040_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0040_MSRM.png",
+        "scale_path": "imgs/review_images/site_0040_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.1373010277748108,
+        "vmax": 0.1467370092868805,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0040_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0040_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.2076945304870605,
+        "vmax": 1.4323854446411133,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.65048559333043, 71.81265684297969"
+  },
+  {
+    "candidate_id": "site_0111",
+    "median_probability": "69.9874818325043",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      823800.16718,
+      3309621.9631,
+      824950.16718,
+      3310771.9631
+    ],
+    "review_square_side_m": 1150.0,
+    "display_pixel_size_m": 1.4375,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0111_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0111_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0111_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0111_MSRM.png",
+        "scale_path": "imgs/review_images/site_0111_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.151866614818573,
+        "vmax": 0.17173334956169128,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0111_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0111_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.2022266387939453,
+        "vmax": 1.5613977909088135,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.879722646066853, 72.35820499750886"
+  },
+  {
+    "candidate_id": "site_0135",
+    "median_probability": "67.1277344226837",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      1159037.34641,
+      3228209.59737,
+      1160177.34641,
+      3229349.59737
+    ],
+    "review_square_side_m": 1140.0,
+    "display_pixel_size_m": 1.425,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0135_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0135_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0135_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0135_MSRM.png",
+        "scale_path": "imgs/review_images/site_0135_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.5012876987457275,
+        "vmax": 0.47232919931411743,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0135_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0135_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0420877933502197,
+        "vmax": 1.2786600589752197,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.01669292967953, 75.76486251311952"
+  },
+  {
+    "candidate_id": "site_0117",
+    "median_probability": "80.1270186901093",
+    "median_probability_category": "Very High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      982557.0981,
+      3370824.29794,
+      983897.0981,
+      3372164.29794
+    ],
+    "review_square_side_m": 1340.0,
+    "display_pixel_size_m": 1.675,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0117_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0117_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0117_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0117_MSRM.png",
+        "scale_path": "imgs/review_images/site_0117_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.12577304244041443,
+        "vmax": 0.11932750791311264,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0117_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0117_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0723443031311035,
+        "vmax": 1.2351906299591064,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=30.378776285926566, 74.0262886451282"
+  },
+  {
+    "candidate_id": "site_0059",
+    "median_probability": "69.7749137878418",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      924604.7104639327,
+      3538761.452845961,
+      925694.7104639327,
+      3539851.452845961
+    ],
+    "review_square_side_m": 1090.0,
+    "display_pixel_size_m": 1.3625,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0059_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0059_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0059_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0059_MSRM.png",
+        "scale_path": "imgs/review_images/site_0059_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.13488782942295074,
+        "vmax": 0.09324153512716293,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0059_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0059_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.1212167739868164,
+        "vmax": 1.3017940521240234,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=31.910187162096634, 73.49463939044846"
+  },
+  {
+    "candidate_id": "site_0010",
+    "median_probability": "66.375333070755",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      1137320.5029039462,
+      3429146.6778185996,
+      1138410.5029039462,
+      3430236.6778185996
+    ],
+    "review_square_side_m": 1090.0,
+    "display_pixel_size_m": 1.3625,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0010_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0010_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0010_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0010_MSRM.png",
+        "scale_path": "imgs/review_images/site_0010_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.16944777965545654,
+        "vmax": 0.16625908017158508,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0010_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0010_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.1285483837127686,
+        "vmax": 1.3066658973693848,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=30.82882804914545, 75.66253480979987"
+  },
+  {
+    "candidate_id": "site_0001",
+    "median_probability": "73.40098023414609",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      685017.0883,
+      3402969.54293,
+      686257.0883,
+      3404209.54293
+    ],
+    "review_square_side_m": 1240.0,
+    "display_pixel_size_m": 1.55,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0001_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0001_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0001_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0001_MSRM.png",
+        "scale_path": "imgs/review_images/site_0001_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.12879694998264313,
+        "vmax": 0.14512889087200165,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0001_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0001_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.155573844909668,
+        "vmax": 1.3171799182891846,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=30.750781423031622, 70.93933121568595"
+  },
+  {
+    "candidate_id": "site_0104",
+    "median_probability": "66.2176549434662",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      1037657.46754,
+      3363377.09298,
+      1038767.46754,
+      3364487.09298
+    ],
+    "review_square_side_m": 1110.0,
+    "display_pixel_size_m": 1.3875,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0104_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0104_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0104_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0104_MSRM.png",
+        "scale_path": "imgs/review_images/site_0104_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.30563411116600037,
+        "vmax": 0.3521803319454193,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0104_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0104_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0540684461593628,
+        "vmax": 1.2714442014694214,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=30.287639974048446, 74.59217407679336"
+  },
+  {
+    "candidate_id": "site_0107",
+    "median_probability": "73.1134176254272",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      1164607.34641,
+      3222371.09806,
+      1165777.34641,
+      3223541.09806
+    ],
+    "review_square_side_m": 1170.0,
+    "display_pixel_size_m": 1.4625,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0107_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0107_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0107_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0107_MSRM.png",
+        "scale_path": "imgs/review_images/site_0107_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.38926854729652405,
+        "vmax": 0.37904325127601624,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0107_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0107_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0484521389007568,
+        "vmax": 1.211233377456665,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=28.961611167284456, 75.81836703810416"
+  },
+  {
+    "candidate_id": "site_0063",
+    "median_probability": "74.8362958431244",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      671426.31093,
+      3538458.01143,
+      672686.31093,
+      3539718.01143
+    ],
+    "review_square_side_m": 1260.0,
+    "display_pixel_size_m": 1.575,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0063_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0063_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0063_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0063_MSRM.png",
+        "scale_path": "imgs/review_images/site_0063_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.20224745571613312,
+        "vmax": 0.20030198991298676,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0063_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0063_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0687944889068604,
+        "vmax": 1.1919758319854736,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=31.974776685805608, 70.82092843918491"
+  },
+  {
+    "candidate_id": "site_0014",
+    "median_probability": "79.04896140098569",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      828694.34683,
+      3369109.82624,
+      829984.34683,
+      3370399.82624
+    ],
+    "review_square_side_m": 1290.0,
+    "display_pixel_size_m": 1.6125,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0014_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0014_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0014_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0014_MSRM.png",
+        "scale_path": "imgs/review_images/site_0014_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.12773950397968292,
+        "vmax": 0.11800079792737961,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0014_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0014_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.1956478357315063,
+        "vmax": 1.382454514503479,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=30.41491968542607, 72.42804443704075"
+  },
+  {
+    "candidate_id": "site_0023",
+    "median_probability": "85.0945770740509",
+    "median_probability_category": "Very High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      926869.71046,
+      3539221.45285,
+      928249.71046,
+      3540601.45285
+    ],
+    "review_square_side_m": 1380.0,
+    "display_pixel_size_m": 1.725,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0023_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0023_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0023_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0023_MSRM.png",
+        "scale_path": "imgs/review_images/site_0023_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.1803416907787323,
+        "vmax": 0.18545717000961304,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0023_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0023_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.105185627937317,
+        "vmax": 1.3363622426986694,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=31.914725169626738, 73.52031662902185"
+  },
+  {
+    "candidate_id": "site_0138",
+    "median_probability": "65.87761044502261",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      1196107.9227329334,
+      3244302.224186346,
+      1197157.9227329334,
+      3245352.224186346
+    ],
+    "review_square_side_m": 1050.0,
+    "display_pixel_size_m": 1.3125,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0138_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0138_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0138_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0138_MSRM.png",
+        "scale_path": "imgs/review_images/site_0138_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.24313831329345703,
+        "vmax": 0.2975200414657593,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0138_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0138_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.1256953477859497,
+        "vmax": 1.2759720087051392,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.140787282744014, 76.15218644158202"
+  },
+  {
+    "candidate_id": "site_0028",
+    "median_probability": "88.2835745811462",
+    "median_probability_category": "Very High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      644420.24053,
+      3238814.26603,
+      645960.24053,
+      3240354.26603
+    ],
+    "review_square_side_m": 1540.0,
+    "display_pixel_size_m": 1.925,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0028_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0028_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0028_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0028_MSRM.png",
+        "scale_path": "imgs/review_images/site_0028_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.09873850643634796,
+        "vmax": 0.09803622961044312,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0028_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0028_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.118676781654358,
+        "vmax": 1.3145686388015747,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.276842876142684, 70.49457157103096"
+  },
+  {
+    "candidate_id": "site_0084",
+    "median_probability": "74.117374420166",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      766075.65837,
+      3230951.65399,
+      767355.65837,
+      3232231.65399
+    ],
+    "review_square_side_m": 1280.0,
+    "display_pixel_size_m": 1.6,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0084_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0084_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0084_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0084_MSRM.png",
+        "scale_path": "imgs/review_images/site_0084_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.18622994422912598,
+        "vmax": 0.19984689354896545,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0084_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0084_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.03211510181427,
+        "vmax": 1.237798810005188,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.184954130752836, 71.74270000417285"
+  },
+  {
+    "candidate_id": "site_0055",
+    "median_probability": "86.64168119430539",
+    "median_probability_category": "Very High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      943569.62937,
+      3240212.2869,
+      945289.62937,
+      3241932.2869
+    ],
+    "review_square_side_m": 1720.0,
+    "display_pixel_size_m": 2.15,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0055_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0055_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0055_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0055_MSRM.png",
+        "scale_path": "imgs/review_images/site_0055_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.4522952735424042,
+        "vmax": 0.49792030453681946,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0055_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0055_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0335477590560913,
+        "vmax": 1.165545105934143,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.22043112389964, 73.57011623976032"
+  },
+  {
+    "candidate_id": "site_0005",
+    "median_probability": "83.3362877368927",
+    "median_probability_category": "Very High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      906053.97173,
+      3388913.99381,
+      907443.97173,
+      3390303.99381
+    ],
+    "review_square_side_m": 1390.0,
+    "display_pixel_size_m": 1.7375,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0005_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0005_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0005_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0005_MSRM.png",
+        "scale_path": "imgs/review_images/site_0005_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.16136257350444794,
+        "vmax": 0.15622998774051666,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0005_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0005_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.1052809953689575,
+        "vmax": 1.339483380317688,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=30.569976442182785, 73.2398694546968"
+  },
+  {
+    "candidate_id": "site_0195",
+    "median_probability": "67.2496378421783",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      780022.6870230195,
+      3223763.7198530026,
+      781092.6870230195,
+      3224833.7198530026
+    ],
+    "review_square_side_m": 1070.0,
+    "display_pixel_size_m": 1.3375,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0195_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0195_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0195_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0195_MSRM.png",
+        "scale_path": "imgs/review_images/site_0195_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.12378896027803421,
+        "vmax": 0.12235208600759506,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0195_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0195_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.1022002696990967,
+        "vmax": 1.3515846729278564,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.116222967299723, 71.88305752819828"
+  },
+  {
+    "candidate_id": "site_0033",
+    "median_probability": "74.5015740394592",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      773600.65837,
+      3236024.44771,
+      774910.65837,
+      3237334.44771
+    ],
+    "review_square_side_m": 1310.0,
+    "display_pixel_size_m": 1.6375,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0033_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0033_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0033_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0033_MSRM.png",
+        "scale_path": "imgs/review_images/site_0033_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.22028379142284393,
+        "vmax": 0.23921288549900055,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0033_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0033_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0709373950958252,
+        "vmax": 1.3266124725341797,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.22920881274668, 71.82141579067367"
+  },
+  {
+    "candidate_id": "site_0027",
+    "median_probability": "67.0922160148621",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      639605.2405266716,
+      3239074.2660298515,
+      640685.2405266716,
+      3240154.2660298515
+    ],
+    "review_square_side_m": 1080.0,
+    "display_pixel_size_m": 1.35,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0027_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0027_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0027_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0027_MSRM.png",
+        "scale_path": "imgs/review_images/site_0027_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.14729972183704376,
+        "vmax": 0.15081904828548431,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0027_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0027_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.1578575372695923,
+        "vmax": 1.3636215925216675,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.277684307328038, 70.44265661638984"
   },
   {
     "candidate_id": "site_0209",
@@ -11802,6 +4221,7188 @@ const candidates = [
     "google_maps_url": "https://maps.google.com/?q=30.152377438729356, 72.91196871578286"
   },
   {
+    "candidate_id": "site_0095",
+    "median_probability": "69.3965971469879",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      778926.9484,
+      3234053.99531,
+      780266.9484,
+      3235393.99531
+    ],
+    "review_square_side_m": 1340.0,
+    "display_pixel_size_m": 1.675,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0095_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0095_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0095_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0095_MSRM.png",
+        "scale_path": "imgs/review_images/site_0095_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.22434423863887787,
+        "vmax": 0.23617325723171234,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0095_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0095_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.060593843460083,
+        "vmax": 1.3503947257995605,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.210411868593823, 71.87581493177589"
+  },
+  {
+    "candidate_id": "site_0032",
+    "median_probability": "65.9117519855499",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      770930.6583678663,
+      3239899.447712465,
+      772050.6583678663,
+      3241019.447712465
+    ],
+    "review_square_side_m": 1120.0,
+    "display_pixel_size_m": 1.4,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0032_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0032_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0032_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0032_MSRM.png",
+        "scale_path": "imgs/review_images/site_0032_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.14359401166439056,
+        "vmax": 0.12543423473834991,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0032_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0032_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0484287738800049,
+        "vmax": 1.1264123916625977,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.2638818624078, 71.79392517818263"
+  },
+  {
+    "candidate_id": "site_0102",
+    "median_probability": "81.3446819782257",
+    "median_probability_category": "Very High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      1036998.25676,
+      3244611.49889,
+      1038478.25676,
+      3246091.49889
+    ],
+    "review_square_side_m": 1480.0,
+    "display_pixel_size_m": 1.85,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0102_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0102_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0102_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0102_MSRM.png",
+        "scale_path": "imgs/review_images/site_0102_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.3992246389389038,
+        "vmax": 0.4550330638885498,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0102_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0102_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0780175924301147,
+        "vmax": 1.176871657371521,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.222716630519553, 74.52831141218932"
+  },
+  {
+    "candidate_id": "site_0108",
+    "median_probability": "66.9854283332825",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      1167607.3464139786,
+      3222121.0980574815,
+      1168717.3464139786,
+      3223231.0980574815
+    ],
+    "review_square_side_m": 1110.0,
+    "display_pixel_size_m": 1.3875,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0108_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0108_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0108_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0108_MSRM.png",
+        "scale_path": "imgs/review_images/site_0108_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.31815868616104126,
+        "vmax": 0.34262967109680176,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0108_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0108_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.072808027267456,
+        "vmax": 1.1884617805480957,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=28.957557478432477, 75.84846508384011"
+  },
+  {
+    "candidate_id": "site_0186",
+    "median_probability": "83.1764042377472",
+    "median_probability_category": "Very High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      842785.06506,
+      3477403.64631,
+      844155.06506,
+      3478773.64631
+    ],
+    "review_square_side_m": 1370.0,
+    "display_pixel_size_m": 1.7125,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0186_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0186_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0186_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0186_MSRM.png",
+        "scale_path": "imgs/review_images/site_0186_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.14515575766563416,
+        "vmax": 0.14211899042129517,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0186_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0186_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.1731911897659302,
+        "vmax": 1.4763342142105103,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=31.386584374386885, 72.61137698894143"
+  },
+  {
+    "candidate_id": "site_0166",
+    "median_probability": "79.5806586742401",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      788533.58632,
+      3242525.06458,
+      789793.58632,
+      3243785.06458
+    ],
+    "review_square_side_m": 1260.0,
+    "display_pixel_size_m": 1.575,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0166_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0166_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0166_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0166_MSRM.png",
+        "scale_path": "imgs/review_images/site_0166_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.46936386823654175,
+        "vmax": 0.44567441940307617,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0166_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0166_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.2393172979354858,
+        "vmax": 1.8185919523239136,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.284254509693856, 71.97630563104673"
+  },
+  {
+    "candidate_id": "site_0204",
+    "median_probability": "69.9920475482941",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      940623.0850983541,
+      3407416.2908704705,
+      941773.0850983541,
+      3408566.2908704705
+    ],
+    "review_square_side_m": 1150.0,
+    "display_pixel_size_m": 1.4375,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0204_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0204_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0204_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0204_MSRM.png",
+        "scale_path": "imgs/review_images/site_0204_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.16558757424354553,
+        "vmax": 0.14002805948257446,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0204_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0204_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.1771851778030396,
+        "vmax": 1.4578038454055786,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=30.723137022195367, 73.60586931072794"
+  },
+  {
+    "candidate_id": "site_0047",
+    "median_probability": "76.77879333496091",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      946759.62937,
+      3245362.2869,
+      948149.62937,
+      3246752.2869
+    ],
+    "review_square_side_m": 1390.0,
+    "display_pixel_size_m": 1.7375,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0047_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0047_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0047_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0047_MSRM.png",
+        "scale_path": "imgs/review_images/site_0047_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.20573027431964874,
+        "vmax": 0.2127053290605545,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0047_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0047_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0828062295913696,
+        "vmax": 1.2155896425247192,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.264212776928318, 73.60315060407466"
+  },
+  {
+    "candidate_id": "site_0149",
+    "median_probability": "85.2518320083618",
+    "median_probability_category": "Very High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      833452.62104,
+      3231927.96047,
+      834602.62104,
+      3233077.96047
+    ],
+    "review_square_side_m": 1150.0,
+    "display_pixel_size_m": 1.4375,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0149_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0149_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0149_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0149_MSRM.png",
+        "scale_path": "imgs/review_images/site_0149_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.45113489031791687,
+        "vmax": 0.4383842647075653,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0149_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0149_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0555602312088013,
+        "vmax": 1.1922532320022583,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.177207416106896, 72.43423294918983"
+  },
+  {
+    "candidate_id": "site_0175",
+    "median_probability": "77.7974009513855",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      836778.06445,
+      3468771.84566,
+      838058.06445,
+      3470051.84566
+    ],
+    "review_square_side_m": 1280.0,
+    "display_pixel_size_m": 1.6,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0175_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0175_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0175_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0175_MSRM.png",
+        "scale_path": "imgs/review_images/site_0175_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.14536438882350922,
+        "vmax": 0.13944648206233978,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0175_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0175_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.1437599658966064,
+        "vmax": 1.3530340194702148,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=31.31022201986589, 72.5449128518437"
+  },
+  {
+    "candidate_id": "site_0065",
+    "median_probability": "78.0750274658203",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      810378.03242,
+      3224231.942,
+      811728.03242,
+      3225581.942
+    ],
+    "review_square_side_m": 1350.0,
+    "display_pixel_size_m": 1.6875,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0065_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0065_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0065_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0065_MSRM.png",
+        "scale_path": "imgs/review_images/site_0065_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.14827118813991547,
+        "vmax": 0.09550032764673233,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0065_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0065_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0330162048339844,
+        "vmax": 1.096099615097046,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.11460314575266, 72.19621882966614"
+  },
+  {
+    "candidate_id": "site_0051",
+    "median_probability": "82.92302489280699",
+    "median_probability_category": "Very High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      946919.62937,
+      3243902.2869,
+      948349.62937,
+      3245332.2869
+    ],
+    "review_square_side_m": 1430.0,
+    "display_pixel_size_m": 1.7875,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0051_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0051_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0051_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0051_MSRM.png",
+        "scale_path": "imgs/review_images/site_0051_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.1868022233247757,
+        "vmax": 0.20256386697292328,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0051_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0051_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0945355892181396,
+        "vmax": 1.209693431854248,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.25119424325547, 73.60441584208857"
+  },
+  {
+    "candidate_id": "site_0119",
+    "median_probability": "78.4408569335938",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      766536.03013,
+      3284130.33595,
+      767866.03013,
+      3285460.33595
+    ],
+    "review_square_side_m": 1330.0,
+    "display_pixel_size_m": 1.6625,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0119_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0119_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0119_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0119_MSRM.png",
+        "scale_path": "imgs/review_images/site_0119_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.09953532367944717,
+        "vmax": 0.10325372964143753,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0119_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0119_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.2070379257202148,
+        "vmax": 1.49269437789917,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.66447927412706, 71.76063453674018"
+  },
+  {
+    "candidate_id": "site_0126",
+    "median_probability": "73.8644003868103",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      837636.71886,
+      3320146.38501,
+      838796.71886,
+      3321306.38501
+    ],
+    "review_square_side_m": 1160.0,
+    "display_pixel_size_m": 1.45,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0126_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0126_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0126_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0126_MSRM.png",
+        "scale_path": "imgs/review_images/site_0126_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.1315036416053772,
+        "vmax": 0.11168840527534485,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0126_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0126_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.3523967266082764,
+        "vmax": 1.6044018268585205,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.970846696122702, 72.50461059757629"
+  },
+  {
+    "candidate_id": "site_0158",
+    "median_probability": "80.4918110370636",
+    "median_probability_category": "Very High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      857070.20004,
+      3270956.56389,
+      858690.20004,
+      3272576.56389
+    ],
+    "review_square_side_m": 1620.0,
+    "display_pixel_size_m": 2.025,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0158_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0158_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0158_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0158_MSRM.png",
+        "scale_path": "imgs/review_images/site_0158_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.1624710112810135,
+        "vmax": 0.177951380610466,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0158_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0158_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.097678542137146,
+        "vmax": 1.274182915687561,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.524335009245814, 72.69180606649795"
+  },
+  {
+    "candidate_id": "site_0072",
+    "median_probability": "73.6569881439209",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      922309.52785,
+      3598654.28546,
+      923449.52785,
+      3599794.28546
+    ],
+    "review_square_side_m": 1140.0,
+    "display_pixel_size_m": 1.425,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0072_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0072_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0072_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0072_MSRM.png",
+        "scale_path": "imgs/review_images/site_0072_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.3071613013744354,
+        "vmax": 0.31061360239982605,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0072_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0072_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.1482447385787964,
+        "vmax": 1.3752425909042358,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=32.44992527679662, 73.4971671430017"
+  },
+  {
+    "candidate_id": "site_0057",
+    "median_probability": "69.4618761539459",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      783228.5584748546,
+      3298137.720605809,
+      784338.5584748546,
+      3299247.720605809
+    ],
+    "review_square_side_m": 1110.0,
+    "display_pixel_size_m": 1.3875,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0057_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0057_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0057_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0057_MSRM.png",
+        "scale_path": "imgs/review_images/site_0057_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.10648670047521591,
+        "vmax": 0.1036515161395073,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0057_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0057_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.2113072872161865,
+        "vmax": 1.467320442199707,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.78606031735208, 71.93542488482952"
+  },
+  {
+    "candidate_id": "site_0123",
+    "median_probability": "88.7652516365051",
+    "median_probability_category": "Very High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      1080395.06989,
+      3427694.69213,
+      1081885.06989,
+      3429184.69213
+    ],
+    "review_square_side_m": 1490.0,
+    "display_pixel_size_m": 1.8625,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0123_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0123_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0123_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0123_MSRM.png",
+        "scale_path": "imgs/review_images/site_0123_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.09542347490787506,
+        "vmax": 0.09837894141674042,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0123_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0123_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0664739608764648,
+        "vmax": 1.2291975021362305,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=30.846700930512565, 75.07227160873747"
+  },
+  {
+    "candidate_id": "site_0155",
+    "median_probability": "87.4574542045593",
+    "median_probability_category": "Very High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      861550.20004,
+      3275776.56389,
+      863050.20004,
+      3277276.56389
+    ],
+    "review_square_side_m": 1500.0,
+    "display_pixel_size_m": 1.875,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0155_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0155_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0155_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0155_MSRM.png",
+        "scale_path": "imgs/review_images/site_0155_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.1391727328300476,
+        "vmax": 0.1446363925933838,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0155_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0155_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0466898679733276,
+        "vmax": 1.269938349723816,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.56592980973802, 72.73890105590876"
+  },
+  {
+    "candidate_id": "site_0071",
+    "median_probability": "68.30308437347409",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      887243.64383,
+      3328668.82121,
+      888403.64383,
+      3329828.82121
+    ],
+    "review_square_side_m": 1160.0,
+    "display_pixel_size_m": 1.45,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0071_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0071_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0071_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0071_MSRM.png",
+        "scale_path": "imgs/review_images/site_0071_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.21009224653244019,
+        "vmax": 0.21222487092018127,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0071_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0071_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0528738498687744,
+        "vmax": 1.263305425643921,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=30.032901148504383, 73.020746452606"
+  },
+  {
+    "candidate_id": "site_0185",
+    "median_probability": "84.1017603874207",
+    "median_probability_category": "Very High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      840345.06506,
+      3481653.64631,
+      841665.06506,
+      3482973.64631
+    ],
+    "review_square_side_m": 1320.0,
+    "display_pixel_size_m": 1.65,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0185_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0185_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0185_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0185_MSRM.png",
+        "scale_path": "imgs/review_images/site_0185_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.14069031178951263,
+        "vmax": 0.1307619959115982,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0185_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0185_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.2708160877227783,
+        "vmax": 1.5388681888580322,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=31.42535719925935, 72.58695106357008"
+  },
+  {
+    "candidate_id": "site_0011",
+    "median_probability": "66.3710474967957",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      1049657.4675429426,
+      3367922.0929802386,
+      1050727.4675429426,
+      3368992.0929802386
+    ],
+    "review_square_side_m": 1070.0,
+    "display_pixel_size_m": 1.3375,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0011_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0011_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0011_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0011_MSRM.png",
+        "scale_path": "imgs/review_images/site_0011_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.21128951013088226,
+        "vmax": 0.22582079470157623,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0011_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0011_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.1018855571746826,
+        "vmax": 1.3174254894256592,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=30.322898958443, 74.71850109718359"
+  },
+  {
+    "candidate_id": "site_0188",
+    "median_probability": "70.4702436923981",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      718934.03054,
+      3238536.79247,
+      720104.03054,
+      3239706.79247
+    ],
+    "review_square_side_m": 1170.0,
+    "display_pixel_size_m": 1.4625,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0188_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0188_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0188_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0188_MSRM.png",
+        "scale_path": "imgs/review_images/site_0188_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.1343398243188858,
+        "vmax": 0.1512891799211502,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0188_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0188_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.1185322999954224,
+        "vmax": 1.3517733812332153,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.261928449808877, 71.25920230991646"
+  },
+  {
+    "candidate_id": "site_0024",
+    "median_probability": "74.0904688835144",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      835440.16718,
+      3311451.0506,
+      836650.16718,
+      3312661.0506
+    ],
+    "review_square_side_m": 1210.0,
+    "display_pixel_size_m": 1.5125,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0024_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0024_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0024_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0024_MSRM.png",
+        "scale_path": "imgs/review_images/site_0024_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.1787407100200653,
+        "vmax": 0.1946433186531067,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0024_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0024_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.1732338666915894,
+        "vmax": 1.470781922340393,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.89334094379152, 72.47942217479806"
+  },
+  {
+    "candidate_id": "site_0098",
+    "median_probability": "82.2331964969635",
+    "median_probability_category": "Very High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      1032033.25676,
+      3247791.49889,
+      1033383.25676,
+      3249141.49889
+    ],
+    "review_square_side_m": 1350.0,
+    "display_pixel_size_m": 1.6875,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0098_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0098_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0098_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0098_MSRM.png",
+        "scale_path": "imgs/review_images/site_0098_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.3568277657032013,
+        "vmax": 0.3530472218990326,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0098_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0098_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0729857683181763,
+        "vmax": 1.1675156354904175,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.252828078610513, 74.47829085353082"
+  },
+  {
+    "candidate_id": "site_0153",
+    "median_probability": "83.0803513526917",
+    "median_probability_category": "Very High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      833522.62104,
+      3231722.96047,
+      834992.62104,
+      3233192.96047
+    ],
+    "review_square_side_m": 1470.0,
+    "display_pixel_size_m": 1.8375,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0153_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0153_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0153_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0153_MSRM.png",
+        "scale_path": "imgs/review_images/site_0153_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.39351409673690796,
+        "vmax": 0.33068692684173584,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0153_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0153_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0513908863067627,
+        "vmax": 1.1734271049499512,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.17674131778301, 72.43658059615035"
+  },
+  {
+    "candidate_id": "site_0190",
+    "median_probability": "84.37510132789609",
+    "median_probability_category": "Very High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      720719.03054,
+      3238366.79247,
+      722199.03054,
+      3239846.79247
+    ],
+    "review_square_side_m": 1480.0,
+    "display_pixel_size_m": 1.85,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0190_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0190_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0190_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0190_MSRM.png",
+        "scale_path": "imgs/review_images/site_0190_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.17085742950439453,
+        "vmax": 0.1605266034603119,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0190_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0190_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.1518239974975586,
+        "vmax": 1.3937394618988037,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.261454266341378, 71.27915198124357"
+  },
+  {
+    "candidate_id": "site_0042",
+    "median_probability": "65.60325622558591",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      958977.4329560194,
+      3483876.32687057,
+      960027.4329560194,
+      3484926.32687057
+    ],
+    "review_square_side_m": 1050.0,
+    "display_pixel_size_m": 1.3125,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0042_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0042_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0042_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0042_MSRM.png",
+        "scale_path": "imgs/review_images/site_0042_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.10623335093259811,
+        "vmax": 0.10298477858304977,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0042_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0042_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.1717740297317505,
+        "vmax": 1.3519827127456665,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=31.40323956480949, 73.83107910861342"
+  },
+  {
+    "candidate_id": "site_0092",
+    "median_probability": "79.9763143062592",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      690467.35465,
+      3478120.80867,
+      691787.35465,
+      3479440.80867
+    ],
+    "review_square_side_m": 1320.0,
+    "display_pixel_size_m": 1.65,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0092_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0092_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0092_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0092_MSRM.png",
+        "scale_path": "imgs/review_images/site_0092_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.20517297089099884,
+        "vmax": 0.2177639752626419,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0092_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0092_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0820003747940063,
+        "vmax": 1.333799958229065,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=31.427953513135968, 71.01089245045789"
+  },
+  {
+    "candidate_id": "site_0016",
+    "median_probability": "89.07234072685239",
+    "median_probability_category": "Very High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      828664.34683,
+      3367819.82624,
+      830134.34683,
+      3369289.82624
+    ],
+    "review_square_side_m": 1470.0,
+    "display_pixel_size_m": 1.8375,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0016_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0016_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0016_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0016_MSRM.png",
+        "scale_path": "imgs/review_images/site_0016_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.15850399434566498,
+        "vmax": 0.15469075739383698,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0016_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0016_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.1900913715362549,
+        "vmax": 1.3636164665222168,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=30.4040938729552, 72.42828983483973"
+  },
+  {
+    "candidate_id": "site_0136",
+    "median_probability": "88.2442116737366",
+    "median_probability_category": "Very High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      1162777.34641,
+      3224309.59737,
+      1164117.34641,
+      3225649.59737
+    ],
+    "review_square_side_m": 1340.0,
+    "display_pixel_size_m": 1.675,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0136_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0136_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0136_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0136_MSRM.png",
+        "scale_path": "imgs/review_images/site_0136_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.4943264424800873,
+        "vmax": 0.48062393069267273,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0136_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0136_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.036702036857605,
+        "vmax": 1.1100181341171265,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=28.98065056544379, 75.80177598981543"
+  },
+  {
+    "candidate_id": "site_0183",
+    "median_probability": "66.78335070610049",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      1052522.4675429426,
+      3355142.0929802386,
+      1053592.4675429426,
+      3356212.0929802386
+    ],
+    "review_square_side_m": 1070.0,
+    "display_pixel_size_m": 1.3375,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0183_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0183_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0183_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0183_MSRM.png",
+        "scale_path": "imgs/review_images/site_0183_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.28495603799819946,
+        "vmax": 0.30689537525177,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0183_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0183_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0702992677688599,
+        "vmax": 1.2397807836532593,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=30.206846496383996, 74.74145074795182"
+  },
+  {
+    "candidate_id": "site_0207",
+    "median_probability": "68.3059096336365",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      954496.66163,
+      3407081.29087,
+      955646.66163,
+      3408231.29087
+    ],
+    "review_square_side_m": 1150.0,
+    "display_pixel_size_m": 1.4375,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0207_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0207_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0207_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0207_MSRM.png",
+        "scale_path": "imgs/review_images/site_0207_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.14270266890525818,
+        "vmax": 0.1316269338130951,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0207_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0207_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.2170437574386597,
+        "vmax": 1.4962717294692993,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=30.7149086088643, 73.75014062457261"
+  },
+  {
+    "candidate_id": "site_0079",
+    "median_probability": "66.1720931529999",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      768183.70777,
+      3223382.22903,
+      769473.70777,
+      3224672.22903
+    ],
+    "review_square_side_m": 1290.0,
+    "display_pixel_size_m": 1.6125,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0079_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0079_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0079_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0079_MSRM.png",
+        "scale_path": "imgs/review_images/site_0079_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.20897845923900604,
+        "vmax": 0.22596107423305511,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0079_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0079_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.028933048248291,
+        "vmax": 1.282893419265747,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.116312336897977, 71.76258155257311"
+  },
+  {
+    "candidate_id": "site_0026",
+    "median_probability": "68.8146114349365",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      834445.16718,
+      3307341.0506,
+      835635.16718,
+      3308531.0506
+    ],
+    "review_square_side_m": 1190.0,
+    "display_pixel_size_m": 1.4875,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0026_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0026_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0026_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0026_MSRM.png",
+        "scale_path": "imgs/review_images/site_0026_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.09402254223823547,
+        "vmax": 0.11153189837932587,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0026_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0026_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.100233554840088,
+        "vmax": 1.3579518795013428,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.856501140084355, 72.46774664478818"
+  },
+  {
+    "candidate_id": "site_0022",
+    "median_probability": "70.12081742286679",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      888495.71613,
+      3338049.933,
+      889635.71613,
+      3339189.933
+    ],
+    "review_square_side_m": 1140.0,
+    "display_pixel_size_m": 1.425,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0022_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0022_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0022_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0022_MSRM.png",
+        "scale_path": "imgs/review_images/site_0022_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.14712826907634735,
+        "vmax": 0.1448134332895279,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0022_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0022_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.2523869276046753,
+        "vmax": 1.4732459783554077,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=30.116866374878324, 73.03702599526817"
+  },
+  {
+    "candidate_id": "site_0180",
+    "median_probability": "82.002180814743",
+    "median_probability_category": "Very High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      721798.79714,
+      3575227.1061,
+      723098.79714,
+      3576527.1061
+    ],
+    "review_square_side_m": 1300.0,
+    "display_pixel_size_m": 1.625,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0180_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0180_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0180_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0180_MSRM.png",
+        "scale_path": "imgs/review_images/site_0180_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.3991152048110962,
+        "vmax": 0.3942912817001343,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0180_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0180_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.1005302667617798,
+        "vmax": 1.341720461845398,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=32.29762397232688, 71.3624430313122"
+  },
+  {
+    "candidate_id": "site_0009",
+    "median_probability": "74.7783780097961",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      765636.03013,
+      3274770.33595,
+      766776.03013,
+      3275910.33595
+    ],
+    "review_square_side_m": 1140.0,
+    "display_pixel_size_m": 1.425,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0009_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0009_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0009_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0009_MSRM.png",
+        "scale_path": "imgs/review_images/site_0009_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.21272975206375122,
+        "vmax": 0.2508005201816559,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0009_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0009_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.084101915359497,
+        "vmax": 1.3050928115844727,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.579458961886132, 71.74804899420701"
+  },
+  {
+    "candidate_id": "site_0031",
+    "median_probability": "65.3297662734985",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      773191.0301295605,
+      3289075.629790552,
+      774271.0301295605,
+      3290155.629790552
+    ],
+    "review_square_side_m": 1080.0,
+    "display_pixel_size_m": 1.35,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0031_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0031_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0031_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0031_MSRM.png",
+        "scale_path": "imgs/review_images/site_0031_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.10776875913143158,
+        "vmax": 0.11041617393493652,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0031_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0031_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.091223955154419,
+        "vmax": 1.3155815601348877,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.70650752217662, 71.82925037836745"
+  },
+  {
+    "candidate_id": "site_0121",
+    "median_probability": "79.65988516807559",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      1080790.0698936526,
+      3428034.6921289405,
+      1081860.0698936526,
+      3429104.6921289405
+    ],
+    "review_square_side_m": 1070.0,
+    "display_pixel_size_m": 1.3375,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0121_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0121_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0121_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0121_MSRM.png",
+        "scale_path": "imgs/review_images/site_0121_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.08198994398117065,
+        "vmax": 0.10558366775512695,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0121_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0121_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0554466247558594,
+        "vmax": 1.2213656902313232,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=30.847776846684194, 75.07426925997596"
+  },
+  {
+    "candidate_id": "site_0177",
+    "median_probability": "79.11114692687991",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      960348.23121,
+      3540737.27617,
+      961538.23121,
+      3541927.27617
+    ],
+    "review_square_side_m": 1190.0,
+    "display_pixel_size_m": 1.4875,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0177_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0177_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0177_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0177_MSRM.png",
+        "scale_path": "imgs/review_images/site_0177_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.19227033853530884,
+        "vmax": 0.1841672658920288,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0177_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0177_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.1858956813812256,
+        "vmax": 1.355132818222046,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=31.914463340492762, 73.87288198705873"
+  },
+  {
+    "candidate_id": "site_0169",
+    "median_probability": "71.0591614246368",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      951142.4329560194,
+      3479826.32687057,
+      952262.4329560194,
+      3480946.32687057
+    ],
+    "review_square_side_m": 1120.0,
+    "display_pixel_size_m": 1.4,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0169_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0169_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0169_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0169_MSRM.png",
+        "scale_path": "imgs/review_images/site_0169_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.14057669043540955,
+        "vmax": 0.141810804605484,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0169_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0169_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.1958692073822021,
+        "vmax": 1.3375494480133057,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=31.370200693504575, 73.74749295632532"
+  },
+  {
+    "candidate_id": "site_0000",
+    "median_probability": "90.4400706291199",
+    "median_probability_category": "Very High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      1134406.21614,
+      3286733.37237,
+      1135696.21614,
+      3288023.37237
+    ],
+    "review_square_side_m": 1290.0,
+    "display_pixel_size_m": 1.6125,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0000_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0000_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0000_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0000_MSRM.png",
+        "scale_path": "imgs/review_images/site_0000_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.18612881004810333,
+        "vmax": 0.15938349068164825,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0000_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0000_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0432791709899902,
+        "vmax": 1.2720584869384766,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.55456843853585, 75.54796513658867"
+  },
+  {
+    "candidate_id": "site_0067",
+    "median_probability": "80.0919830799103",
+    "median_probability_category": "Very High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      803724.22095,
+      3227493.11925,
+      805134.22095,
+      3228903.11925
+    ],
+    "review_square_side_m": 1410.0,
+    "display_pixel_size_m": 1.7625,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0067_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0067_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0067_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0067_MSRM.png",
+        "scale_path": "imgs/review_images/site_0067_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.1751122623682022,
+        "vmax": 0.19676347076892853,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0067_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0067_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0161408185958862,
+        "vmax": 1.1200729608535767,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.145868868667115, 72.12913974940896"
+  },
+  {
+    "candidate_id": "site_0201",
+    "median_probability": "68.8128292560577",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      1085690.0698936526,
+      3433619.4795319242,
+      1086810.0698936526,
+      3434739.4795319242
+    ],
+    "review_square_side_m": 1120.0,
+    "display_pixel_size_m": 1.4,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0201_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0201_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0201_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0201_MSRM.png",
+        "scale_path": "imgs/review_images/site_0201_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.22407756745815277,
+        "vmax": 0.25251156091690063,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0201_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0201_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.078951358795166,
+        "vmax": 1.2973029613494873,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=30.89568463655717, 75.12869715659427"
+  },
+  {
+    "candidate_id": "site_0090",
+    "median_probability": "68.45678687095639",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      786398.8954041072,
+      3298802.720605809,
+      787528.8954041072,
+      3299932.720605809
+    ],
+    "review_square_side_m": 1130.0,
+    "display_pixel_size_m": 1.4125,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0090_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0090_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0090_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0090_MSRM.png",
+        "scale_path": "imgs/review_images/site_0090_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.08289013057947159,
+        "vmax": 0.06513255089521408,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0090_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0090_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.3359812498092651,
+        "vmax": 1.5883833169937134,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.791409671419512, 71.96846499631259"
+  },
+  {
+    "candidate_id": "site_0074",
+    "median_probability": "73.1305718421936",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      922909.71046,
+      3534386.64862,
+      924099.71046,
+      3535576.64862
+    ],
+    "review_square_side_m": 1190.0,
+    "display_pixel_size_m": 1.4875,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0074_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0074_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0074_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0074_MSRM.png",
+        "scale_path": "imgs/review_images/site_0074_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.1893361359834671,
+        "vmax": 0.1978086680173874,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0074_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0074_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0995270013809204,
+        "vmax": 1.2891279458999634,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=31.871901938595236, 73.47540837844834"
+  },
+  {
+    "candidate_id": "site_0141",
+    "median_probability": "82.472962141037",
+    "median_probability_category": "Very High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      783291.9484,
+      3232913.99531,
+      784671.9484,
+      3234293.99531
+    ],
+    "review_square_side_m": 1380.0,
+    "display_pixel_size_m": 1.725,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0141_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0141_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0141_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0141_MSRM.png",
+        "scale_path": "imgs/review_images/site_0141_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.1950635313987732,
+        "vmax": 0.20428818464279175,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0141_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0141_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0824345350265503,
+        "vmax": 1.3591614961624146,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.19933965608153, 71.9205825610967"
+  },
+  {
+    "candidate_id": "site_0131",
+    "median_probability": "75.70928335189821",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      1167622.34641,
+      3219256.09806,
+      1168862.34641,
+      3220496.09806
+    ],
+    "review_square_side_m": 1240.0,
+    "display_pixel_size_m": 1.55,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0131_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0131_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0131_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0131_MSRM.png",
+        "scale_path": "imgs/review_images/site_0131_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.3139895796775818,
+        "vmax": 0.31543493270874023,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0131_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0131_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0705406665802002,
+        "vmax": 1.16058349609375,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=28.932423891145334, 75.84762202670565"
+  },
+  {
+    "candidate_id": "site_0050",
+    "median_probability": "72.0567643642426",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      952779.62937,
+      3243972.2869,
+      953929.62937,
+      3245122.2869
+    ],
+    "review_square_side_m": 1150.0,
+    "display_pixel_size_m": 1.4375,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0050_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0050_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0050_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0050_MSRM.png",
+        "scale_path": "imgs/review_images/site_0050_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.4104704260826111,
+        "vmax": 0.357502281665802,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0050_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0050_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.068261981010437,
+        "vmax": 1.131754755973816,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.248526635915, 73.66306331305644"
+  },
+  {
+    "candidate_id": "site_0078",
+    "median_probability": "82.4615776538849",
+    "median_probability_category": "Very High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      850213.85528,
+      3317331.38501,
+      851533.85528,
+      3318651.38501
+    ],
+    "review_square_side_m": 1320.0,
+    "display_pixel_size_m": 1.65,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0078_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0078_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0078_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0078_MSRM.png",
+        "scale_path": "imgs/review_images/site_0078_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.1901809275150299,
+        "vmax": 0.17561274766921997,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0078_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0078_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.207362174987793,
+        "vmax": 1.4494638442993164,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.94266095240395, 72.63465020224555"
+  },
+  {
+    "candidate_id": "site_0030",
+    "median_probability": "65.5637323856354",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      773101.0301295605,
+      3289115.629790552,
+      774161.0301295605,
+      3290175.629790552
+    ],
+    "review_square_side_m": 1060.0,
+    "display_pixel_size_m": 1.325,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0030_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0030_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0030_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0030_MSRM.png",
+        "scale_path": "imgs/review_images/site_0030_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.1030561551451683,
+        "vmax": 0.1047576293349266,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0030_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0030_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.098709225654602,
+        "vmax": 1.3225291967391968,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.706800014749245, 71.82822542340342"
+  },
+  {
+    "candidate_id": "site_0054",
+    "median_probability": "82.75277018547061",
+    "median_probability_category": "Very High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      945749.62937,
+      3242362.2869,
+      947559.62937,
+      3244172.2869
+    ],
+    "review_square_side_m": 1810.0,
+    "display_pixel_size_m": 2.2625,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0054_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0054_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0054_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0054_MSRM.png",
+        "scale_path": "imgs/review_images/site_0054_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.4414243996143341,
+        "vmax": 0.448812872171402,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0054_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0054_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.062869668006897,
+        "vmax": 1.1916590929031372,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.239395475906743, 73.59381866452297"
+  },
+  {
+    "candidate_id": "site_0007",
+    "median_probability": "68.6163306236267",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      786572.0162607699,
+      3215594.3449159474,
+      787712.0162607699,
+      3216734.3449159474
+    ],
+    "review_square_side_m": 1140.0,
+    "display_pixel_size_m": 1.425,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0007_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0007_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0007_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0007_MSRM.png",
+        "scale_path": "imgs/review_images/site_0007_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.2195195108652115,
+        "vmax": 0.22097529470920563,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0007_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0007_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.068679928779602,
+        "vmax": 1.1238287687301636,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.041429383044868, 71.94855566131544"
+  },
+  {
+    "candidate_id": "site_0052",
+    "median_probability": "92.5434589385986",
+    "median_probability_category": "Very High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      951614.62937,
+      3243597.2869,
+      953284.62937,
+      3245267.2869
+    ],
+    "review_square_side_m": 1670.0,
+    "display_pixel_size_m": 2.0875,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0052_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0052_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0052_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0052_MSRM.png",
+        "scale_path": "imgs/review_images/site_0052_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.39805686473846436,
+        "vmax": 0.41244959831237793,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0052_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0052_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0602933168411255,
+        "vmax": 1.138128399848938,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.247816206716394, 73.65373330427522"
+  },
+  {
+    "candidate_id": "site_0087",
+    "median_probability": "67.6346063613892",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      785398.8954,
+      3288002.72061,
+      786548.8954,
+      3289152.72061
+    ],
+    "review_square_side_m": 1150.0,
+    "display_pixel_size_m": 1.4375,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0087_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0087_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0087_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0087_MSRM.png",
+        "scale_path": "imgs/review_images/site_0087_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.13199007511138916,
+        "vmax": 0.12263085693120956,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0087_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0087_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.262462854385376,
+        "vmax": 1.5356676578521729,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.69438995330915, 71.95537980594486"
+  },
+  {
+    "candidate_id": "site_0002",
+    "median_probability": "85.1599931716919",
+    "median_probability_category": "Very High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      1138818.60436,
+      3267152.65818,
+      1140148.60436,
+      3268482.65818
+    ],
+    "review_square_side_m": 1330.0,
+    "display_pixel_size_m": 1.6625,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0002_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0002_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0002_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0002_MSRM.png",
+        "scale_path": "imgs/review_images/site_0002_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.21933594346046448,
+        "vmax": 0.18167906999588013,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0002_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0002_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.1558111906051636,
+        "vmax": 1.3801909685134888,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.376938606884394, 75.58203176884993"
+  },
+  {
+    "candidate_id": "site_0039",
+    "median_probability": "67.1005666255951",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      1076893.0234616883,
+      3278223.0934357992,
+      1077993.0234616883,
+      3279323.0934357992
+    ],
+    "review_square_side_m": 1100.0,
+    "display_pixel_size_m": 1.375,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0039_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0039_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0039_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0039_MSRM.png",
+        "scale_path": "imgs/review_images/site_0039_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.2954869270324707,
+        "vmax": 0.31551700830459595,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0039_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0039_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0994153022766113,
+        "vmax": 1.2979998588562012,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.505267228514022, 74.95223040525555"
+  },
+  {
+    "candidate_id": "site_0100",
+    "median_probability": "65.98103046417239",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      1033133.25676,
+      3245571.49889,
+      1034273.25676,
+      3246711.49889
+    ],
+    "review_square_side_m": 1140.0,
+    "display_pixel_size_m": 1.425,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0100_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0100_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0100_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0100_MSRM.png",
+        "scale_path": "imgs/review_images/site_0100_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.4098714292049408,
+        "vmax": 0.5229266285896301,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0100_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0100_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0759581327438354,
+        "vmax": 1.1494594812393188,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.231520685606256, 74.4873666001453"
+  },
+  {
+    "candidate_id": "site_0148",
+    "median_probability": "75.2982199192047",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      833422.62104,
+      3232037.96047,
+      834542.62104,
+      3233157.96047
+    ],
+    "review_square_side_m": 1120.0,
+    "display_pixel_size_m": 1.4,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0148_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0148_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0148_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0148_MSRM.png",
+        "scale_path": "imgs/review_images/site_0148_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.44001805782318115,
+        "vmax": 0.460645854473114,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0148_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0148_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0528631210327148,
+        "vmax": 1.1951944828033447,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.178075177808086, 72.43379950910438"
+  },
+  {
+    "candidate_id": "site_0056",
+    "median_probability": "97.6212799549103",
+    "median_probability_category": "Very High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      781918.55847,
+      3301852.72061,
+      783458.55847,
+      3303392.72061
+    ],
+    "review_square_side_m": 1540.0,
+    "display_pixel_size_m": 1.925,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0056_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0056_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0056_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0056_MSRM.png",
+        "scale_path": "imgs/review_images/site_0056_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.16021060943603516,
+        "vmax": 0.154203861951828,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0056_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0056_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.1596143245697021,
+        "vmax": 1.3748846054077148,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.821732597549257, 71.92514198000073"
+  },
+  {
+    "candidate_id": "site_0152",
+    "median_probability": "83.0803513526917",
+    "median_probability_category": "Very High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      833502.6210377591,
+      3231832.960469837,
+      834522.6210377591,
+      3232852.960469837
+    ],
+    "review_square_side_m": 1020.0,
+    "display_pixel_size_m": 1.275,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0152_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0152_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0152_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0152_MSRM.png",
+        "scale_path": "imgs/review_images/site_0152_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.46910256147384644,
+        "vmax": 0.5082749724388123,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0152_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0152_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0512745380401611,
+        "vmax": 1.1706335544586182,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.175769865645936, 72.43403090924386"
+  },
+  {
+    "candidate_id": "site_0019",
+    "median_probability": "93.1711971759796",
+    "median_probability_category": "Very High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      883823.64383,
+      3338801.00337,
+      885263.64383,
+      3340241.00337
+    ],
+    "review_square_side_m": 1440.0,
+    "display_pixel_size_m": 1.8,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0019_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0019_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0019_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0019_MSRM.png",
+        "scale_path": "imgs/review_images/site_0019_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.1633119285106659,
+        "vmax": 0.1656118929386139,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0019_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0019_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.2056353092193604,
+        "vmax": 1.4519429206848145,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=30.126411494446337, 72.99052651986226"
+  },
+  {
+    "candidate_id": "site_0099",
+    "median_probability": "72.3098754882812",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      1037208.25676,
+      3246961.49889,
+      1038668.25676,
+      3248421.49889
+    ],
+    "review_square_side_m": 1460.0,
+    "display_pixel_size_m": 1.825,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0099_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0099_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0099_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0099_MSRM.png",
+        "scale_path": "imgs/review_images/site_0099_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.3508118987083435,
+        "vmax": 0.4007101058959961,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0099_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0099_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.1019368171691895,
+        "vmax": 1.2015540599822998,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.243653035083383, 74.53149303085736"
+  },
+  {
+    "candidate_id": "site_0206",
+    "median_probability": "78.3788800239563",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      819186.53311,
+      3517999.96085,
+      820466.53311,
+      3519279.96085
+    ],
+    "review_square_side_m": 1280.0,
+    "display_pixel_size_m": 1.6,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0206_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0206_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0206_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0206_MSRM.png",
+        "scale_path": "imgs/review_images/site_0206_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.11604821681976318,
+        "vmax": 0.10372315347194672,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0206_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0206_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.1192166805267334,
+        "vmax": 1.4538209438323975,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=31.75857911638181, 72.37631084273475"
+  },
+  {
+    "candidate_id": "site_0020",
+    "median_probability": "86.5707457065582",
+    "median_probability_category": "Very High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      1150184.75387,
+      3269697.65818,
+      1151434.75387,
+      3270947.65818
+    ],
+    "review_square_side_m": 1250.0,
+    "display_pixel_size_m": 1.5625,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0020_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0020_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0020_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0020_MSRM.png",
+        "scale_path": "imgs/review_images/site_0020_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.324441522359848,
+        "vmax": 0.3190767467021942,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0020_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0020_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.1130939722061157,
+        "vmax": 1.262689232826233,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.39359436998106, 75.69943093573625"
+  },
+  {
+    "candidate_id": "site_0046",
+    "median_probability": "86.9899988174438",
+    "median_probability_category": "Very High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      951044.62937,
+      3245842.2869,
+      952584.62937,
+      3247382.2869
+    ],
+    "review_square_side_m": 1540.0,
+    "display_pixel_size_m": 1.925,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0046_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0046_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0046_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0046_MSRM.png",
+        "scale_path": "imgs/review_images/site_0046_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.35604241490364075,
+        "vmax": 0.3717658221721649,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0046_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0046_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.046609878540039,
+        "vmax": 1.139237642288208,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.267654163637502, 73.64810832800067"
+  },
+  {
+    "candidate_id": "site_0129",
+    "median_probability": "65.19973874092099",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      778808.5584748546,
+      3289817.720605809,
+      779858.5584748546,
+      3290867.720605809
+    ],
+    "review_square_side_m": 1050.0,
+    "display_pixel_size_m": 1.3125,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0129_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0129_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0129_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0129_MSRM.png",
+        "scale_path": "imgs/review_images/site_0129_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.14480862021446228,
+        "vmax": 0.1368197202682495,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0129_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0129_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0889525413513184,
+        "vmax": 1.5295383930206299,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.711811753155725, 71.88728444373582"
+  },
+  {
+    "candidate_id": "site_0085",
+    "median_probability": "71.3699758052826",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      790013.8954,
+      3293447.72061,
+      791223.8954,
+      3294657.72061
+    ],
+    "review_square_side_m": 1210.0,
+    "display_pixel_size_m": 1.5125,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0085_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0085_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0085_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0085_MSRM.png",
+        "scale_path": "imgs/review_images/site_0085_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.10130792111158371,
+        "vmax": 0.11146502941846848,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0085_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0085_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.2871286869049072,
+        "vmax": 1.5591304302215576,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.742654284690474, 72.00479943290291"
+  },
+  {
+    "candidate_id": "site_0105",
+    "median_probability": "75.25149583816531",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      1040567.46754,
+      3363372.09298,
+      1041817.46754,
+      3364622.09298
+    ],
+    "review_square_side_m": 1250.0,
+    "display_pixel_size_m": 1.5625,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0105_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0105_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0105_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0105_MSRM.png",
+        "scale_path": "imgs/review_images/site_0105_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.24839478731155396,
+        "vmax": 0.2649608254432678,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0105_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0105_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0692788362503052,
+        "vmax": 1.2829593420028687,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=30.286898416283613, 74.62304575278986"
+  },
+  {
+    "candidate_id": "site_0097",
+    "median_probability": "92.16720461845401",
+    "median_probability_category": "Very High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      1031888.25676,
+      3248361.49889,
+      1033468.25676,
+      3249941.49889
+    ],
+    "review_square_side_m": 1580.0,
+    "display_pixel_size_m": 1.975,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0097_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0097_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0097_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0097_MSRM.png",
+        "scale_path": "imgs/review_images/site_0097_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.3615231513977051,
+        "vmax": 0.4012793302536011,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0097_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0097_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0676575899124146,
+        "vmax": 1.2183758020401,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.25899489192112, 74.47831244138338"
+  },
+  {
+    "candidate_id": "site_0137",
+    "median_probability": "65.4257297515869",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      1161702.3464139786,
+      3224049.597373102,
+      1162752.3464139786,
+      3225099.597373102
+    ],
+    "review_square_side_m": 1050.0,
+    "display_pixel_size_m": 1.3125,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0137_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0137_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0137_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0137_MSRM.png",
+        "scale_path": "imgs/review_images/site_0137_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.42771047353744507,
+        "vmax": 0.3734198808670044,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0137_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0137_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.037784218788147,
+        "vmax": 1.1598883867263794,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=28.977652132557647, 75.78910282330622"
+  },
+  {
+    "candidate_id": "site_0191",
+    "median_probability": "87.09925413131711",
+    "median_probability_category": "Very High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      723359.03054,
+      3238146.79247,
+      724629.03054,
+      3239416.79247
+    ],
+    "review_square_side_m": 1270.0,
+    "display_pixel_size_m": 1.5875,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0191_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0191_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0191_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0191_MSRM.png",
+        "scale_path": "imgs/review_images/site_0191_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.18361109495162964,
+        "vmax": 0.1896374523639679,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0191_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0191_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.207356572151184,
+        "vmax": 1.3857463598251343,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.25807604992458, 71.3051578480531"
+  },
+  {
+    "candidate_id": "site_0157",
+    "median_probability": "72.15068340301511",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      861740.20004,
+      3273776.56389,
+      862980.20004,
+      3275016.56389
+    ],
+    "review_square_side_m": 1240.0,
+    "display_pixel_size_m": 1.55,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0157_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0157_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0157_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0157_MSRM.png",
+        "scale_path": "imgs/review_images/site_0157_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.17681942880153656,
+        "vmax": 0.18009217083454132,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0157_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0157_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.082885503768921,
+        "vmax": 1.2798826694488525,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.546729777156028, 72.7388118415739"
+  },
+  {
+    "candidate_id": "site_0035",
+    "median_probability": "74.6795296669006",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      709327.32916,
+      3336171.17234,
+      710597.32916,
+      3337441.17234
+    ],
+    "review_square_side_m": 1270.0,
+    "display_pixel_size_m": 1.5875,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0035_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0035_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0035_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0035_MSRM.png",
+        "scale_path": "imgs/review_images/site_0035_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.4981454014778137,
+        "vmax": 0.49820733070373535,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0035_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0035_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.062010407447815,
+        "vmax": 1.1809290647506714,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=30.144522524695297, 71.17985887701825"
+  },
+  {
+    "candidate_id": "site_0161",
+    "median_probability": "78.205668926239",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      856060.20004,
+      3267546.56389,
+      857480.20004,
+      3268966.56389
+    ],
+    "review_square_side_m": 1420.0,
+    "display_pixel_size_m": 1.775,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0161_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0161_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0161_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0161_MSRM.png",
+        "scale_path": "imgs/review_images/site_0161_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.15176744759082794,
+        "vmax": 0.15583424270153046,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0161_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0161_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0627866983413696,
+        "vmax": 1.2413262128829956,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.49303924968163, 72.67923035664502"
+  },
+  {
+    "candidate_id": "site_0115",
+    "median_probability": "73.892480134964",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      901681.37447,
+      3358172.74356,
+      902911.37447,
+      3359402.74356
+    ],
+    "review_square_side_m": 1230.0,
+    "display_pixel_size_m": 1.5375,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0115_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0115_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0115_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0115_MSRM.png",
+        "scale_path": "imgs/review_images/site_0115_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.15153801441192627,
+        "vmax": 0.14514893293380737,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0115_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0115_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.2498054504394531,
+        "vmax": 1.492544174194336,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=30.2940929550401, 73.18168962969258"
+  },
+  {
+    "candidate_id": "site_0162",
+    "median_probability": "67.649507522583",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      860620.20004,
+      3267236.56389,
+      861800.20004,
+      3268416.56389
+    ],
+    "review_square_side_m": 1180.0,
+    "display_pixel_size_m": 1.475,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0162_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0162_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0162_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0162_MSRM.png",
+        "scale_path": "imgs/review_images/site_0162_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.1364292949438095,
+        "vmax": 0.13382084667682648,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0162_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0162_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.1333204507827759,
+        "vmax": 1.307181477546692,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.487892802886318, 72.72479656194892"
+  },
+  {
+    "candidate_id": "site_0168",
+    "median_probability": "69.3783760070801",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      945572.4329560194,
+      3487381.32687057,
+      946692.4329560194,
+      3488501.32687057
+    ],
+    "review_square_side_m": 1120.0,
+    "display_pixel_size_m": 1.4,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0168_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0168_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0168_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0168_MSRM.png",
+        "scale_path": "imgs/review_images/site_0168_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.36823663115501404,
+        "vmax": 0.3718712031841278,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0168_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0168_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.123315691947937,
+        "vmax": 1.35663902759552,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=31.44028979401737, 73.69250562793047"
+  },
+  {
+    "candidate_id": "site_0003",
+    "median_probability": "92.340612411499",
+    "median_probability_category": "Very High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      796171.85371,
+      3230083.11925,
+      797671.85371,
+      3231583.11925
+    ],
+    "review_square_side_m": 1500.0,
+    "display_pixel_size_m": 1.875,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0003_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0003_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0003_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0003_MSRM.png",
+        "scale_path": "imgs/review_images/site_0003_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.08616070449352264,
+        "vmax": 0.08519023656845093,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0003_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0003_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0315804481506348,
+        "vmax": 1.1317377090454102,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.171397177170793, 72.05276842908012"
+  },
+  {
+    "candidate_id": "site_0037",
+    "median_probability": "69.17708516120909",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      711997.3291565176,
+      3335311.1723379223,
+      713107.3291565176,
+      3336421.1723379223
+    ],
+    "review_square_side_m": 1110.0,
+    "display_pixel_size_m": 1.3875,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0037_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0037_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0037_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0037_MSRM.png",
+        "scale_path": "imgs/review_images/site_0037_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.4207935035228729,
+        "vmax": 0.4332934319972992,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0037_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0037_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.027589201927185,
+        "vmax": 1.1734009981155396,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=30.135596690966214, 71.2065433399003"
+  },
+  {
+    "candidate_id": "site_0049",
+    "median_probability": "85.6202721595764",
+    "median_probability_category": "Very High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      948679.62937,
+      3244482.2869,
+      950209.62937,
+      3246012.2869
+    ],
+    "review_square_side_m": 1530.0,
+    "display_pixel_size_m": 1.9125,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0049_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0049_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0049_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0049_MSRM.png",
+        "scale_path": "imgs/review_images/site_0049_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.33969900012016296,
+        "vmax": 0.3289606273174286,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0049_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0049_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0813783407211304,
+        "vmax": 1.2313929796218872,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.256219705343142, 73.62323897040145"
+  },
+  {
+    "candidate_id": "site_0182",
+    "median_probability": "67.0694828033447",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      1052422.4675429426,
+      3355172.0929802386,
+      1053512.4675429426,
+      3356262.0929802386
+    ],
+    "review_square_side_m": 1090.0,
+    "display_pixel_size_m": 1.3625,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0182_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0182_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0182_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0182_MSRM.png",
+        "scale_path": "imgs/review_images/site_0182_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.27355504035949707,
+        "vmax": 0.30122560262680054,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0182_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0182_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0688061714172363,
+        "vmax": 1.247758388519287,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=30.207246527657496, 74.74054127673324"
+  },
+  {
+    "candidate_id": "site_0163",
+    "median_probability": "81.1245918273926",
+    "median_probability_category": "Very High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      929053.0851,
+      3402562.63576,
+      930413.0851,
+      3403922.63576
+    ],
+    "review_square_side_m": 1360.0,
+    "display_pixel_size_m": 1.7,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0163_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0163_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0163_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0163_MSRM.png",
+        "scale_path": "imgs/review_images/site_0163_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.18220627307891846,
+        "vmax": 0.1768898069858551,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0163_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0163_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.1414076089859009,
+        "vmax": 1.5511661767959595,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=30.684608289002313, 73.48451401772816"
+  },
+  {
+    "candidate_id": "site_0018",
+    "median_probability": "92.8755223751068",
+    "median_probability_category": "Very High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      879618.64383,
+      3343831.00337,
+      880958.64383,
+      3345171.00337
+    ],
+    "review_square_side_m": 1340.0,
+    "display_pixel_size_m": 1.675,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0018_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0018_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0018_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0018_MSRM.png",
+        "scale_path": "imgs/review_images/site_0018_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.17626066505908966,
+        "vmax": 0.18033765256404877,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0018_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0018_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.237365484237671,
+        "vmax": 1.4972856044769287,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=30.172579893255033, 72.9482472885472"
+  },
+  {
+    "candidate_id": "site_0122",
+    "median_probability": "70.4142272472382",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      1080405.0698936526,
+      3427854.6921289405,
+      1081485.0698936526,
+      3428934.6921289405
+    ],
+    "review_square_side_m": 1080.0,
+    "display_pixel_size_m": 1.35,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0122_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0122_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0122_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0122_MSRM.png",
+        "scale_path": "imgs/review_images/site_0122_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.09855516999959946,
+        "vmax": 0.10591530054807663,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0122_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0122_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0582859516143799,
+        "vmax": 1.2375187873840332,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=30.846392623320263, 75.07021822284251"
+  },
+  {
+    "candidate_id": "site_0064",
+    "median_probability": "71.13962769508359",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      840506.71006,
+      3579369.59264,
+      841676.71006,
+      3580539.59264
+    ],
+    "review_square_side_m": 1170.0,
+    "display_pixel_size_m": 1.4625,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0064_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0064_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0064_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0064_MSRM.png",
+        "scale_path": "imgs/review_images/site_0064_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.17001432180404663,
+        "vmax": 0.15773603320121765,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0064_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0064_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.2124193906784058,
+        "vmax": 1.47956120967865,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=32.304499719578104, 72.62212542332395"
+  },
+  {
+    "candidate_id": "site_0080",
+    "median_probability": "74.3262648582458",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      764518.70777,
+      3221997.22903,
+      765738.70777,
+      3223217.22903
+    ],
+    "review_square_side_m": 1220.0,
+    "display_pixel_size_m": 1.525,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0080_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0080_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0080_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0080_MSRM.png",
+        "scale_path": "imgs/review_images/site_0080_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.14132468402385712,
+        "vmax": 0.14258427917957306,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0080_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0080_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.2196259498596191,
+        "vmax": 1.4333155155181885,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.104288050047895, 71.72425732169874"
+  },
+  {
+    "candidate_id": "site_0198",
+    "median_probability": "71.2970614433289",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      774868.70777,
+      3220989.60397,
+      775998.70777,
+      3222119.60397
+    ],
+    "review_square_side_m": 1130.0,
+    "display_pixel_size_m": 1.4125,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0198_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0198_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0198_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0198_MSRM.png",
+        "scale_path": "imgs/review_images/site_0198_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.1437615305185318,
+        "vmax": 0.15086786448955536,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0198_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0198_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.2064543962478638,
+        "vmax": 1.4335392713546753,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.0926069548739, 71.829778981338"
+  },
+  {
+    "candidate_id": "site_0029",
+    "median_probability": "74.4381129741669",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      773541.03013,
+      3290000.62979,
+      774851.03013,
+      3291310.62979
+    ],
+    "review_square_side_m": 1310.0,
+    "display_pixel_size_m": 1.6375,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0029_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0029_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0029_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0029_MSRM.png",
+        "scale_path": "imgs/review_images/site_0029_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.1526172012090683,
+        "vmax": 0.1596103459596634,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0029_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0029_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.1782091856002808,
+        "vmax": 1.4017137289047241,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.715779245169532, 71.8343151631222"
+  },
+  {
+    "candidate_id": "site_0174",
+    "median_probability": "78.0931115150452",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      865643.12558,
+      3582622.04709,
+      866903.12558,
+      3583882.04709
+    ],
+    "review_square_side_m": 1260.0,
+    "display_pixel_size_m": 1.575,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0174_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0174_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0174_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0174_MSRM.png",
+        "scale_path": "imgs/review_images/site_0174_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.13172905147075653,
+        "vmax": 0.12303738296031952,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0174_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0174_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.208555817604065,
+        "vmax": 1.5583997964859009,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=32.32622728753035, 72.89029117864708"
+  },
+  {
+    "candidate_id": "site_0172",
+    "median_probability": "90.46363830566409",
+    "median_probability_category": "Very High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      931388.0851,
+      3391212.63576,
+      932768.0851,
+      3392592.63576
+    ],
+    "review_square_side_m": 1380.0,
+    "display_pixel_size_m": 1.725,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0172_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0172_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0172_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0172_MSRM.png",
+        "scale_path": "imgs/review_images/site_0172_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.23942121863365173,
+        "vmax": 0.24674749374389648,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0172_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0172_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.2395601272583008,
+        "vmax": 1.5190415382385254,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=30.581750021337665, 73.5041841067503"
+  },
+  {
+    "candidate_id": "site_0025",
+    "median_probability": "73.60665202140811",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      836330.16718,
+      3307486.0506,
+      837740.16718,
+      3308896.0506
+    ],
+    "review_square_side_m": 1410.0,
+    "display_pixel_size_m": 1.7625,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0025_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0025_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0025_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0025_MSRM.png",
+        "scale_path": "imgs/review_images/site_0025_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.17549705505371094,
+        "vmax": 0.16704928874969482,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0025_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0025_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.1188294887542725,
+        "vmax": 1.324216604232788,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.85825440439688, 72.48844350829945"
+  },
+  {
+    "candidate_id": "site_0199",
+    "median_probability": "87.9127979278564",
+    "median_probability_category": "Very High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      776938.70777,
+      3218369.60397,
+      778278.70777,
+      3219709.60397
+    ],
+    "review_square_side_m": 1340.0,
+    "display_pixel_size_m": 1.675,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0199_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0199_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0199_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0199_MSRM.png",
+        "scale_path": "imgs/review_images/site_0199_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.20205016434192657,
+        "vmax": 0.20978815853595734,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0199_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0199_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0878404378890991,
+        "vmax": 1.3531864881515503,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.06946203277438, 71.85147701412427"
+  },
+  {
+    "candidate_id": "site_0134",
+    "median_probability": "69.3833529949188",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      1156151.434972825,
+      3286316.5718067535,
+      1157291.434972825,
+      3287456.5718067535
+    ],
+    "review_square_side_m": 1140.0,
+    "display_pixel_size_m": 1.425,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0134_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0134_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0134_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0134_MSRM.png",
+        "scale_path": "imgs/review_images/site_0134_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.2887313663959503,
+        "vmax": 0.2767055928707123,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0134_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0134_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.1285369396209717,
+        "vmax": 1.3192002773284912,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.538975826833063, 75.76983434644194"
+  },
+  {
+    "candidate_id": "site_0073",
+    "median_probability": "83.1581473350525",
+    "median_probability_category": "Very High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      893881.9499,
+      3328093.82121,
+      895201.9499,
+      3329413.82121
+    ],
+    "review_square_side_m": 1320.0,
+    "display_pixel_size_m": 1.65,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0073_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0073_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0073_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0073_MSRM.png",
+        "scale_path": "imgs/review_images/site_0073_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.17889049649238586,
+        "vmax": 0.1772831678390503,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0073_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0073_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0397230386734009,
+        "vmax": 1.2037423849105835,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=30.026299356692192, 73.09006782486539"
+  },
+  {
+    "candidate_id": "site_0070",
+    "median_probability": "80.852735042572",
+    "median_probability_category": "Very High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      885833.64383,
+      3336583.82121,
+      887153.64383,
+      3337903.82121
+    ],
+    "review_square_side_m": 1320.0,
+    "display_pixel_size_m": 1.65,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0070_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0070_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0070_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0070_MSRM.png",
+        "scale_path": "imgs/review_images/site_0070_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.132404163479805,
+        "vmax": 0.1322527676820755,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0070_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0070_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.2744094133377075,
+        "vmax": 1.491961121559143,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=30.105295477324503, 73.00989140033562"
+  },
+  {
+    "candidate_id": "site_0187",
+    "median_probability": "80.8519184589386",
+    "median_probability_category": "Very High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      723924.03054,
+      3239006.79247,
+      725644.03054,
+      3240726.79247
+    ],
+    "review_square_side_m": 1720.0,
+    "display_pixel_size_m": 2.15,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0187_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0187_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0187_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0187_MSRM.png",
+        "scale_path": "imgs/review_images/site_0187_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.157556414604187,
+        "vmax": 0.15881770849227905,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0187_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0187_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.1481106281280518,
+        "vmax": 1.3960156440734863,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.267720368752222, 71.31350273707872"
+  },
+  {
+    "candidate_id": "site_0118",
+    "median_probability": "73.1654286384583",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      1035201.34091,
+      3467608.96371,
+      1036321.34091,
+      3468728.96371
+    ],
+    "review_square_side_m": 1120.0,
+    "display_pixel_size_m": 1.4,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0118_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0118_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0118_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0118_MSRM.png",
+        "scale_path": "imgs/review_images/site_0118_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.21931464970111847,
+        "vmax": 0.24682267010211945,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0118_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0118_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.1230072975158691,
+        "vmax": 1.3442628383636475,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=31.22481717663134, 74.62110169238171"
+  },
+  {
+    "candidate_id": "site_0156",
+    "median_probability": "76.323276758194",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      860800.20004,
+      3274486.56389,
+      862230.20004,
+      3275916.56389
+    ],
+    "review_square_side_m": 1430.0,
+    "display_pixel_size_m": 1.7875,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0156_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0156_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0156_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0156_MSRM.png",
+        "scale_path": "imgs/review_images/site_0156_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.1713670939207077,
+        "vmax": 0.16017146408557892,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0156_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0156_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.1289983987808228,
+        "vmax": 1.3256422281265259,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.554224566467823, 72.7303751761126"
+  },
+  {
+    "candidate_id": "site_0096",
+    "median_probability": "77.98994779586789",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      1031153.25676,
+      3249446.49889,
+      1032453.25676,
+      3250746.49889
+    ],
+    "review_square_side_m": 1300.0,
+    "display_pixel_size_m": 1.625,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0096_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0096_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0096_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0096_MSRM.png",
+        "scale_path": "imgs/review_images/site_0096_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.33863526582717896,
+        "vmax": 0.3459101915359497,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0096_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0096_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0980157852172852,
+        "vmax": 1.1847338676452637,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.267853350320415, 74.4698007671365"
+  },
+  {
+    "candidate_id": "site_0170",
+    "median_probability": "86.5969002246857",
+    "median_probability_category": "Very High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      789012.40594,
+      3363226.50379,
+      790332.40594,
+      3364546.50379
+    ],
+    "review_square_side_m": 1320.0,
+    "display_pixel_size_m": 1.65,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0170_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0170_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0170_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0170_MSRM.png",
+        "scale_path": "imgs/review_images/site_0170_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.0927666574716568,
+        "vmax": 0.08807158470153809,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0170_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0170_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.29896080493927,
+        "vmax": 1.6725155115127563,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=30.372223672888286, 72.01404458766656"
+  },
+  {
+    "candidate_id": "site_0089",
+    "median_probability": "66.19249582290651",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      785808.8954041072,
+      3300552.720605809,
+      786918.8954041072,
+      3301662.720605809
+    ],
+    "review_square_side_m": 1110.0,
+    "display_pixel_size_m": 1.3875,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0089_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0089_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0089_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0089_MSRM.png",
+        "scale_path": "imgs/review_images/site_0089_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.12487015128135681,
+        "vmax": 0.11123590171337128,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0089_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0089_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.1660643815994263,
+        "vmax": 1.4018641710281372,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.807231087873497, 71.9627277310941"
+  },
+  {
+    "candidate_id": "site_0176",
+    "median_probability": "67.61435270309451",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      834428.06445,
+      3466056.84566,
+      835558.06445,
+      3467186.84566
+    ],
+    "review_square_side_m": 1130.0,
+    "display_pixel_size_m": 1.4125,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0176_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0176_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0176_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0176_MSRM.png",
+        "scale_path": "imgs/review_images/site_0176_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.1028733178973198,
+        "vmax": 0.11759398132562637,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0176_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0176_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.1201552152633667,
+        "vmax": 1.3281749486923218,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=31.28579658245808, 72.51854196246416"
+  },
+  {
+    "candidate_id": "site_0021",
+    "median_probability": "70.4861462116241",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      771797.72732,
+      3378937.79077,
+      772957.72732,
+      3380097.79077
+    ],
+    "review_square_side_m": 1160.0,
+    "display_pixel_size_m": 1.45,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0021_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0021_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0021_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0021_MSRM.png",
+        "scale_path": "imgs/review_images/site_0021_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.12462399154901505,
+        "vmax": 0.12173540145158768,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0021_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0021_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.2191499471664429,
+        "vmax": 1.4254709482192993,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=30.517132736328378, 71.83836630378894"
+  },
+  {
+    "candidate_id": "site_0008",
+    "median_probability": "68.3444380760193",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      765591.0301295605,
+      3274925.3359528435,
+      766691.0301295605,
+      3276025.3359528435
+    ],
+    "review_square_side_m": 1100.0,
+    "display_pixel_size_m": 1.375,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0008_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0008_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0008_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0008_MSRM.png",
+        "scale_path": "imgs/review_images/site_0008_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.21336621046066284,
+        "vmax": 0.26215672492980957,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0008_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0008_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0849446058273315,
+        "vmax": 1.3089572191238403,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.580689841197945, 71.74741162188543"
+  },
+  {
+    "candidate_id": "site_0120",
+    "median_probability": "86.5264236927032",
+    "median_probability_category": "Very High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      1081685.06989,
+      3428084.69213,
+      1083105.06989,
+      3429504.69213
+    ],
+    "review_square_side_m": 1420.0,
+    "display_pixel_size_m": 1.775,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0120_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0120_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0120_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0120_MSRM.png",
+        "scale_path": "imgs/review_images/site_0120_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.04803328216075897,
+        "vmax": 0.06428495794534683,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0120_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0120_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0634663105010986,
+        "vmax": 1.2328245639801025,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=30.84927124703744, 75.08552440214714"
+  },
+  {
+    "candidate_id": "site_0088",
+    "median_probability": "70.186185836792",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      1083123.02346,
+      3285709.17186,
+      1084253.02346,
+      3286839.17186
+    ],
+    "review_square_side_m": 1130.0,
+    "display_pixel_size_m": 1.4125,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0088_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0088_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0088_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0088_MSRM.png",
+        "scale_path": "imgs/review_images/site_0088_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.20586258172988892,
+        "vmax": 0.20015424489974976,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0088_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0088_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.1071869134902954,
+        "vmax": 1.3344899415969849,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.569697771095026, 75.02031136612483"
+  },
+  {
+    "candidate_id": "site_0167",
+    "median_probability": "65.8024668693542",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      788543.5863199771,
+      3237415.0645810715,
+      789603.5863199771,
+      3238475.0645810715
+    ],
+    "review_square_side_m": 1060.0,
+    "display_pixel_size_m": 1.325,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0167_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0167_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0167_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0167_MSRM.png",
+        "scale_path": "imgs/review_images/site_0167_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.22641167044639587,
+        "vmax": 0.25638648867607117,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0167_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0167_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0204380750656128,
+        "vmax": 1.2417093515396118,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.23731529563957, 71.97402005759051"
+  },
+  {
+    "candidate_id": "site_0178",
+    "median_probability": "65.95531105995181",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      1005422.78739,
+      3417370.58168,
+      1006612.78739,
+      3418560.58168
+    ],
+    "review_square_side_m": 1190.0,
+    "display_pixel_size_m": 1.4875,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0178_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0178_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0178_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0178_MSRM.png",
+        "scale_path": "imgs/review_images/site_0178_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.4363318979740143,
+        "vmax": 0.39403846859931946,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0178_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0178_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0299936532974243,
+        "vmax": 1.299702763557434,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=30.787017849957657, 74.28518821737102"
+  },
+  {
+    "candidate_id": "site_0197",
+    "median_probability": "76.16892457008359",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      777807.68702,
+      3215333.71985,
+      779097.68702,
+      3216623.71985
+    ],
+    "review_square_side_m": 1290.0,
+    "display_pixel_size_m": 1.6125,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0197_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0197_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0197_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0197_MSRM.png",
+        "scale_path": "imgs/review_images/site_0197_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.15704700350761414,
+        "vmax": 0.13495111465454102,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0197_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0197_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0303958654403687,
+        "vmax": 1.1125832796096802,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.041684958883323, 71.85937522582012"
+  },
+  {
+    "candidate_id": "site_0128",
+    "median_probability": "68.3349668979645",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      767880.65837,
+      3239031.65399,
+      769090.65837,
+      3240241.65399
+    ],
+    "review_square_side_m": 1210.0,
+    "display_pixel_size_m": 1.5125,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0128_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0128_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0128_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0128_MSRM.png",
+        "scale_path": "imgs/review_images/site_0128_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.1744822859764099,
+        "vmax": 0.1789519190788269,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0128_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0128_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0649925470352173,
+        "vmax": 1.2631551027297974,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.25710699064477, 71.76283098100345"
+  },
+  {
+    "candidate_id": "site_0165",
+    "median_probability": "81.45074248313901",
+    "median_probability_category": "Very High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      798712.96946,
+      3214481.942,
+      800022.96946,
+      3215791.942
+    ],
+    "review_square_side_m": 1310.0,
+    "display_pixel_size_m": 1.6375,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0165_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0165_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0165_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0165_MSRM.png",
+        "scale_path": "imgs/review_images/site_0165_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.13286033272743225,
+        "vmax": 0.11797783523797989,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0165_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0165_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0592095851898193,
+        "vmax": 1.199730634689331,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.029355533572872, 72.07367859520433"
+  },
+  {
+    "candidate_id": "site_0086",
+    "median_probability": "81.5575182437897",
+    "median_probability_category": "Very High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      788743.8954,
+      3291087.72061,
+      790123.8954,
+      3292467.72061
+    ],
+    "review_square_side_m": 1380.0,
+    "display_pixel_size_m": 1.725,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0086_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0086_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0086_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0086_MSRM.png",
+        "scale_path": "imgs/review_images/site_0086_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.13174307346343994,
+        "vmax": 0.1164536327123642,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0086_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0086_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.320162057876587,
+        "vmax": 1.6052258014678955,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.72242810394564, 71.99195224912911"
+  },
+  {
+    "candidate_id": "site_0132",
+    "median_probability": "68.4060871601105",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      1169082.34641,
+      3214176.09806,
+      1170222.34641,
+      3215316.09806
+    ],
+    "review_square_side_m": 1140.0,
+    "display_pixel_size_m": 1.425,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0132_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0132_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0132_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0132_MSRM.png",
+        "scale_path": "imgs/review_images/site_0132_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.9114574790000916,
+        "vmax": 0.8113986849784851,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0132_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0132_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0498827695846558,
+        "vmax": 1.179958462715149,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=28.8857180350011, 75.85894634337987"
+  },
+  {
+    "candidate_id": "site_0202",
+    "median_probability": "65.6797528266907",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      1271547.9860351796,
+      3306984.215504378,
+      1272597.9860351796,
+      3308034.215504378
+    ],
+    "review_square_side_m": 1050.0,
+    "display_pixel_size_m": 1.3125,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0202_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0202_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0202_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0202_MSRM.png",
+        "scale_path": "imgs/review_images/site_0202_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.18396028876304626,
+        "vmax": 0.1308324933052063,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0202_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0202_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0690197944641113,
+        "vmax": 1.3993496894836426,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.657611781010402, 76.96467471702715"
+  },
+  {
+    "candidate_id": "site_0113",
+    "median_probability": "76.0515153408051",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      922284.71046,
+      3543426.64862,
+      923494.71046,
+      3544636.64862
+    ],
+    "review_square_side_m": 1210.0,
+    "display_pixel_size_m": 1.5125,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0113_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0113_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0113_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0113_MSRM.png",
+        "scale_path": "imgs/review_images/site_0113_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.14583097398281097,
+        "vmax": 0.14872752130031586,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0113_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0113_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0721702575683594,
+        "vmax": 1.3315112590789795,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=31.9535296032865, 73.47287080536299"
+  },
+  {
+    "candidate_id": "site_0143",
+    "median_probability": "73.2707440853119",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      812551.53311,
+      3534334.96085,
+      813721.53311,
+      3535504.96085
+    ],
+    "review_square_side_m": 1170.0,
+    "display_pixel_size_m": 1.4625,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0143_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0143_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0143_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0143_MSRM.png",
+        "scale_path": "imgs/review_images/site_0143_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.10122068226337433,
+        "vmax": 0.09843079745769501,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0143_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0143_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.1709554195404053,
+        "vmax": 1.3986589908599854,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=31.907063986378073, 72.31102509044393"
+  },
+  {
+    "candidate_id": "site_0069",
+    "median_probability": "80.3138375282288",
+    "median_probability_category": "Very High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      1146389.28105,
+      3258918.6664,
+      1147689.28105,
+      3260218.6664
+    ],
+    "review_square_side_m": 1300.0,
+    "display_pixel_size_m": 1.625,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0069_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0069_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0069_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0069_MSRM.png",
+        "scale_path": "imgs/review_images/site_0069_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.13701491057872772,
+        "vmax": 0.13789446651935577,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0069_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0069_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0950335264205933,
+        "vmax": 1.2681540250778198,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.2991342955292, 75.65454104130353"
+  },
+  {
+    "candidate_id": "site_0075",
+    "median_probability": "65.6846404075623",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      921994.7104639327,
+      3534121.6486217757,
+      923044.7104639327,
+      3535171.6486217757
+    ],
+    "review_square_side_m": 1050.0,
+    "display_pixel_size_m": 1.3125,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0075_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0075_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0075_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0075_MSRM.png",
+        "scale_path": "imgs/review_images/site_0075_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.11895308643579483,
+        "vmax": 0.08776604384183884,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0075_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0075_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.116843342781067,
+        "vmax": 1.281617283821106,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=31.869254517975918, 73.46488081149685"
+  },
+  {
+    "candidate_id": "site_0151",
+    "median_probability": "71.0226953029633",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      833552.6210377591,
+      3231872.960469837,
+      834592.6210377591,
+      3232912.960469837
+    ],
+    "review_square_side_m": 1040.0,
+    "display_pixel_size_m": 1.3,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0151_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0151_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0151_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0151_MSRM.png",
+        "scale_path": "imgs/review_images/site_0151_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.4741455614566803,
+        "vmax": 0.490327924489975,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0151_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0151_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0541516542434692,
+        "vmax": 1.1691912412643433,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.176204522261838, 72.4346618784964"
+  },
+  {
+    "candidate_id": "site_0061",
+    "median_probability": "68.5154914855957",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      1093437.5121379215,
+      3285529.1718647047,
+      1094497.5121379215,
+      3286589.1718647047
+    ],
+    "review_square_side_m": 1060.0,
+    "display_pixel_size_m": 1.325,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0061_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0061_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0061_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0061_MSRM.png",
+        "scale_path": "imgs/review_images/site_0061_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.28760480880737305,
+        "vmax": 0.27468782663345337,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0061_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0061_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.1059753894805908,
+        "vmax": 1.2293415069580078,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.562925089893948, 75.12572020195562"
+  },
+  {
+    "candidate_id": "site_0114",
+    "median_probability": "92.9553747177124",
+    "median_probability_category": "Very High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      900931.37447,
+      3362172.74356,
+      902341.37447,
+      3363582.74356
+    ],
+    "review_square_side_m": 1410.0,
+    "display_pixel_size_m": 1.7625,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0114_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0114_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0114_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0114_MSRM.png",
+        "scale_path": "imgs/review_images/site_0114_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.13053639233112335,
+        "vmax": 0.12724639475345612,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0114_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0114_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.252699613571167,
+        "vmax": 1.4550812244415283,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=30.331122401319924, 73.17640791519057"
+  },
+  {
+    "candidate_id": "site_0127",
+    "median_probability": "65.5714452266693",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      1079443.0234616883,
+      3291143.0934357992,
+      1080493.0234616883,
+      3292193.0934357992
+    ],
+    "review_square_side_m": 1050.0,
+    "display_pixel_size_m": 1.3125,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0127_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0127_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0127_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0127_MSRM.png",
+        "scale_path": "imgs/review_images/site_0127_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.21892991662025452,
+        "vmax": 0.20986026525497437,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0127_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0127_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.1062560081481934,
+        "vmax": 1.3438360691070557,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.619844821369707, 74.98498454227466"
+  },
+  {
+    "candidate_id": "site_0159",
+    "median_probability": "69.4949924945831",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      857340.20004,
+      3270591.56389,
+      858630.20004,
+      3271881.56389
+    ],
+    "review_square_side_m": 1290.0,
+    "display_pixel_size_m": 1.6125,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0159_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0159_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0159_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0159_MSRM.png",
+        "scale_path": "imgs/review_images/site_0159_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.18583743274211884,
+        "vmax": 0.20198853313922882,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0159_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0159_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0704506635665894,
+        "vmax": 1.237550139427185,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.51953154855256, 72.6927137799938"
+  },
+  {
+    "candidate_id": "site_0068",
+    "median_probability": "67.3789203166962",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      805439.22095,
+      3225653.11925,
+      806609.22095,
+      3226823.11925
+    ],
+    "review_square_side_m": 1170.0,
+    "display_pixel_size_m": 1.4625,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0068_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0068_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0068_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0068_MSRM.png",
+        "scale_path": "imgs/review_images/site_0068_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.20337162911891937,
+        "vmax": 0.19637568295001984,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0068_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0068_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0484215021133423,
+        "vmax": 1.2277194261550903,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.127821374556483, 72.14497560911258"
+  },
+  {
     "candidate_id": "site_0210",
     "median_probability": "76.2695014476776",
     "median_probability_category": "High",
@@ -11857,6 +11458,405 @@ const candidates = [
       }
     ],
     "google_maps_url": "https://maps.google.com/?q=30.15158918714864, 72.90363988234027"
+  },
+  {
+    "candidate_id": "site_0133",
+    "median_probability": "75.730961561203",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      1171002.34641,
+      3212876.09806,
+      1172232.34641,
+      3214106.09806
+    ],
+    "review_square_side_m": 1230.0,
+    "display_pixel_size_m": 1.5375,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0133_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0133_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0133_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0133_MSRM.png",
+        "scale_path": "imgs/review_images/site_0133_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.3746081590652466,
+        "vmax": 0.3463917374610901,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0133_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0133_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.0587800741195679,
+        "vmax": 1.1817466020584106,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=28.87344738183761, 75.87820899064221"
+  },
+  {
+    "candidate_id": "site_0160",
+    "median_probability": "70.2237188816071",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      863190.20004,
+      3269106.56389,
+      864400.20004,
+      3270316.56389
+    ],
+    "review_square_side_m": 1210.0,
+    "display_pixel_size_m": 1.5125,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0160_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0160_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0160_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0160_MSRM.png",
+        "scale_path": "imgs/review_images/site_0160_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.11033405363559723,
+        "vmax": 0.09872281551361084,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0160_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0160_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.091552495956421,
+        "vmax": 1.2850737571716309,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.504120171996718, 72.7520322665244"
+  },
+  {
+    "candidate_id": "site_0077",
+    "median_probability": "80.2978157997131",
+    "median_probability_category": "Very High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      852828.85528,
+      3320906.38501,
+      854268.85528,
+      3322346.38501
+    ],
+    "review_square_side_m": 1440.0,
+    "display_pixel_size_m": 1.8,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0077_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0077_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0077_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0077_MSRM.png",
+        "scale_path": "imgs/review_images/site_0077_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.14251860976219177,
+        "vmax": 0.14378023147583008,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0077_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0077_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.1523340940475464,
+        "vmax": 1.3972259759902954,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.974631567863884, 72.66351491069467"
+  },
+  {
+    "candidate_id": "site_0013",
+    "median_probability": "75.20936727523801",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      879118.54765,
+      3366688.25158,
+      880308.54765,
+      3367878.25158
+    ],
+    "review_square_side_m": 1190.0,
+    "display_pixel_size_m": 1.4875,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0013_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0013_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0013_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0013_MSRM.png",
+        "scale_path": "imgs/review_images/site_0013_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.1539011001586914,
+        "vmax": 0.15030604600906372,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0013_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0013_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.210710883140564,
+        "vmax": 1.4117573499679565,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=30.377862363798965, 72.95050725674416"
+  },
+  {
+    "candidate_id": "site_0171",
+    "median_probability": "92.3446118831635",
+    "median_probability_category": "Very High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      790277.40594,
+      3354576.50379,
+      791567.40594,
+      3355866.50379
+    ],
+    "review_square_side_m": 1290.0,
+    "display_pixel_size_m": 1.6125,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0171_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0171_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0171_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0171_MSRM.png",
+        "scale_path": "imgs/review_images/site_0171_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.1346956193447113,
+        "vmax": 0.1286270022392273,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0171_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0171_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.2443256378173828,
+        "vmax": 1.4801106452941895,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=30.293838281362113, 72.02463255404192"
+  },
+  {
+    "candidate_id": "site_0154",
+    "median_probability": "71.2407052516937",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      862560.20004,
+      3275906.56389,
+      863790.20004,
+      3277136.56389
+    ],
+    "review_square_side_m": 1230.0,
+    "display_pixel_size_m": 1.5375,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0154_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0154_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0154_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0154_MSRM.png",
+        "scale_path": "imgs/review_images/site_0154_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.16583596169948578,
+        "vmax": 0.1291554719209671,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0154_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0154_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.071605920791626,
+        "vmax": 1.2913780212402344,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.56563040253298, 72.74791325919884"
+  },
+  {
+    "candidate_id": "site_0110",
+    "median_probability": "78.0654788017273",
+    "median_probability_category": "High",
+    "image_size_px": 800,
+    "review_square_bounds": [
+      827390.16718,
+      3311641.9631,
+      828690.16718,
+      3312941.9631
+    ],
+    "review_square_side_m": 1300.0,
+    "display_pixel_size_m": 1.625,
+    "images": [
+      {
+        "name": "rgb",
+        "type": "rgb",
+        "path": "imgs/review_images/site_0110_rgb.png",
+        "bands": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "name": "SAVI (Wet)",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0110_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0110_SAVI (Wet)_scale.png",
+        "band": 23,
+        "vmin": -0.5,
+        "vmax": 0.5,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "MSRM",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0110_MSRM.png",
+        "scale_path": "imgs/review_images/site_0110_MSRM_scale.png",
+        "band": 42,
+        "vmin": -0.1688074767589569,
+        "vmax": 0.16557005047798157,
+        "cmap": "RdYlGn"
+      },
+      {
+        "name": "Clay Mineral Ratio",
+        "type": "colormap",
+        "path": "imgs/review_images/site_0110_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0110_Clay Mineral Ratio_scale.png",
+        "band": 25,
+        "vmin": 1.3350456953048706,
+        "vmax": 1.7003201246261597,
+        "cmap": "RdYlGn"
+      }
+    ],
+    "google_maps_url": "https://maps.google.com/?q=29.897625511638395, 72.39673338733083"
   },
   {
     "candidate_id": "site_0211",
@@ -11916,23 +11916,23 @@ const candidates = [
     "google_maps_url": "https://maps.google.com/?q=29.66401936285985, 75.87604942047182"
   },
   {
-    "candidate_id": "site_0212",
-    "median_probability": "65.7734930515289",
+    "candidate_id": "site_0081",
+    "median_probability": "67.5317823886871",
     "median_probability_category": "High",
     "image_size_px": 800,
     "review_square_bounds": [
-      1035186.3409067481,
-      3455678.963714742,
-      1036246.3409067481,
-      3456738.963714742
+      769268.70777,
+      3215897.22903,
+      770388.70777,
+      3217017.22903
     ],
-    "review_square_side_m": 1060.0,
-    "display_pixel_size_m": 1.325,
+    "review_square_side_m": 1120.0,
+    "display_pixel_size_m": 1.4,
     "images": [
       {
         "name": "rgb",
         "type": "rgb",
-        "path": "imgs/review_images/site_0212_rgb.png",
+        "path": "imgs/review_images/site_0081_rgb.png",
         "bands": [
           2,
           1,
@@ -11942,8 +11942,8 @@ const candidates = [
       {
         "name": "SAVI (Wet)",
         "type": "colormap",
-        "path": "imgs/review_images/site_0212_SAVI (Wet).png",
-        "scale_path": "imgs/review_images/site_0212_SAVI (Wet)_scale.png",
+        "path": "imgs/review_images/site_0081_SAVI (Wet).png",
+        "scale_path": "imgs/review_images/site_0081_SAVI (Wet)_scale.png",
         "band": 23,
         "vmin": -0.5,
         "vmax": 0.5,
@@ -11952,24 +11952,24 @@ const candidates = [
       {
         "name": "MSRM",
         "type": "colormap",
-        "path": "imgs/review_images/site_0212_MSRM.png",
-        "scale_path": "imgs/review_images/site_0212_MSRM_scale.png",
+        "path": "imgs/review_images/site_0081_MSRM.png",
+        "scale_path": "imgs/review_images/site_0081_MSRM_scale.png",
         "band": 42,
-        "vmin": -0.26569607853889465,
-        "vmax": 0.27659931778907776,
+        "vmin": -0.12260664999485016,
+        "vmax": 0.11636331677436829,
         "cmap": "RdYlGn"
       },
       {
         "name": "Clay Mineral Ratio",
         "type": "colormap",
-        "path": "imgs/review_images/site_0212_Clay Mineral Ratio.png",
-        "scale_path": "imgs/review_images/site_0212_Clay Mineral Ratio_scale.png",
+        "path": "imgs/review_images/site_0081_Clay Mineral Ratio.png",
+        "scale_path": "imgs/review_images/site_0081_Clay Mineral Ratio_scale.png",
         "band": 25,
-        "vmin": 1.1771166324615479,
-        "vmax": 1.3983407020568848,
+        "vmin": 1.0709420442581177,
+        "vmax": 1.249106526374817,
         "cmap": "RdYlGn"
       }
     ],
-    "google_maps_url": "https://maps.google.com/?q=31.11744300909669, 74.61427261986123"
+    "google_maps_url": "https://maps.google.com/?q=29.047854792682177, 71.77101961390797"
   }
 ];
