@@ -238,11 +238,40 @@ function exportReviewsToCSV() {
     URL.revokeObjectURL(url);
 }
 
+function resetProgress() {
+    const confirmed = confirm("Are you sure? This will permanetly delete your review progress and start again from the beginning");
+
+    // If no clicked then quit out 
+    if (!confirmed) {
+        return;
+    }
+
+    // Clear locally stored progress
+    localStorage.removeItem(reviewsStorageKey);
+    localStorage.removeItem(currentCandidateIndexKey);
+    localStorage.removeItem(totalNumberKey);
+    localStorage.removeItem(buttonKey);
+
+    // Clear in-memory progress 
+    reviews = [];
+    currentCandidateIndex = 0;
+    pressedButton = 0;
+
+    // Reinitialise page 
+    initialisePage();
+
+    alert("Progress has been rest")
+
+};
+
 // Add event listeners
 reviewerSelect.addEventListener("change", UpdateReviewer)
 exportButton.addEventListener("click", function () {
   exportReviewsToCSV();
 });
+
+document.getElementById("resetProgressBtn").addEventListener("click", resetProgress);
+
 
 document.getElementById("settings_button").addEventListener("click", releaseBalloons);
 
