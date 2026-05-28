@@ -40,7 +40,7 @@ body {
   width: 100%;
 
   /* Responsive height */
-  height: min(40vh, 400px);
+  height: clamp(180px, 32vh, 400px);
 
   object-fit: cover;
   border-radius: 8px;
@@ -166,3 +166,16 @@ body {
     opacity: 0;
   }
 }
+
+.bottom-navbar {
+  flex-shrink: 0;
+  min-height: 44px;
+  padding: 0.25rem 0;
+}
+
+.bottom-navbar .navbar-brand {
+  white-space: normal;
+  text-align: center;
+  font-size: clamp(0.85rem, 1.5vw, 1rem);
+}
+
